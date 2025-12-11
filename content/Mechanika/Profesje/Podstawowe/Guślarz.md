@@ -8,4 +8,4 @@
 **Zdolności:** [[Gusła]], [[Mechanika/Zdolności/Magia prosta]] (gusła)
 **Wyposażenie:** [[Mikstura lecznicza]], płaszcz z kapturem
 **Profesje wstępne:** brak
-**Profesje wyjściowe:** [[Akolita]], [[Banita]], [[Czarownik]], [[Szarlatan]], [[Uczeń Czarodzieja]], [[Włóczykij]]
+**Profesje wyjściowe:** [[Akolita]], [[Banita]], [[Czarownik]], [[Szarlatan]], [[Uczeń Czarodzieja]], [[Włóczykij]], [[Aptekarz]]

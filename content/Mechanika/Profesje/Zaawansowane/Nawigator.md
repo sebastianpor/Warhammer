@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
-**Profesje wyjściowe:** 
+**Profesje wstępne:** [[Astrolog]], 
+**Profesje wyjściowe:** [[Astrolog]]

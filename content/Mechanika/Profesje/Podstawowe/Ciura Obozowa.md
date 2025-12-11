@@ -9,5 +9,4 @@ Liczne wojny z Chaosem, orkami i okolicznymi księstwami powodują, że wojska [
 **Zdolności:** [[Chodu!]], [[Odporność na choroby]] albo [[Obieżyświat]], [[Twardziel]]l albo [[charyzmatyczny]]. [[żyłka handlowa]] albo [[bijatyka]]
 **Wyposażenie:** talizman szczęścia albo narzędzia (rzemieślnika), sakiewka, namiot
 **Profesje wstępne:** [[sługa]], [[śmieciarz]]
-**Profesje wyjściowe:** [[przemytnik]], [[rzemieślnik]], [[sługa]], [[szarlatan]],
-[[szpieg]], [[węglarz]], [[włóczykij]]
+**Profesje wyjściowe:** [[przemytnik]], [[rzemieślnik]], [[sługa]], [[szarlatan]], [[szpieg]], [[węglarz]], [[włóczykij]], [[Bajarz]]

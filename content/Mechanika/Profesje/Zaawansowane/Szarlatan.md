@@ -8,5 +8,5 @@ Szarlatani są prawdziwymi artystami w sztuce oszustwa. To nałogowi kanciarze. 
 **Umiejętności:** [[Charakteryzacja]], [[Gadanina]], [[Hazard]], [[Plotkowanie]], [[Przekonywanie]], [[Sekretny język]] (złodziejski), [[Spostrzegawczość]], [[Targowanie]], [[Wiedza]] ([[Bretonia]] albo [[Tilea]]), [[Wycena]], [[Język]] ([[Bretonia#Bretoński|bretoński]] albo [[Tilea#Tileański|tileański]]), [[Język]] ([[Imperium#Staroświatowy|staroświatowy]]), [[Zwinne palce]]
 **Zdolności:** [[Chodu!]], [[Intrygant]] albo [[Łotrzyk]], [[Naśladowca]], [[Obieżyświat]], [[Przemawianie]]
 **Wyposażenie:** 6 ubrania dobrej jakości, 4 komplety ubrań najlepszej jakości, podrobione dokumenty, 4 butelki różnokolorowej wody, 4 butelki różnokolorowego proszku
-**Profesje wstępne:** [[Bard]], [[Ciura Obozowa]], [[Cyrkowiec]], [[Dowrzanin]], [[Guślarz]], [[Kanciarz]], [[Paser]], [[Podżegacz]], [[Przemytnik]], [[Rzecznik Rodu]], [[Wędrowny Czarodziej]], [[Złodziej]]
-**Profesje wyjściowe:** [[Banita]], [[Demagog]], [[Szpieg]], [[Urzędnik]], [[Włamywacz]]
+**Profesje wstępne:** [[Bard]], [[Ciura Obozowa]], [[Cyrkowiec]], [[Dowrzanin]], [[Guślarz]], [[Kanciarz]], [[Paser]], [[Podżegacz]], [[Przemytnik]], [[Rzecznik Rodu]], [[Wędrowny Czarodziej]], [[Złodziej]], [[Astrolog]], [[Szuler]], [[Bajarz]]
+**Profesje wyjściowe:** [[Banita]], [[Demagog]], [[Szpieg]], [[Urzędnik]], [[Włamywacz]], [[Fałszerz]], [[Astrolog]]

@@ -8,5 +8,5 @@ Szpiedzy są mistrzami w potajemnym zdobywaniu informacji, które następnie prz
 **Umiejętności:** [[Charakteryzacja]], [[Czytanie z ruchu warg]], [[Kuglarstwo]] (aktorstwo), [[Otwieranie zamków]], [[Plotkowanie]], [[Przekonywanie]], [[Sekretny język]] (dowolny), [[Skradanie się]], [[Śledzenie]]. [[Ukrywanie się]], [[Wiedza]] (dwie dowolne), [[Język]] (dowolne trzy), [[Zwinne palce]]
 **Zdolności:** [[Charyzmatyczny]] albo [[Szósty zmysł]], [[Chodu!]], [[Intrygant]], [[Poliglota]]
 **Wyposażenie:** zestaw do charakteryzacji, 4 gołębie pocztowe
-**Profesje wstępne:** [[Bard]], [[Ciura Obozowa]], [[Dworzanin]], [[Kapitan]], [[Kupiec]], [[Medyk]], [[Odkrywca]], [[Sługa]], [[Szarlatan]]
-**Profesje wyjściowe:** [[Mistrz Cieni]], [[Odkrywca]], [[Reketer]], [[Skrytobójca]]
+**Profesje wstępne:** [[Bard]], [[Ciura Obozowa]], [[Dworzanin]], [[Kapitan]], [[Kupiec]], [[Medyk]], [[Odkrywca]], [[Sługa]], [[Szarlatan]], [[Śledczy Vereny]]
+**Profesje wyjściowe:** [[Mistrz Cieni]], [[Odkrywca]], [[Reketer]], [[Skrytobójca]], [[Śledczy Vereny]]

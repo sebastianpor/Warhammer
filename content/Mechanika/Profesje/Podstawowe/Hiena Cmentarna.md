@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
+**Profesje wstępne:** [[Aptekarz]], [[Aptekarz]], 
 **Profesje wyjściowe:** 

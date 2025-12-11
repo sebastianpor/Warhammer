@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
+**Profesje wstępne:** [[Fałszerz]]
 **Profesje wyjściowe:** 

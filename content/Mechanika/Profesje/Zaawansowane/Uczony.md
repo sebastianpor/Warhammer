@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** [[Balsamista]], [[Czeladnik Run]], [[Kowal Run]], [[Mistrz Run]]
-**Profesje wyjściowe:** 
+**Profesje wstępne:** [[Balsamista]], [[Czeladnik Run]], [[Kowal Run]], [[Mistrz Run]], [[Śledczy Vereny]], [[Egzorcysta]], [[Astrolog]], [[Aptekarz]], 
+**Profesje wyjściowe:** [[Śledczy Vereny]], [[Fałszerz]], [[Astrolog]], 

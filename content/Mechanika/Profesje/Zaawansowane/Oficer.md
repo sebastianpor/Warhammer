@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** [[Arcymistrz Run]]
+**Profesje wstępne:** [[Arcymistrz Run]], [[Rycerz Płonącego Słońca]]
 **Profesje wyjściowe:** 

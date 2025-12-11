@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
-**Profesje wyjściowe:** [[Czeladnik Run]]
+**Profesje wstępne:** [[Fałszerz]], [[Aptekarz]]
+**Profesje wyjściowe:** [[Czeladnik Run]], [[Fałszerz]], 

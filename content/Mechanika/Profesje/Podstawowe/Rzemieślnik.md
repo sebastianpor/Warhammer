@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
-**Profesje wyjściowe:** [[Balsamista]]
+**Profesje wstępne:** [[Fałszerz]]
+**Profesje wyjściowe:** [[Balsamista]], [[Fałszerz]], 

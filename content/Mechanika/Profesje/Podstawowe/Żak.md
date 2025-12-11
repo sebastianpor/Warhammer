@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
-**Profesje wyjściowe:** [[Balsamista]], [[Czeladnik Run]]
+**Profesje wstępne:** [[Fałszerz]], 
+**Profesje wyjściowe:** [[Balsamista]], [[Czeladnik Run]], [[Fałszerz]], [[Astrolog]], [[Szuler]], [[Bajarz]], [[Aptekarz]], 

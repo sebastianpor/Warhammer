@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
-**Profesje wyjściowe:** [[Balsamista]]
+**Profesje wstępne:** [[Aptekarz]], 
+**Profesje wyjściowe:** [[Balsamista]], [[Aptekarz]], 

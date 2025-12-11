@@ -8,4 +8,4 @@
 **Zdolności:** 
 **Wyposażenie:** 
 **Profesje wstępne:** 
-**Profesje wyjściowe:** 
+**Profesje wyjściowe:** [[Rycerz Płonącego Słońca]]

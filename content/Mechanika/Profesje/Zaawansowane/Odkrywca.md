@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
+**Profesje wstępne:** [[Rycerz Płonącego Słońca]], [[Astrolog]]
 **Profesje wyjściowe:** 

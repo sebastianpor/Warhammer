@@ -9,4 +9,4 @@ Większość mieszczan i rzemieślników nie widzi nic zdrożnego w nabywaniu to
 **Zdolności:** [[Geniusz arytmetyczny]], [[Ogłuszanie]], [[Żyłka handlowa]] albo [[Łotrzyk]]
 **Wyposażenie:** [[Narzędzia (grawerskie)]], [[Przybory do pisania]]
 **Profesje wstępne:** [[Hiena Cmentarna]], [[Karczmarz]], [[Majordomus]], [[Mieszczanin]], [[Porywacz Zwłok]], [[Przemytnik]], [[Reketer]], [[Śmieciarz]], [[Włamywacz]], [[Złodziej]]
-**Profesje wyjściowe:** [[Książę Złodziei]], [[Mistrz Cieni]], [[Reketer]], [[Szarlatan]]
+**Profesje wyjściowe:** [[Książę Złodziei]], [[Mistrz Cieni]], [[Reketer]], [[Szarlatan]], [[Fałszerz]]

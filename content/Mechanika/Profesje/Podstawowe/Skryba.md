@@ -8,4 +8,4 @@
 **Zdolności:** 
 **Wyposażenie:** 
 **Profesje wstępne:** [[Czeladnik Run]]
-**Profesje wyjściowe:** [[Czeladnik Run]]
+**Profesje wyjściowe:** [[Czeladnik Run]], [[Fałszerz]], 
