@@ -1,0 +1,1 @@
+Bohater posiada naturalną zdolność uczenia się i zapamiętywania obcych języków. Otrzymuje modyfikator +10 do testów [[Czytanie i pisanie|czytania i pisania]] oraz [[Język|języka]].

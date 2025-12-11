@@ -1,0 +1,1 @@
+Bohater posiada wyjątkowo wyczulone zmysły. Otrzymuje modyfikator +20 do wszystkich testów [[Spostrzegawczość|spostrzegawczości]].

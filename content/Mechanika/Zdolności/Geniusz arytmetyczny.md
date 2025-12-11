@@ -1,0 +1,1 @@
+Bohater potrafi błyskawicznie rachować w umyśle oraz, mając do dyspozycji dostatecznie dużo czasu, może rozwiązać niemal dowolny problem matematyczny. Otrzymuje modyfikator + 10 do testów [[Hazard|hazardu]] i [[Nawigacja|nawigacji]] oraz modyfikator +20 do testów [[Spostrzegawczość|spostrzegawczości]] związanych z oceną odległości, ciężaru, itd.

@@ -1,0 +1,3 @@
+**Cecha**: [[Inteligencja]]
+**Opis**: Umiejętność ta wykorzystywana jest do orientowania się na lądzie i na wodzie. W zależności od wiedzy i możliwości, Bohater może nawigować według mapy albo gwiazd lub posługując się wrodzonym wyczuciem kierunku. Dzięki tej umiejętności może również ocenić długość podróży, biorąc pod uwagę topografię okolicy, porę roku i pogodę. W normalnych warunkach, utrzymanie stałego kursu wymaga jednego udanego testu umiejętności dziennie. W wyjątkowych sytuacjach Mistrz Gry może zażądać dodatkowych testów umiejętności.
+**Zdolności pokrewne**: [[Geniusz arytmetyczny]], [[Wyczucie kierunku]]

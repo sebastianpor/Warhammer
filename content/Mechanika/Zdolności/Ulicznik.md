@@ -1,0 +1,1 @@
+Bohater wychował się w mieście i z łatwością orientuje się w terenie zabudowanym. Otrzymuje modyfikator + 10 do testów [[Skradanie się|skradania się]] i [[Ukrywanie się|ukrywania się]] w mieście.

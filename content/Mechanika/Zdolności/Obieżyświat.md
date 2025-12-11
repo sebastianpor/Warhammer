@@ -1,0 +1,1 @@
+Bohater w swoim życiu wiele podróżował, zdobywając rozległą wiedzę. Otrzymuje modyfikator + 10 do testów wiedzy oraz [[Język|języka]].

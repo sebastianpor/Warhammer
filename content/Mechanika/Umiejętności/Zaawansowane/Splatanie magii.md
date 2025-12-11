@@ -1,0 +1,3 @@
+**Cecha**: [[Siła Woli]]
+**Opis**: Wykorzystanie tej umiejętności ułatwia Bohaterowi kontrolowanie Wiatrów Magii. Każde rzucenie zaklęcia wymaga manipulacji Wiatrami Magii, jednak **splatanie magii** wykorzystuje się wtedy, gdy wymagana jest większa kontrola nad czarem lub jego precyzyjne przygotowanie. Udany test pozwala dodać wartość cechy [[Magia]] do poziomu rzucanego czaru.
+**Zdolności pokrewne**: [[Zmysł magii]]

@@ -1,0 +1,20 @@
+Lekki pancerz
+Pancerz skórzany to najczęściej spotykany typ opancerzenia. Jest chętnie wykorzystywany przez łowców, najemników i podróżników. Także wielu wojowników i żołnierzy nosi skórzane pancerze pod cięższymi zbrojami, aby uniknąć obtarć, i jako dodatkową ochronę. Skórzany pancerz osłania ciało, nieznacznie tylko ograniczając swobodę ruchów użytkownika. Popularność skórzni wynika nie tyle z oferowanego stopnia ochrony - cięższe pancerze są pod tym względem znacznie lepsze - co ze względu na cenę i dostępność materiałów. Do wykonania skórzanego pancerza potrzeba jedynie skóry, oliwy oraz wody i ognia. Co więcej, pancerz skórzany może być wykonany nawet przez rymarza lub kaletnika, gdyż nie wymaga specjalistycznego wyszkolenia w dziedzinie płatnerstwa. Skóry należy wygotować we wrzącym oleju, a następnie odpowiednio uformować. Pancerz skórzany, podobnie jak pozostałe pancerze, składa się z kilku elementów.
+
+| Typ zbroi | Cena  | Chronione lokacje | PZ  |         Dostępność         |
+| --------- | :---: | :---------------: | :-: | :------------------------: |
+| Hełm      | 3 zk  |       głowa       |  1  | [[Dostępność\|Przeciętna]] |
+| Kaftan    | 6 zk  |      korpus       |  1  | [[Dostępność\|Przeciętna]] |
+| Kurta     | 12 zk |   korpus, ręce    |  1  | [[Dostępność\|Przeciętna]] |
+| Nogawice  | 10 zk |       nogi        |  1  | [[Dostępność\|Przeciętna]] |
+| Skórznia  | 25 zk |     wszyskie      |  1  |    [[Dostępność\|Mała]]    |
+# Skórzana kurta i kaftan
+Kurta skórzana różni się od zwykłej kurtki tym, że jej front został utwardzony i wzmocniony dodatkowymi warstwami skóry (zwłaszcza w miejscach zgięć). Zapinana jest na metalowe (zwykle mosiężne lub srebrne) klamry. Kurta skórzana chroni korpus i ręce postaci. Kaftan skórzany to uboższa wersja kurty - chroni jedynie korpus. Stosunkowo tani i wytrzymały, zyskał sobie spore uznanie wśród rzezimieszków Starego Świata.
+
+# Skórzane nogawice
+Długie skórzane spodnie chronią nogi. Dodatkowe, naszyte płaty skóry osłaniają kolana i łydki. Dla zapewnienia mobilności, tył kolana jest odsłonięty, przez co stanowi doskonały cel ataku. Szczególnie niziołki preferują ataki w niechronioną część nogi, nazywając takie miejsce „miękkim celem". Nogawice lepszej jakości chronią i usztywniają kostkę oraz piętę.
+
+# Skórzany hełmy
+Ściśle przylegająca do głowy czapka chroni głowę i uszy. Jej kształt i rozmiar różnią się, zależnie od panującego klimatu. Na wschodzie nosi się czapy podbite futrem, na północy dopasowane do głowy czepce, które chronią także szyję i kark. Mieszkańcy zachodnich prowincji na taki czepiec nakładają jeszcze hełmy ozdobione piórami. Zapewnia to lepszą ochronę, a jednocześnie wygląda imponująco.
+# Skórznia
+W skład pełnej zbroi skórzanej wchodzi hełm, nogawice oraz kurta. Czasami elementy są farbowane - zwykle na czarno lub zielono. Z takich maskujących zbroi korzystają najczęściej Leśne Elfy z Athel Loren. Niektórzy rymarze farbują pancerze jaskrawymi barwnikami. Tego rodzaju zbroje cieszą się dużą popularnością w czasie wojen, gdyż żołnierze noszą wówczas barwy prowincji lub elektora, pod którym służą. Spotyka się pancerze czerwone, zielone, żółte i niebieskie, a także w innych kolorach, zwłaszcza w zachodnich prowincjach, takich jak Reikland, Averland lub Wissenland. Na północy zbroje skórzane są mniej popularne. Tamtejsi wojownicy używają zbroi ćwiekowanych (patrz str. 17) lub futrzanych, czasem łączonych w dziwny sposób, zarówno pod względem kolorystyki, jak też używanych materiałów. Na wschodzie nosi się pancerze proste i w naturalnych barwach, głównie ze względu na to, że tamtejsze prowincje są znacznie uboższe. Widać też wpływ kislevskiego stylu i kolorystyki, choć żołnierze z armii prowincji często przyozdabiają zbroje kolorowymi szarfami i piórami, aby podkreślić przynależność do określonej formacji. Leśne Elfy z Athel Loren zwykle w ogóle nie noszą pancerzy. Jeśli już zakładają zbroję, to zwykle jest to skórznia. Jedynie elfia konnica oraz jeźdźcy jastrzębi bojowych regularnie korzystają ze zbroi.

@@ -1,0 +1,1 @@
+Ta broń została zaprojektowana do blokowania ciosów. Postać używająca jej w walce otrzymuje modyfikator +10 do **WW** przy parowaniu ataków

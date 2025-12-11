@@ -1,0 +1,1 @@
+Demony są istotami magicznymi, zrodzonymi z Eteru, co w pewnym stopniu chroni je przed wpływem świata materialnego. Jeśli demon zostanie trafiony niemagiczną bronią, należy traktować jego **Wytrzymałość** jako większą o 2. Co więcej, ataki demona są uważane za atak bronią magiczną. Demony są również całkowicie odporny na działania trucizn i duszenia się.

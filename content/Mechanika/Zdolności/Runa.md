@@ -1,0 +1,1 @@
+Bohater poznał sekret wykuwania magicznego znaku. Każda runa jest odrębną zdolnością i musi zostać wykupiona oddzielnie. Opisy najczęściej wykuwanych run można znaleźć na str. 213-216.

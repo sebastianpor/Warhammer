@@ -1,0 +1,1 @@
+Wygląd postaci wywołuje przerażenie wśród obserwatorów. Swoim zachowaniem wzbudza [[Groza|Grozę]], zgodnie z zasadami opisanymi w **Rozdziale IX: Mistrz Gry**.

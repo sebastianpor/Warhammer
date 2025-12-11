@@ -1,0 +1,1 @@
+Bohater może wykonywać testy nauki (inżynieria), aby tworzyć różne wynalazki klanu Skryre. Więcej informacji na ten temat można znaleźć w Rozdziale V: Wojna.

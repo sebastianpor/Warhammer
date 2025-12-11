@@ -1,0 +1,1 @@
+Bohater jest blisko związany ze światem przestępczym. Otrzymuje modyfikator +10 do testów [[Plotkowanie|plotkowania]] i [[Przekonywanie|przekonywania]] w kontaktach z przedstawicielami przestępczego półświatka.

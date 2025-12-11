@@ -1,0 +1,3 @@
+**Cecha**: [[Zręczność]]
+**Opis**: Wykorzystanie tej umiejętności umożliwia Bohaterowi ukrywanie się w niemal dowolnym terenie, pod warunkiem, że istnieje realna szansa schowania się za jakimś obiektem (mur, drzewo, budynek, itp.). Przy próbie ukrycia się na otwartej, pustej przestrzeni (na przykład na środku ulicy) test umiejętności automatycznie jest nieudany. **Ukrywanie się** bywa często wykorzystywane przeciwko testowi spostrzegawczości przeciwnika.
+**Zdolności pokrewne**: [[Grotołaz]], [[Ulicznik]], [[Wędrowiec]]

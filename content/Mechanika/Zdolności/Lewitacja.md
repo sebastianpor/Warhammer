@@ -1,0 +1,1 @@
+Postać potrafi unosić się nisko nad ziemią. Zasady dotyczące lewitacji znajdziesz w **Rozdziale VI: Walka, obrażenia i ruch**.

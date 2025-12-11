@@ -1,0 +1,1 @@
+Wykonując atak bronią strzelecką, Bohater potrafi skoncentrować się i znacznie lepiej wycelować. Po zadeklarowaniu akcji wycelowanie" otrzymuje modyfikator +20 do [[Umiejętności Strzeleckie|Umiejętności Strzeleckich]] przy rzucie na trafienie, zamiast normalnego modyfikatora +10.

@@ -1,0 +1,1 @@
+Ta cecha, wynikająca z cechy [[Krzepa]], określa liczbę obrażeń, jakie Bohater zadaje w walce.

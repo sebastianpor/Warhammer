@@ -1,0 +1,1 @@
+Bohater potrafi przemawiać tak pięknie i przekonywująco, że może poderwać do działania całe tłumy. Wykorzystując [[przekonywanie]] BG może oddziaływać na grupę osób 100 razy liczniejszą niż normalnie. Zdolność **krasomówstwo** wymaga uprzedniego opanowania zdolności [[przemawianie]].

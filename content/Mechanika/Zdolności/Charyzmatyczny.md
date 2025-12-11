@@ -1,0 +1,1 @@
+Bohater obdarzony jest zniewalającym urokiem osobistym. Otrzymuje +5 do [[Ogłada|Ogłady]], dodawane do początkowej wartości cechy.

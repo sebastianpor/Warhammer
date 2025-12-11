@@ -1,0 +1,1 @@
+Bohater jest ekspertem w wykrywaniu i rozbrajaniu pułapek. Otrzymuje modyfikator + 10 do testów spostrzegawczości i otwierania zamków związanych z wykrywaniem i unieszkodliwianiem pułapek.Bohater jest obdarzony wspaniałym refleksem. Otrzymuje +5 do [[Zręczność|Zręczności]], dodawane do początkowej wartości cechy.

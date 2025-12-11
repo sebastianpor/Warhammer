@@ -1,0 +1,3 @@
+Niewielkie kawałki spaczenia, w kształcie płaskiego krążka, dysku, klina lub sześcianu, wykorzystywane są w Pod-Imperium jako waluta, ale mogą być także używane do zwiększenia mocy zaklęcia rzucanego przez Szarego Proroka lub skaveńskiego zaklinacza. Wpływ spaczenia został opisany w [[Spaczeń]].
+
+Postać, która oparła się mocy spaczeniowej grudki, będzie mogła ją wykorzystać jako dodatkowy składnik wzmagający moc zaklęcia. Połknięta grudka dodaje +3 do uzyskanego poziomu mocy, ale zwiększa także niebezpieczeństwo wystąpienia Przekleństwa Tzeentcha (dublety będą się liczyły jako triplety, a triplety jako wynik poczwórny).

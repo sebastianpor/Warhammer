@@ -1,0 +1,3 @@
+**Cecha**: [[Inteligencja]]
+**Opis**: Bohater potrafi czytać i pisać w dowolnym języku, którym umie się posługiwać. W większości przypadków czytania i pisania nie trzeba testować. Mistrz Gry może jednak zdecydować, że test umiejętności jest potrzebny przy odcyfrowywaniu rękopisu spisanego w starożytnym języku, lub zawierającym niezrozumiałe wyrażenia albo archaiczne słownictwo.
+**Zdolności pokrewne**: [[Poliglota]]

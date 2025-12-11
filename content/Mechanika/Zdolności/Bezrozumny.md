@@ -1,0 +1,1 @@
+Istota nie posiada [[Inteligencja|Inteligencji]], [[Siła Woli|Siły Woli]] ani [[Ogłada|Ogłady]] i nigdy nie wykonuje testów związanych z tymi cechami.

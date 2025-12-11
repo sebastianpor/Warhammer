@@ -1,0 +1,1 @@
+Bohater obdarzony jest wyjątkową odpornością. Otrzymuje +5 do [[Odporność|Odporności]], dodawane do Początkowej wartości cechy. Może to zmienić wartość [[Wytrzymałość|Wytrzymałości]], BG zgodnie z zasadami opisanymı na str. 19

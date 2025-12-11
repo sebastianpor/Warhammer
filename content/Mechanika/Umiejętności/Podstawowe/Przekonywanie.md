@@ -1,0 +1,3 @@
+**Cecha**: [[Ogłada]]
+**Opis**: Ta umiejętność pozwala Bohaterowi wpływać na zachowanie innych osób. Może przekonywująco kłamać, blefować, a nawet skutecznie żebrać. Przekonywanie wykorzystuje się też podczas prób uwodzenia. W przypadku zastosowania tej umiejętności w celu nakłonienia kogoś do zrobienia czegoś niezwykłego lub niebezpiecznego, **Mistrz Gry** może pozwolić nakłanianej postaci na test [[Siła Woli|Siły Woli]]. Bohater może próbować przekonać kilka osób (jedna osoba za każde 10 punktów jego [[Ogłada|Ogłady]]), pod warunkiem że wszystkie te osoby rozumieją język, którym posługuje się BG. 
+**Zdolności pokrewne**: [[Etykieta]], [[Intrygant]], [[Krasomówstwo]], [[Łotrzyk]], [[Przemawianie]]

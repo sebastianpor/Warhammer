@@ -1,0 +1,1 @@
+Potwór jest wielki i na tyle silny, że jego ciosy są wyjątkowo trudne do sparowania. Przeciwnicy w walce wręcz otrzymują modyfikator -30 od prób parowania ciosów tego potwora.

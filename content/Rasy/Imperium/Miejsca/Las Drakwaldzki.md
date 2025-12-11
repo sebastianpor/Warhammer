@@ -1,0 +1,4 @@
+Las Drakwaldzki (lub "Smoczy Las") jest jednym z pięciu największych lasów znajdujących się na północno-zachodnich ziemiach Imperium Człowieka, w dawnej Imperialnej Prowincji Drakwald.
+
+Drakwald Forest 
+Oddzielony od Wielkiej Puszczy drogą z [[Altdorf|Altdorfu]] do Middenheim oraz Wyjącymi Wzgórzami. Drakwald jest jednym z najstarszych lasów na świecie i słynie z tego, że jest najbardziej niebezpiecznym i nieokiełznanym terenem w Imperium. Od tego czasu został zaatakowany przez wiele rodzajów dziwnych i strasznych stworzeń, z których najbardziej znane są czające się plemiona [[Zwierzoludzie|Zwierzoludzi]]. Zagrożenie ze strony lasu dla imperialnego handlu i podróży wymusza regularne przeszukiwanie terenu przez wyspecjalizowane oddziały, takie jak Drakwaldzki Patrol i inne oddziały państwowe, a także budowę ufortyfikowanych zajazdów i wież strażniczych wzdłuż szerokiego szlaku wiodącego z południa do Gór Środkowych i [[Hochland|Hochlandu]].

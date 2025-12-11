@@ -1,0 +1,1 @@
+Bohater, który posiada tę zdolność, w czasie wielu przygód nabrał niesamowitej krzepy. Może nosić ciężki pancerz lub zbroję płytową bez zmniejszania Szybkości. Szczegółowy opis pancerzy znajdziesz w **Rozdziale V: Ekwipunek**.

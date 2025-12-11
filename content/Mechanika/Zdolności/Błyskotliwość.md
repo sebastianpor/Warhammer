@@ -1,0 +1,1 @@
+Bohater obdarzony jest wyjątkową inteligencja. Otrzymuje +5 do **Inteligencji**, dodawane do początkowej wartości cechy

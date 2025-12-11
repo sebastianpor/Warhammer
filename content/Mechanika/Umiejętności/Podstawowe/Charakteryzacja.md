@@ -1,0 +1,3 @@
+**Cecha**: [[Oglada]]
+**Opis**: Wykorzystanie tej umiejętności pozwala Bohaterowi maskować jego prawdziwy wygląd i udawać kogoś innego. Często potrzebne są dodatkowe rekwizyty, właściwe ubranie lub peruka. Dzięki tej umiejętności Bohater może przebrać się za przedstawiciela innej rasy, osobę płci przeciwnej, a nawet kogoś sławnego i znanego w całym kraju, chóc tego rodzaju charakteryzacja jest znacznie trudniejsza. Przeciwko charakteryzacji często wykorzystuje się test spostrzegawczości przeciwnika.
+**Zdolności pokrewne**: [[Naśladowca]]

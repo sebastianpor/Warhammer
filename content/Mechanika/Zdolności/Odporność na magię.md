@@ -1,0 +1,1 @@
+Bohater w naturalny sposób opiera się działaniu czarów. Otrzymuje modyfikator +10 do [[Siła Woli|Siły Woli]] podczas testów przeciwko magii.

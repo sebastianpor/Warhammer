@@ -1,0 +1,1 @@
+Jeśli Bohater posiada spory zapas spaczenia, może wykonywać testy leczenia w celu tworzenia koszmarnych wynaturzeń, takich jak olbrzymie szczury i szczurogry. Więcej informacji na ten temat można znaleźć w podrozdziale Ciałokształtowanie.

@@ -1,0 +1,1 @@
+Bohater potrafi poruszać się znacznie szybciej niż inni. Otrzymuje +1 do **Szybkości**, dodawane do początkowej wartości cechy.

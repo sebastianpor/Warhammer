@@ -1,0 +1,1 @@
+Postać dysponuje ostrymi kłami lub pazurami, których z powodzeniem może używać w walce. W czasie walki bez broni jest traktowana, jak gdyby używała [[Broń jednoręczna|broni jednoręcznej]]. **Broń naturalna** nie pozwala na parowanie ciosów. W przypadku broni naturalnej nie można stosować **rozbrajania**.

@@ -1,0 +1,1 @@
+Opis broni zawiera dodatkowe zasady.

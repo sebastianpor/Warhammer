@@ -1,0 +1,1 @@
+Bohater podziela głęboko zakorzenioną wśród swojego ludu wrogość wobec wszystkich zielonoskórych. Ta wiekowa już tradycja napełnia go taką nienawiścią, że otrzymuje modyfikator +5 do [[Walka wręcz|Walki Wręcz]], gdy atakuje [[Gobliny|gobliny]], [[Orkowie|orki]] i [[Rasy/Zielonoskórzy/Hobgobliny|hobgobliny]].

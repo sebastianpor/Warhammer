@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"50906540665467ed","type":"file","file":"Mechanika/Broń/ZZTabele/Broń biała - Tabela.md","x":-300,"y":-280,"width":840,"height":720},
+		{"id":"0282e962ade180b7","type":"file","file":"Mechanika/Broń/ZZTabele/Broń strzelecka - Tabela.md","x":-1520,"y":-280,"width":1200,"height":640},
+		{"id":"dd0abecd038c5040","type":"file","file":"Mechanika/Walka/Strach.md","x":-720,"y":400,"width":400,"height":580},
+		{"id":"e0785e92dc542832","type":"file","file":"Mechanika/Walka/Runda.md","x":840,"y":480,"width":360,"height":120},
+		{"id":"cac43018aa1472b3","type":"file","file":"Mechanika/Walka/Obrażenia od upadku.md","x":840,"y":640,"width":360,"height":360},
+		{"id":"b843d414d9a58aa3","type":"file","file":"Mechanika/Walka/Lokacje trafienia/Lokacje trafienia - stworzenie dwunożne.md","x":960,"y":1040,"width":540,"height":380},
+		{"id":"7a1e73fe354c8cdb","type":"file","file":"Mechanika/Walka/Akcja.md","x":340,"y":480,"width":480,"height":500},
+		{"id":"cb5cd9f58efbaf0e","type":"file","file":"Mechanika/Walka/Groza.md","x":-1140,"y":400,"width":400,"height":580},
+		{"id":"99921965ed1282a8","type":"file","file":"Mechanika/Obrażenia od czynników naturalnych/Ogień.md","x":-1560,"y":400,"width":400,"height":580},
+		{"id":"06249ac22a1d77b9","type":"file","file":"Mechanika/zInne/Śmierdzący Ochlapus.md","x":-2780,"y":-280,"width":1200,"height":1480},
+		{"id":"ac10b57ab15a324b","type":"file","file":"Magia/Przekleństwo Tzeentha.md","x":1240,"y":-290,"width":800,"height":1280},
+		{"id":"1378acecbc6f71d7","type":"file","file":"Mechanika/Walka/Ruch w walce.md","x":2060,"y":-290,"width":520,"height":400},
+		{"id":"1cc50ddb7d84de86","type":"file","file":"Mechanika/zInne/Ruch.md","x":2060,"y":140,"width":520,"height":900},
+		{"id":"f73fe414c68e6ca0","type":"file","file":"Mechanika/Walka/Stopień trudności testu w walce.md","x":-300,"y":480,"width":620,"height":500},
+		{"id":"573d1fc17d104aff","type":"file","file":"Mechanika/zInne/Dostępność.md","x":560,"y":-280,"width":640,"height":720},
+		{"id":"21a2a61f3706e6ee","type":"file","file":"Mechanika/zInne/Jakość wykonania.md","x":300,"y":1000,"width":520,"height":240},
+		{"id":"612b30dc8acfec8b","x":960,"y":1420,"width":540,"height":400,"type":"file","file":"Mechanika/Walka/Lokacje trafienia/Lokacje trafienia - stworzenie czworonożne.md"},
+		{"id":"9b901ada0e3cb8ea","x":960,"y":1820,"width":540,"height":460,"type":"file","file":"Mechanika/Walka/Lokacje trafienia/Lokacje trafienia - stworzenie czworonożne skrzydlate.md"},
+		{"id":"882715bf052a746f","x":960,"y":2280,"width":540,"height":460,"type":"file","file":"Mechanika/Walka/Lokacje trafienia/Lokacje trafienia - stworzenie dwunożne skrzydlate.md"},
+		{"id":"ac70ceb432f4a98c","x":960,"y":2740,"width":540,"height":460,"type":"file","file":"Mechanika/Walka/Lokacje trafienia/Lokacje trafienia- stworzenie czworonożne humanoidalne.md"},
+		{"id":"e691682d59acaed4","x":960,"y":3200,"width":540,"height":380,"type":"file","file":"Mechanika/Walka/Lokacje trafienia/Lokacje trafienia- stworzenie skrzydlate.md"},
+		{"id":"74f1db390ba4eb0d","x":2580,"y":-290,"width":820,"height":2010,"type":"file","file":"Mechanika/zInne/Mutacje Choasu.md"}
+	],
+	"edges":[]
+}

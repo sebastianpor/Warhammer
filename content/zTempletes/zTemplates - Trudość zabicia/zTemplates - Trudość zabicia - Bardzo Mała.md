@@ -1,0 +1,1 @@
+[[Trudność zabicia#Bardzo Mała|Bardzo Mała]]

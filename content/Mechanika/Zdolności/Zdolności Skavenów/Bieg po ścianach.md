@@ -1,0 +1,1 @@
+Bohater otrzymuje modyfikator +20 do testów [[Wspinaczka|wspinaczki]]. Po udanym teście może wspiąć się na wysokość tylu metrów, ile wynosi wartość jego **Szybkości**.

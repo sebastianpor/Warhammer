@@ -1,0 +1,1 @@
+Bohater jest ekspertem w wykrywaniu i rozbrajaniu pułapek. Otrzymuje modyfikator + 10 do testów [[Spostrzegawczość|spostrzegawczości]] i [[Otwieranie zamków|otwierania zamków]] związanych z wykrywaniem i unieszkodliwianiem pułapek.

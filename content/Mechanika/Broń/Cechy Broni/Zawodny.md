@@ -1,0 +1,1 @@
+Tego rodzaju broń często się zacina lub psuje. Jeśli wynik rzutu na trafienie wynosi 96-99, użycie broni kończy się niepowodzeniem. Jej naprawnienie wymaga udanego testu **rzemiosła (rusznikarstwo)**. Jeśli wynik rzutu na atak wynosi 100, broń eksploduje, zadając strzelcowi normalne obrażenia i ulegając całkowitemu zniszczeniu.

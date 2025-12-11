@@ -1,0 +1,3 @@
+**Cecha**: [[Ogłada]]
+**Opis**: Kuglarstwo wykorzystywane jest do zabawiania publiczności. Podobnie jak w przypadku nauki i wiedzy, nazwa kuglarstwo określa kategorię oddzielnych umiejętności. Najczęściej spotykanymi rodzajami kuglarstwa są: akrobatyka, aktorstwo, blaznowanie, gawędziarstwo, komedianctwo, mimika, muzykalność, połykanie ognia, śpiew, taniec, wróżenie z dłoni, żonglerka.
+**Zdolności pokrewne**: [[Człowiek-guma]], [[Naśladowca]]

@@ -1,0 +1,1 @@
+Niektóre czary używane w walce wymagają dotknięcia przeciwnika. Bohater, który posiada zdolność **dotyk mocy**, otrzymuje modyfikator +20 do [[Walka wręcz|Walki Wręcz]] przy testach związanych z rzucaniem czarów dotykowych.

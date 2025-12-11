@@ -1,0 +1,3 @@
+**Cecha**: [[Zręczność]]
+**Opis**: Dzięki tej użytecznej umiejętności Bohater potrafi ukryć w dłoni małe przedmioty lub wykonywać sztuczki z kartami i monetami. **Zwinne palce** przydają się również przy ukradkowym sięganiu do cudzych sakiewek. Test **zwinnych palców** jest często wykonywany w przeciwstawnym teście umiejętności przeciwko [[Spostrzegawczość|spostrzegawczości]] przeciwnika.
+**Zdolności pokrewne**: brak

@@ -1,0 +1,6 @@
+Od liczby Punktów Przeznaczenia postaci zależy także ilość jej Punktów Szczęścia (w skrócie oznaczanych PS). Mimo pewnego podobieństwa, różnią się one zasadniczo. W odróżnieniu od Punktów Przeznaczenia, **Punkty Szczęścia** „odnawiają się” każdego dnia o świcie. Są niczym łut szczęścia, na jaki liczy każdy Bohater w trudnych chwilach. Każdego dnia Bohater Gracza może wydać maksymalnie tyle **Punktów Szczęścia**, ile wynosi liczba posiadanych przez niego Punktów Przeznaczenia.
+Bohater Gracza może wykorzystać jeden lub więcej **Punktów Szczęścia** w następujący sposób:
+* 1 PS pozwala na powtórzenie nieudanego testu cechy lub umiejętności. Bohater może skorzystać z tej zasady w każdej chwili, także w czasie walki. Wykonując akcję przedłużoną, może wydać tylko 1 Punkt Szczęścia.
+* 1 PS umożliwia wykonanie dodatkowego parowania lub uniku. To jedyny przypadek, gdy można wykonać więcej niż jedną z tych akcji w trakcie rundy.
+* 1 PS zapewnia dodatkową kostkę do rzutu na Inicjatywę. Gracz rzuca zatem 2k10 i dodaje Zręczność swojego Bohatera.
+* 1 PS zapewnia dodatkową akcję w rundzie walki. Bohatera obowiązują pozostałe ograniczenia liczby akcji (takich jak „parowanie” lub „rzucenie zaklęcia”).

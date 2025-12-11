@@ -1,0 +1,1 @@
+Ta cecha określa stan zdrowia psychicznego Bohatera. BG zaczyna grę z liczbą PO równą 0, ale ta wartość może wzrosnąć w czasie gry, w następstwie przerażających wydarzeń i ciężkich ran. Szczegółowe zasady przyznawania Punktów Obłędu znajdziesz w **Rozdziale IX: Mistrz Gry**, choć nie powinieneś ich czytać bez zgody Mistrza Gry.

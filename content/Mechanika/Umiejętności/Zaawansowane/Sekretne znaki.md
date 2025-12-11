@@ -1,0 +1,3 @@
+**Cecha**: [[Inteligencja]]
+**Opis**:  Bohater potrafi odczytywać lub zapisywać zaszyfrowane wiadomości. Na obszarze Imperium stosuje się wiele systemów znaków. Sekretne znaki są zazwyczaj prostymi komunikatami używanymi głównie w celu ostrzeżenia, oznakowania obiektu, wskazania szlaku lub miejsca o szczególnym znaczeniu. Odczytanie lub zapisanie krótkiej, prostej wiadomości nie wymaga testu umiejętności. W przypadku bardziej skomplikowanych zapisów lub gdy fragmenty znaku są podniszczone albo zatarte, Mistrz Gry może nakazać wykonanie testu umiejętności z odpowiednimi modyfikatorami trudności. Najczęściej wykorzystywane są znaki: łowców, rycerzy zakonnych, złodziei i zwiadowców.
+**Zdolności pokrewne**: brak

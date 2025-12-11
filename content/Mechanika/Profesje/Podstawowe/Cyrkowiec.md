@@ -1,0 +1,12 @@
+Cyrkowcy dostarczają rozrywki ludności [[Imperium]]. Akrobaci, siłacze, żonglerzy, hipnotyzerzy, woltyżerzy i brzuchomówcy - wszyscy występują dla spragnionej uciechy gawiedzi. Niektórzy robią to dla pieniędzy lub dla sławy i przyjemności, jaką daje zachwyt zgromadzonej publiczności. Inni wybierają życic cyrkowca, za wszelką cenę próbując wyrwać się z biedy. Cyrkowcy dużo podróżują, zazwyczaj w towarzystwie podobnych sobie kuglarzy. Trupy aktorskie dają przedstawienia w każdej wiosce, mieście i porcie. Szczęśliwcy mogą liczyć na wielokrotne występy, co pozwala na spędzenie kilku miesięcy w jednym miejscu. Ci, którym mniej się poszczęściło, podróżują dalej w poszukiwaniu hojniejszej publiczności (lub mniej podejrzliwej gwardii miejskiej). Najlepsi cyrkowcy cieszą się opieką arystokratów i zarabiają ogromne sumy, występując na zamkach i dworach.
+
+| WW  | US  |  K  | Odp | Zr  | Int | SW  | Ogd |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| +5  | +10 |  -  |  -  | +10 |  -  | +5  | +10 |
+|  A  | Żyw |  S  | Wt  | Sz  | Mag | PO  | PP  |
+|  -  | +2  |  -  |  -  |  -  |  -  |  -  |  -  |
+**Umiejętności:** [[kuglarstwo]] (dowolne dwa), [[opieka nad zwierzętami]] albo [[pływanie]], [[przekonywanie]], [[spostrzegawczość]], [[wiedza]] ([[Imperium]]), [[wycena]] albo [[plotkowanie]], [[Język]] ([[Imperium#Staroświatowy|staroświatowy]]) oraz jedna umiejętność do wyboru spośród: [[Brzuchomustwo]], [[gadanina]], [[hipnoza]], [[Jeździectwo]], [[Oswajanie]], [[tresura]], [[wspinaczka]], [[zwinne palce]]
+**Zdolności:** dwie zdolności do wyboru spośród: [[bardzo silny]], [[Broń specjalna]] (rzucana), [[naśladowca]], [[przemawianie]], [[strzał mierzony]], [[Szybki refleks]], [[szybkie wyciągnięcie]], [[woltyżerka]]. [[zapasy]]
+**Wyposażenie:** lekki pancerz ([[Zbroje skórzane#Skórzana kurta i kaftan|skórzany kaftan]]), jeden przedmiot do wyboru spośród: 3 noże do rzucania, 2 topory do rzucania, instrument muzyczny (dowolny), narzędzia (kuglarza), jeden przedmiot do wyboru spośród: kostium cyrkowca (dowolny) albo ubranie dobrej jakości
+**Profesje wstępne:** [[herold]], [[kanciarz]]. [[włóczykij]]
+**Profesje wyjściowe:** [[bard]], [[kanciarz]], [[szarlatan]], [[włóczykij]]. [[Złodziej]]

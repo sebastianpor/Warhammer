@@ -1,0 +1,3 @@
+**Cecha**: [[Inteligencja]]
+**Opis**: Dzięki tej umiejętności Bohater może zapewnić opiekę medyczną rannej osobie. Udany test leczenia przywraca 1k10 punktów Żywotności w przypadku osoby lekko rannej lub 1 punkt Żywotności w przypadku osoby ciężko rannej. Ranna osoba może być leczona tylko raz podczas sytuacji krytycznej (bitwa, zasadzka, pułapka, upadek, itp.), która spowodowała utratę punktów Żywotności, lub zaraz po niej. Test leczenia można ponowić następnego dnia, jak również każdego kolejnego dnia. Szczegółowe zasady leczenia ran znajdziesz w **Rozdziale VI: Walka, obrażenia i ruch.**
+**Zdolności pokrewne**: chirurgia

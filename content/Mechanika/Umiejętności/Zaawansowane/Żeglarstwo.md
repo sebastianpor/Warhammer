@@ -1,0 +1,3 @@
+**Cecha**: [[Zręczność]]
+**Opis**: Dzięki tej umiejętności Bohater potrafi sterować statkami żaglowymi. Dodatkowo Bohater dysponuje wiedzą o budowie okrętów, różnych rodzajach żagli, a także umiejętnością przewidywania pogody na morzu. Żeglowanie po spokojnych wodach nie wymaga testu umiejętności. Trudne warunki pogodowe, wysokie fale lub wykonywanie manewrów w czasie bitwy mogą wymagać testu umiejętności o odpowiednim stopniu trudności.
+**Zdolności pokrewne**: brak

@@ -1,0 +1,1 @@
+Bohater potrafi bezbłędnie naśladować różne odgłosy Otrzymuje modyfikator +10 do testów: [[Kuglarstwo|kuglarstwa]] (aktorstwo, błaznowanie, gawędziarstwo i komedianctwo), [[Charakteryzacja|charakteryzacji]] (jeśli jednym z elementów przebrania jest naśladowanie głosu lub dźwięków) oraz [[Język|języka]], gdy próbuje udawać, że to jego język ojczysty.

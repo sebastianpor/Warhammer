@@ -1,0 +1,1 @@
+Tego rodzaju oręż jest wyjątkowo masywny i uderza z wielką siłą, zadający zwiększone obrażenia. Po udanym trafieniu tego rodzaju bronią należy rzucić na obrażenia 2K10 i wybrać wyższy wynik.

@@ -1,0 +1,1 @@
+Oręż "przebijający zbroję" jest szczególnie przydatny przeciwko opancerzonym przeciwnikom. Ciosy lub strzały zadane za jego pomocą ignorują 1 **Punkt Zbroi**. W przypadku gdy cel nie nosi zbroi, cecha oręża nie powoduje żadnych dodatkowych efektów. Efekt zdolności strzał przebijający kumuluje się z efektem użycia broni "przebijającej zbroję".

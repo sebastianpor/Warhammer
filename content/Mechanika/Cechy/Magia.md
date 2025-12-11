@@ -1,0 +1,1 @@
+ Ta cecha określa potencjał magiczny Bohatera i jego zdolność rzucania zaklęć.

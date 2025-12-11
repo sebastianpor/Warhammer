@@ -1,0 +1,1 @@
+Ze względu na nieporęczność i duże rozmiary, tego rodzaju bronią trudno się włada. Łatwiej też unikać zadawanych nią ciosów. Przeciwnik otrzymuje modyfikator +10 do parowania lub unikania ciosów zadawanych bronią "powolną".

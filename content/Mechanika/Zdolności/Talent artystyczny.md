@@ -1,0 +1,1 @@
+Bohater potrafi tworzyć dzieła sztuki. Otrzymuje modyfikator +20 do testów [[Rzemiosło|rzemiosła]] (sztuka) oraz modyfikator +10 do testów [[Wycena|wyceny]] przy szacowaniu wartości dzieł sztuki.

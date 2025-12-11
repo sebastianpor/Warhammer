@@ -1,0 +1,3 @@
+**Cecha**: [[Ogłada]]
+**Opis**: Wykorzystanie tej umiejętności umożliwia oswajanie zwierząt. Zwierzęta domowe i hodowlane zawsze zachowują się przyjaźnie wobec Bohatera, który posiada tę umiejętność. Zwierzęta dzikie lub tresowane (na przykład psy gończe lub bojowe) mogą dać się oswoić przy udanym teście umiejętności. Mistrz Gry może przydzielić modyfikatory przy próbie oswajania zwierząt wyjątkowo agresywnych lub wyjątkowo wiernych innej osobie. Umiejętność oswajanie nie działa na potwory.
+**Zdolności pokrewne**: brak

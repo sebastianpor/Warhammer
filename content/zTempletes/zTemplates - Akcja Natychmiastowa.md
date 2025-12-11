@@ -1,0 +1,1 @@
+[[Akcja#Natychmiastowa|Akcja Natychmiastowa]]

@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla charyzmę Bohatera, jego urok osobisty oraz obycie w kontaktach z innymi osobami.

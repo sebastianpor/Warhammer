@@ -1,0 +1,3 @@
+**Cecha**: [[Krzepa]]
+**Opis**: Twój Bohater potrafi wspinać się na drzewa, mury, skalne ściany i inne pionowe przeszkody. W normalnych warunkach test umiejętności wykonuje się raz na rundę. Wspinanie się w czasie walki wymaga poświęcenia akcji podwójnej. Udany test oznacza, że Bohater wspiął się na wysokość równą połowie jego Szybkości (zaokrąglane w górę), mierzoną w metrach.
+**Zdolności pokrewne**: brak

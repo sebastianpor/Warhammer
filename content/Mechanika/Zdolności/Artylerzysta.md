@@ -1,0 +1,1 @@
+Bohater został świetnie wyszkolony w obsłudze broni palnej. Dzięki tej zdolności może przeładować broń palną w czasie krótszym o akcję. Jeśli Bohater posiada również zdolność [[Błyskawiczne przeładowanie]], może korzystać naraz z obu zdolności (skracając czas przeładowania broni palnej o akcję podwójną).

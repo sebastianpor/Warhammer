@@ -1,0 +1,1 @@
+Bohater wyjątkowo sprawnie posługuje się bronią białą. Otrzymuje +5 do [[Walka wręcz|Walki Wręcz]], dodawane do początkowej wartości cechy.

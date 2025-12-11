@@ -1,0 +1,1 @@
+Bohater potrafi znaleźć odsłoniętą szczelinę w pancerzu przeciwnika. Po udanym ataku bronią strzelecką może zignorować 1 **Punkt Zbroi** przeciwnika. Jeśli przeciwnik nie nosi zbroi, ta zdolność jest nieskuteczna.

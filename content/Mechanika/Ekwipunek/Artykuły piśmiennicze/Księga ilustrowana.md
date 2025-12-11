@@ -1,0 +1,12 @@
+---
+Cena: 350 zk
+Dostępność: "[[Dostępność|Znikoma]]"
+---
+Księgi to stosunkowo nowy wynalazek. Niegdyś w Imperium pisano na zwojach, czyli na zwiniętych kartach pergaminu. Choć próbowano je porządkować układając w stosiki, to jeden nieostrożny ruch niweczył porządek w archiwum. Pomysłowi ludzie postanowili sięgnąć do sprawdzonych rozwiązań, które zaczerpnęli od czarodziejów. Ci mieli zwyczaj gromadzić zapisane karty w wielkich tomach wiedzy magicznej. Idąc tym tropem, archiwiści zaczęli łączyć zwoje w kodeksy. Na ich kartach spisywano historię, święte teksty różnych religii, a prym pomiędzy nimi wiódł kult [[Sigmar|Sigmara]], który wziął na swe barki brzemię zachowania ludzkiej wiedzy. Rozproszone i niekompletne zwoje zaczęto kopiować do ksiąg, które niejednokrotnie trafiały w ręce zamożnych kolekcjonerów. Każdy z takich woluminów stanowił istne dzieło sztuki. Piękne ilustracje przeplatały się z ozdobnymi marginesami oraz przykładami doskonałej kaligrafii. Wadą pierwszych ksiąg była ich wysoka cena oraz niepraktyczność. Ciężkie, oprawione w drewniane okładki, obijane skórą i ręcznie zszywane, stanowiły elitarne dzieła sztuki, a nie źródło powszechnej wiedzy. Co więcej, księgi kopiowano ręcznie, co znacznie wydłużało proces powstawania woluminu.
+
+Choć ilość ręcznie pisanych ksiąg znacznie zmalała, to nadal są wysoko cenione, jako dzieła sztuki. Wielu magów uważa, że drukowanym księgom brak osobowości, której nabierają rękopisy wychodzące spod pióra wykształconego autora. Co więcej, drukowane księgi są klejone, a nie zszywane. Dzięki temu są tańsze, ale mniej trwałe.
+
+Przełom nastąpił około pięć lat temu, kiedy Gunthur Johans z [[Middenheim]], wierny wyznawca Sigmara, choć mieszkający w mieście czcicieli Ulryka, wynalazł i zbudował maszynę, którą nazwał prasą drukarską. Jej podstawą są niewielkie klocki, z których wystają odwrócone czcionki liter. Te układane są w słowa i zdania, smarowane tuszem i odciskane na papierze. Pomysł został podchwycony w innych miastach Imperium i teraz udoskonalone prasy drukarskie sprawiają, że iluminowane woluminy odchodzą w zapomnienie. Tylko czarodzieje trzymają się dawnego sposobu kopiowania ksiąg, uważając druk za wynalazek prymitywny i pozbawiony duszy.
+
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`

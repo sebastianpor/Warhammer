@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla odporność fizyczną Bohatera na efekty zranień, trucizn i różnych chorób.

@@ -1,0 +1,1 @@
+Ta cecha, wynikająca z cechy [[Odporność]], określa zdolność Bohatera do ignorowania części otrzymanych obrażeń.

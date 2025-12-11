@@ -1,0 +1,1 @@
+Bohater w niezwykle precyzyjny i zręczny sposób potrafi kierować działaniami szczurogrów, stad olbrzymich -szczurów oraz innych zmutowanych zwierząt - wytworów badaczy z klanu Moulder. Dowodząc takimi stworzeniami, otrzymuje modyfikator +20 do testów dowodzenia i tresury.

@@ -1,0 +1,1 @@
+Tego rodzaju oręż jest często używany do pojedynków. Wartość każdego trafienia krytycznego zadanego przy użyciu broni "precyzyjnej" zwiększa się o 1. Efekt zdolności morderczy atak kumuluje się z efektem użycia broni "precyzyjnej".

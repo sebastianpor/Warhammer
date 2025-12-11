@@ -1,0 +1,1 @@
+Bohater potrafi sprzedać niemal wszystko. Otrzymuje modyfikator +10 do testów [[Targowanie|targowania]] i [[Wycena|wyceny]].

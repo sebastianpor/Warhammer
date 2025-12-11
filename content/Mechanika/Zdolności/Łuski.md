@@ -1,0 +1,1 @@
+Potwór pokryty jest twardymi łuskami, które chronią go niczym zbroja. Ta zdolność zapewnia dodatkowe **Punkty Zbroi** (w liczbie podanej w nawiasie) na wszystkich lokacjach trafienia. Na przykład, istota ze zdolnością **łuski** (2), posiada 2 **PZ** na wszystkich lokacjach trafienia.

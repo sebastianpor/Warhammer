@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla sprawność Bohatera w strzelaniu z łuku, kuszy lub broni palnej, a także w używaniu broni rzucanej.

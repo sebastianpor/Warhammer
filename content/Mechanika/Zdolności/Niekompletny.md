@@ -1,0 +1,1 @@
+Istota nie posiada normalnej dla gatunku anatomii lub brakuje jej części ciała. Jeśli otrzyma trafienie krytyczne, należy stosować zasady Nagłej Śmierci.

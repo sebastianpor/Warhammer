@@ -1,0 +1,1 @@
+Około 10 sekund.

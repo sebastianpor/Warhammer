@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla sprawność intelektualną Bohatera, jego zdolność rozumowania oraz zapamiętywania faktów.

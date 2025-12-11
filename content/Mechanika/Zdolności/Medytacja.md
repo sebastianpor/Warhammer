@@ -1,0 +1,1 @@
+Bohater potrafi skupić się na własnym wnętrzu i wejść w głęboki trans, ignorując doznania ze świata zewnętrznego. Podczas odprawiania rytuału magicznego BG otrzymuje modyfikator do poziomu mocy czaru równy wartości jego cechy Magia.

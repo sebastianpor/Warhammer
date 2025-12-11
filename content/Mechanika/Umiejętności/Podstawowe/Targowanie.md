@@ -1,0 +1,3 @@
+**Cecha**: [[Ogłada]]
+**Opis**: Umiejętność ta umożliwia negocjowanie cen towarów i usług. W przypadku towarów codziennego użytku wystarczy zwykły test umiejętności. Jeśli Bohater targuje się o cenny przedmiot (na przykład próbuje ustalić koszt wyjątkowo cennego rękopisu), Mistrz Gry może zarządzić przeciwstawny test **targowania** (z ewentualnymi modyfikatorami trudności).
+**Zdolności pokrewne**: [[Żyłka handlowa]]

@@ -1,0 +1,1 @@
+Wyjątkowa odporność organizmu pozwala Bohaterowi na osłabienie działania trucizny. Otrzymuje modyfikator +10 do [[Odporność|Odporności]] podczas testów przeciwko truciznom.

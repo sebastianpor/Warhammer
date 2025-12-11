@@ -1,0 +1,3 @@
+**Cecha**: [[Ogłada]]
+**Opis**: Korzystający z tej umiejętności Bohater cieszy się posłuchem u podwładnych. Po udanym teście umiejętności podwładni dokładnie wypełniają jego polecenia. Nieudany test powoduje, że rozkaz zostaje wypełniony błędnie lub też nie zostaje wykonany w ogóle (zależnie od decyzji Mistrza Gry). Dowodzenie nie ma wpływu na zachowanie osób postronnych, umożliwia posłuszeństwo osób podlegających władzy Bohatera.
+**Zdolności pokrewne**: brak

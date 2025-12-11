@@ -1,0 +1,3 @@
+**Objawy**: Biegunka to pospolita choroba, która powoduje, że chory w stosunkowo krótkim czasie wydala z siebie ogromną ilość na wpół strawionego pożywienia. Jej odmianą jest wyjątkowo uciążliwa krwawa biegunka, uważana za karę boską sprowadzaną na grzeszników i ludzi podłych. Stosowane medykamenty także nie należą do najprzyjemniejszych. Dotkniętym chorobą zaleca się wdychanie oparów siarkowych, spożywanie krwistej kaszanki, nacieranie świńskim tłuszczem lub stosowanie czopków z wosku.
+**Czas trwania**: 3 dni
+**Efekty**: Poważne odwodnienie organizmu powoduje, że postać otrzymuje modyfikator -10 do wszystkich cech głównych.

@@ -1,0 +1,1 @@
+Bohater, który wykonuje “atak wielokrotny" (więcej na ten temat w **Rozdziale VI: Walka, obrażenia i ruch**), może poświęcić jeden z ataków, otrzymując w zamian możliwość sparowania ataku przeciwnika. Na przykład Bohater mający 3 Ataki i deklarujący atak wielokrotny, mógłby wykonać dwa ataki i raz sparować atak przeciwnika. Bohater nadal może parować najwyżej jeden atak na rundę.

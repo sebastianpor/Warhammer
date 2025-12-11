@@ -1,0 +1,1 @@
+Bohater potrafi umiejętnie manipulować Wiatrami Magii. Otrzymuje modyfikator +10 do testów [[Splatanie magii|splatania magii]] oraz [[Wykrywanie magii|wykrywania magii]].

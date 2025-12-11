@@ -1,0 +1,3 @@
+**Cecha**: [[Siła Woli]]
+**Opis**: Używając hipnozy Bohater może wprowadzić inną osobę w trans. Uwaga hipnotyzowanej osoby musi być przez minutę skupiona na jednej rzeczy (często wykorzystuje się jakąś błyskotkę na łańcuszku lub zapaloną świecę). Potem należy wykonać test umiejętności. Osoby próbujące opierać się hipnozie mogą wykonać test [[Siła Woli|Siły Woli]]. Po wprowadzeniu osoby w trans, Bohater może jej zadać jedno pytanie za każde 10 punktów swojej Siły Woli. Osoba udziela odpowiedzi szczerze, zgodnie ze swoją wiedzą. Jeśli głęboko w coś wierzy, to udzieli takiej właśnie informacji. Po udzieleniu odpowiedzi na ostatnie pytanie osoba wychodzi z transu.
+**Zdolności pokrewne**: brak

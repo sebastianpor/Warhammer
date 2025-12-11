@@ -1,0 +1,1 @@
+ Postać jest nieumarłym stworem, przywróconym do życia za pomocą **magii nekromanckiej** (patrz **Rozdział VII: Magia**). Jest odporna na [[Strach]], [[Groza|Grozę]], trucizny, choroby oraz na wszystkie czary, umiejętności i zdolności, które wpływają na emocje i umysł.

@@ -1,0 +1,1 @@
+Zakład farmaceutyczno-paserski w [[Altdorf]]

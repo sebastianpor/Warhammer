@@ -1,0 +1,1 @@
+Bohater poznał sekret wykuwania runy mistrzowskiej - magicznego znaku o olbrzymiej mocy. Każda runa mistrzowska jest odrębną zdolnością i musi zostać wykupiona oddzielnie. Opisy najczęściej wykuwanych run mistrzowskich można znaleźć na str. 216-217.

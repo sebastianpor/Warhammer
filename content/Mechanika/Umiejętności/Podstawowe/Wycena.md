@@ -1,0 +1,3 @@
+**Cecha**: [[Inteligencja]]
+**Opis**: Bohater potrafi szacować wartość rzeczy codziennego użytku, jak również przedmiotów wartościowych, takich jak biżuteria, klejnoty i dzieła sztuki. Udany test umiejętności pozwala określić rynkową wartość przedmiotu. Ponieważ nieudany test umiejętności może spowodować błędne oszacowanie wartości przedmiotu, Mistrz Gry powinien wykonać rzut w tajemnicy i zależnie od wyniku poinformować gracza o ustalonej w ten sposób wartości przedmiotu.
+**Zdolności pokrewne**: [[Talent artystyczny]], [[Żyłka handlowa]]

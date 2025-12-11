@@ -1,0 +1,1 @@
+Bohater odczuwa stałą, palącą potrzebę zabijania. Sprowokowany, wpada w straszliwą furię. Może użyć tej zdolności jako akcji natychmiastowej, ale tylko w swojej turze. Na jedną rundę otrzymuje modyfikator +1 do **Ataków** i +2 do **Szybkości**, jednak pod koniec rundy otrzymuje trafienie z **Siłą** 3 (50% szans na 2 trafienia), bez uwzględnienia pancerza.

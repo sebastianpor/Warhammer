@@ -1,0 +1,1 @@
+Broń jest nieporęczna i władający nią postać szybko się męczy. Jeśli broń jest jednocześnie "[[Druzgocący|druzgocąca]]" i "[[Ciężki|ciężka]]", zasada dotyczące broni  "[[Druzgocący|druzgoczącej]]" mają zastosowanie tylko w pierwszej [[Runda|rundzie]] walki.

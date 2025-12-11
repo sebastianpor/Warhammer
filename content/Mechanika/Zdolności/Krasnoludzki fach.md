@@ -1,0 +1,1 @@
+Krasnoludy są urodzonymi rzemieślnikami. Bohater otrzymuje modyfikator +10 do testów **rzemiosła: górnictwo, kamieniarstwo, jubilerstwo, piwowarstwo, płatnerstwo i rusznikarstwo.**

@@ -1,0 +1,1 @@
+Broń "szybka" umożliwia zadawanie błyskawicznych ciosów. Przeciwnik otrzymuje modyfikator -10 do WW przy parowaniu lub unikaniu ciosów zadawanych tego rodzaju orężem. 

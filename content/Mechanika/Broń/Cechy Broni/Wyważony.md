@@ -1,0 +1,1 @@
+Tego rodzaju oręż jest doskonale wyważony i może być trzymany w drugiej ręce jako pomoc w walce. Zwykle korzysta się z niego w połączniu z rapierem albo szpadą. Jeśli broń trzymana w drugiej ręce jest "wyważona", postać nie otrzymuje modyfikatora -20 do **WW** związanego z używaniem broni w słabszej ręce.

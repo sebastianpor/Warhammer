@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla sprawność fizyczną Bohatera, szybkość jego reakcji oraz sprawność manualną.

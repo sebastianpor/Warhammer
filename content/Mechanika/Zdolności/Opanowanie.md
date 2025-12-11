@@ -1,0 +1,1 @@
+Bohater nigdy nie traci zimnej krwi. Otrzymuje +5 do [[Siła Woli|Sily Woli]], dodawane do początkowej wartości cechy.

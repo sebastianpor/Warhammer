@@ -1,0 +1,1 @@
+Używając tego rodzaju oręż postać może jednym ciosem pozbawić przeciwnika przytomności. Otrzymuje modyfikator +10 do **Krzepy** przy próbach ogłuszenia przeciwnika

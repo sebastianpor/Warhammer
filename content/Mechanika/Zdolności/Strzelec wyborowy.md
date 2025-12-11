@@ -1,0 +1,1 @@
+Bohater potrafi wyjątkowo celnie strzelać. Otrzymuje +5 do [[Umiejętności Strzeleckie|Umiejętności Strzeleckich]], dodawane do początkowej wartości cechy.

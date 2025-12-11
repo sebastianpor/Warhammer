@@ -1,0 +1,1 @@
+Bohater obdarzony jest doskonałym wzrokiem. Otrzymuje modyfikator +10 do testów [[Spostrzegawczość|spostrzegawczości]] podczas rozglądania się oraz do testów [[Czytanie z ruchu warg|czytania z warg]].

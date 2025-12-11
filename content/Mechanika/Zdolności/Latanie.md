@@ -1,0 +1,1 @@
+Postać potrafi latać. Zasady dotyczące latania znajdziesz w **Rozdziale VI: Walka, obrażenia i ruch**.

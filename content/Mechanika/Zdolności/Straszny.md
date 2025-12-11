@@ -1,0 +1,1 @@
+Wygląd postaci wywołuje przestrach wśród obserwatorów. Swoim zachowaniem wzbudza [[Strach]] zgodnie z zasadami opisanymi w **Rozdziale IX: Mistrz Gry**.

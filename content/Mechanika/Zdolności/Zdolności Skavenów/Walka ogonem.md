@@ -1,0 +1,1 @@
+Bohater może władać dowolną bronią zwykłą za pomocą ogona.

@@ -1,0 +1,1 @@
+Bohater jest nieprawdopodobnym szczęściarzem. Wydaje się wychodzić obronną ręką z najgorszych opresji. Każdego dnia dostaje dodatkowy [[Punkty Szczęścia]]. 

@@ -1,0 +1,1 @@
+Dzięki tej zdolności Bohater potrafi szybko zareagować, błyskawicznie dobywając broni lub wyciągając inny przedmiot zza pasa lub z kieszeni. Raz na rundę może użyć akcji użycie przedmiotu" jako [[Akcja#Natychmiastowa|akcji natychmiastowej]].

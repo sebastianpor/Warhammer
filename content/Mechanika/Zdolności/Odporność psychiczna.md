@@ -1,0 +1,1 @@
+Opis: Bohater jest mniej podatny na efekt szokujących i przerażających wydarzeń. Do momentu uzbierania 8 [[Punkty Obłędu|Punktów Obłędu]] nie musisz testować, czy Bohater nabawił się choroby umysłu. Bohater popada w obłęd (wykazuje objawy pierwszej choroby umysłowej) dopiero po uzbieraniu 14 Punktów Obłędu.

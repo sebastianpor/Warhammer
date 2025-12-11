@@ -1,0 +1,1 @@
+Bohater jest wyjątkowo odporny na ból i zranienia. Otrzymuje +1 do [[Żywotność|Żywotności]], dodawane do początkowej wartości cechy.

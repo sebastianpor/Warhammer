@@ -1,0 +1,1 @@
+Bohater obdarzony jest wyjątkową siłą. Otrzymuje +5 do **Krzepy**, dodawane do początkowej wartości cechy. Może to zmienić wartość **Siły**.

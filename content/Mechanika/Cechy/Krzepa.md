@@ -1,0 +1,1 @@
+ Ta cecha odzwierciedla tężyznę fizyczną Bohatera.

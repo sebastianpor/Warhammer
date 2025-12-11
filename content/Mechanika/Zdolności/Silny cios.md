@@ -1,0 +1,1 @@
+Dzięki doświadczeniu nabytemu w wielu walkach Bohater potrafi precyzyjnie wymierzać ciosy w walce wręcz. Otrzymuje modyfikator +1 do obrażeń zadawanych bronią białą.

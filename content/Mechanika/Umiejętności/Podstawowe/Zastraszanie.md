@@ -1,0 +1,3 @@
+**Cecha**: [[Krzepa]]
+**Opis**: Dzięki tej umiejętności Bohater może zastraszać lub zmuszać do uległości inne osoby. Ofiary, które nie chcą ugiąć się przed groźbami, mogą wykonać test [[Siła Woli|Siły Woli]]. Reakcja postaci zależy całkowicie od decyzji Mistrza Gry, który bierze pod uwagę jej osobowość oraz wynik testu zastraszania. W niektórych sytuacjach (szantaż, itp.), Mistrz Gry może uznać, że bardziej odpowiednią cechą do testu zastraszania może być [[Ogłada]].
+**Zdolności pokrewne**: [[Groźny]]

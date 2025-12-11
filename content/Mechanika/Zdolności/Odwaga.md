@@ -1,0 +1,1 @@
+Bohater odznacza się wyjątkową odwagą. Otrzymuje modyfikator +10 do [[Siła Woli|Siły Woli]] podczas testów przeciwko [[Strach|Strachowi]] i [[Groza|Grozie]] oraz [[Zastraszanie|zastraszaniu]].

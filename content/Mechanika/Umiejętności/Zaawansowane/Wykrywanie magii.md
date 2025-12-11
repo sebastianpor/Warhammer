@@ -1,0 +1,3 @@
+**Cecha**: [[Siła Woli]]
+**Opis**: Umiejętność ta umożliwia Bohaterowi wykrywanie subtelnych zawirowań, jakie towarzyszą magicznej aurze. Czarodzieje opisują to jako szósty, siódmy i ósmy zmysł człowieka. Wśród chłopstwa to zjawisko znane jest pod nazwą „wiedźmi wzrok". Udany test umiejętności pozwala określić, czy przedmiot, postać lub obszar pozostaje pod wpływem czaru. Wykorzystując tę umiejętność, czarodziej może ustalić siłę Wiatrów Magii w najbliższej okolicy. Dodatkowe informacje na ten temat znajdziesz w **Rozdziale VII: Magia**.
+**Zdolności pokrewne**: [[Zmysł magii]]

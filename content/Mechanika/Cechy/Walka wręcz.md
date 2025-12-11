@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla sprawność Bohatera w walce, tak bronią białą, jak i bez broni.

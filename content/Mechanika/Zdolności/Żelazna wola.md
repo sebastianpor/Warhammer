@@ -1,0 +1,1 @@
+Potwór jest odporny na [[Strach]]i [[Groza|Grozę]], a także na efekty umiejętności **zastraszanie** oraz zdolności **[[Niepokojący|niepokojący]]**.

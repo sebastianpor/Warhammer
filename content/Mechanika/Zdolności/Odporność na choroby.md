@@ -1,0 +1,1 @@
+Opis: Bohater jest obdarzony końskim zdrowiem. Otrzymuje modyfikator +10 do [[Odporność|Odporności]] podczas testów przeciwko chorobom.

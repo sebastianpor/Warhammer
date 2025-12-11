@@ -1,0 +1,1 @@
+Bohater zna większość podstawowych technik magicznych. Podobnie jak w przypadku magii czarnoksięskiej, magia prosta to nie jedna zdolność, ale wiele różnych. Skaveny w szczególności opanowały podstawy Tradycji Spaczenia, do której należą zaklęcia magii prostej (spaczeniowej). Więcej informacji na ten temat można znaleźć w Rozdziale V: Wojna.

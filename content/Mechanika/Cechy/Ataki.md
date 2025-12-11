@@ -1,0 +1,1 @@
+Ta cecha określa szybkość ataku Bohatera. Wartość cechy oznacza liczbę ataków, jakie może on wykonać w ciągu 10 sekund.

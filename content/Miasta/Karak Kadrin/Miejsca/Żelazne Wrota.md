@@ -1,0 +1,1 @@
+To najbardziej niebezpieczna tawerna w całym [[Karak Kadrin]]. Jest odwiedzana przez [[Krasnoludzcy Zabójcy|Krasnoludzkich Zabójców]], strażników tuneli, a także wszelkiego rodzaju szemranych typów i wyrzutków.

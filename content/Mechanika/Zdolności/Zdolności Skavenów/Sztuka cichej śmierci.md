@@ -1,0 +1,1 @@
+Bohater opanował zabójczą sztukę walki otwartymi dłońmi, nauczaną przez mistrzów sztuk walki w [[Kataj|Kataju]]. Po wykonaniu udanego ataku bez broni zadaje trafienie z **Siłą** -3, a **Punkty Zbroi** nie liczą się podwójnie.

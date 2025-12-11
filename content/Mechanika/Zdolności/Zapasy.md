@@ -1,0 +1,1 @@
+Bohater wyjątkowo dobrze walczy bez broni. Wykonując chwyt, otrzymuje modyfikator +10 do [[Walka wręcz|Walki Wręcz]]. Dodatkowo otrzymuje modyfikator +10 do [[Krzepa|Krzepy]], gdy chwyta przeciwnika lub gdy wyzwała się z uścisku.

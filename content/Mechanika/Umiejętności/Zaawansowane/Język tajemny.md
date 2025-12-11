@@ -1,0 +1,3 @@
+**Cecha**: [[Inteligencja]]
+**Opis**: Dzięki tej umiejętności Bohater może rzucać zaklęcia. Znajomość języka tajemnego jest konieczna przy używaniu magicznych formuł. W odróżnieniu od innych języków, język tajemny nie jest używany w codziennych rozmowach, a wyłącznie do manipulowania mocą magiczną. Wszystkie magiczne pergaminy i księgi zapisane są w określonym języku tajemnym. Istnieje wiele języków tajemnych. Najczęściej używane to: demoniczny, magiczny (znany wśród uczonych w Imperium pod nazwą Lingua Praestantia) i tajemny elfi.
+**Zdolności pokrewne**: brak

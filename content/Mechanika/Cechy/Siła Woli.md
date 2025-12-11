@@ -1,0 +1,1 @@
+Ta cecha odzwierciedla umiejętność koncentracji Bohatera, jego determinację oraz odporność na stres.

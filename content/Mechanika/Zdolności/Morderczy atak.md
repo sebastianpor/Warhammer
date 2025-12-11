@@ -1,0 +1,1 @@
+Dzięki znajomości podstaw anatomii Bohater potrafi wymierzyć atak w newralgiczną część ciała przeciwnika. Zwiększa to o 1 **Wartość Krytyczną** wszystkich trafień krytycznych zadanych przez BG.

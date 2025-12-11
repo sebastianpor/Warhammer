@@ -1,0 +1,1 @@
+Ta cecha określa szczęście Bohatera i do pewnego stopnia jego przeznaczenie. Punkty Przeznaczenia mogą być wykorzystane, by uniknąć nieuchronnej śmierci lub okaleczenia. Szczegółowe zasady dotyczące przyznawania Punktów Przeznaczenia znajdziesz w **Rozdziale IX: Mistrz Gry**, choć nie powinieneś ich czytać bez zgody Mistrza Gry.
