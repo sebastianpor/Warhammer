@@ -6,8 +6,8 @@ W hierarchii wartości mieszkańców Starego Świata religia spadła na drugi mi
 | +5  | +5  |  -  | +5  |  -  | +10 | +10 | +10 |
 |  A  | Żyw |  S  | Wt  | Sz  | Mag | PO  | PP  |
 |  -  | +2  |  -  |  -  |  -  |  -  |  -  |  -  |
-**Umiejętności:** [[Czytanie i pisanie]], [[Leczenie]], [[Nauka]] (astronomia albo historia), [[Nauka]] (teologia), [[Przekonywanie]], [[Spostrzegawczość]], [[Język]] (klasyczny), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]])
-**Zdolności:** [[Bardzo silny]] albo [[Szybki refleks]], [[Charyzmatyczny]] albo [[Urodzony wojownik]], [[Przemawianie]]
-**Wyposażenie:** szaty kapłańskie, symbol boga
-**Profesje wstępne:** [[Fanatyk]], [[Guślarz]], [[Łowca Czarownic]], [[Łowca Wampirów]], [[Rycerz]], [[Skryba]], [[Żak]], [[Śledczy Vereny]], [[Rycerz Płonącego Słońca]], [[Bajarz]]
-**Profesje wyjściowe:** [[Cyrulik]], [[Demagog]], [[Fanatyk]], [[Kapłan]], [[Skryba]], [[Zakonnik]], [[Śledczy Vereny]]
+**Umiejętności:** [[Czytanie i pisanie]], [[Leczenie]], [[Nauka]] (astronomia albo historia), [[Nauka]] (teologia), [[Przekonywanie]], [[Spostrzegawczość]], [[Język]] (klasyczny), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]])   
+**Zdolności:** [[Bardzo silny]] albo [[Szybki refleks]], [[Charyzmatyczny]] albo [[Urodzony wojownik]], [[Przemawianie]]   
+**Wyposażenie:** szaty kapłańskie, symbol boga   
+**Profesje wstępne:** [[Fanatyk]], [[Guślarz]], [[Łowca Czarownic]], [[Łowca Wampirów]], [[Rycerz]], [[Skryba]], [[Żak]], [[Śledczy Vereny]], [[Rycerz Płonącego Słońca]], [[Bajarz]]   
+**Profesje wyjściowe:** [[Cyrulik]], [[Demagog]], [[Fanatyk]], [[Kapłan]], [[Skryba]], [[Zakonnik]], [[Śledczy Vereny]]   
