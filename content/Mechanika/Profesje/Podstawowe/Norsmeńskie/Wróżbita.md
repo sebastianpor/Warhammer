@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** [[Grabarz]], 
+**Profesje wstępne:** [[Strzygoński Mistyk]]
 **Profesje wyjściowe:** 

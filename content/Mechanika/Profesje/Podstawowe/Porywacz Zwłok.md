@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** [[Balsamista]]
+**Profesje wstępne:** [[Balsamista]], [[Grabarz]], 
 **Profesje wyjściowe:** 

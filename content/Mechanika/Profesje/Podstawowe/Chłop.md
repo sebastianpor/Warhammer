@@ -5,8 +5,8 @@ Chłopi stanowią najliczniejszą część ludności Imperium. Szlachta rządzi,
 | +5  | +5  | +5  | +10 | +5  |  -  | +5  |  -  |
 |  A  | Żyw |  S  | Wt  | Sz  | Mag | PO  | PP  |
 |  -  | +2  |  -  |  -  |  -  |  -  |  -  |  -  |
-**Umiejętności:** [[Hazard]] albo [[Kuglarstwo]] (taniec albo śpiew), [[Opieka nad zwierzętami]] albo [[Przekonywanie]], [[Oswajanie]] albo [[Rzemiosło]] (gotowanie), [[Powożenie]] albo [[Rzemiosło]] (wyrób łuków), [[Sztuka przetrwania]] albo [[Rzemiosło]] (uprawa ziemi), [[Tresura]] albo pływanie, [[Ukrywanie się]], [[Wioślarstwo]] albo [[Zastawianie pułapek]], [[Wspinaczka]] albo [[Skradanie się]]
-**Zdolności:** [[Chodu!]] albo [[Broń specjalna]] (proca), [[Twardziel]] albo [[Wędrowiec]]
-**Wyposażenie:** [[Proca]] albo [[Kij]], skórzany bukłak
-**Profesje wstępne:** brak
-**Profesje wyjściowe:** [[Banita]], [[Fanatyk]], [[Ochotnik]], [[Rybak]], [[Rzemieślnik]], [[Sługa]], [[Śmieciarz]], [[Urzędnik]], [[Węglarz]]
+**Umiejętności:** [[Hazard]] albo [[Kuglarstwo]] (taniec albo śpiew), [[Opieka nad zwierzętami]] albo [[Przekonywanie]], [[Oswajanie]] albo [[Rzemiosło]] (gotowanie), [[Powożenie]] albo [[Rzemiosło]] (wyrób łuków), [[Sztuka przetrwania]] albo [[Rzemiosło]] (uprawa ziemi), [[Tresura]] albo pływanie, [[Ukrywanie się]], [[Wioślarstwo]] albo [[Zastawianie pułapek]], [[Wspinaczka]] albo [[Skradanie się]]  
+**Zdolności:** [[Chodu!]] albo [[Broń specjalna]] (proca), [[Twardziel]] albo [[Wędrowiec]]  
+**Wyposażenie:** [[Proca]] albo [[Kij]], skórzany bukłak  
+**Profesje wstępne:** brak  
+**Profesje wyjściowe:** [[Banita]], [[Fanatyk]], [[Ochotnik]], [[Rybak]], [[Rzemieślnik]], [[Sługa]], [[Śmieciarz]], [[Urzędnik]], [[Węglarz]], [[Grabarz]]  

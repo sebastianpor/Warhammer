@@ -5,8 +5,8 @@ Cyrkowcy dostarczają rozrywki ludności [[Imperium]]. Akrobaci, siłacze, żong
 | +5  | +10 |  -  |  -  | +10 |  -  | +5  | +10 |
 |  A  | Żyw |  S  | Wt  | Sz  | Mag | PO  | PP  |
 |  -  | +2  |  -  |  -  |  -  |  -  |  -  |  -  |
-**Umiejętności:** [[kuglarstwo]] (dowolne dwa), [[opieka nad zwierzętami]] albo [[pływanie]], [[przekonywanie]], [[spostrzegawczość]], [[wiedza]] ([[Imperium]]), [[wycena]] albo [[plotkowanie]], [[Język]] ([[Imperium#Staroświatowy|staroświatowy]]) oraz jedna umiejętność do wyboru spośród: [[Brzuchomustwo]], [[gadanina]], [[hipnoza]], [[Jeździectwo]], [[Oswajanie]], [[tresura]], [[wspinaczka]], [[zwinne palce]]
-**Zdolności:** dwie zdolności do wyboru spośród: [[bardzo silny]], [[Broń specjalna]] (rzucana), [[naśladowca]], [[przemawianie]], [[strzał mierzony]], [[Szybki refleks]], [[szybkie wyciągnięcie]], [[woltyżerka]]. [[zapasy]]
-**Wyposażenie:** lekki pancerz ([[Zbroje skórzane#Skórzana kurta i kaftan|skórzany kaftan]]), jeden przedmiot do wyboru spośród: 3 noże do rzucania, 2 topory do rzucania, instrument muzyczny (dowolny), narzędzia (kuglarza), jeden przedmiot do wyboru spośród: kostium cyrkowca (dowolny) albo ubranie dobrej jakości
-**Profesje wstępne:** [[herold]], [[kanciarz]]. [[włóczykij]], [[Szuler]], [[Bajarz]]
-**Profesje wyjściowe:** [[bard]], [[kanciarz]], [[szarlatan]], [[włóczykij]]. [[Złodziej]], [[Szuler]], [[Bajarz]]
+**Umiejętności:** [[kuglarstwo]] (dowolne dwa), [[opieka nad zwierzętami]] albo [[pływanie]], [[przekonywanie]], [[spostrzegawczość]], [[wiedza]] ([[Imperium]]), [[wycena]] albo [[plotkowanie]], [[Język]] ([[Imperium#Staroświatowy|staroświatowy]]) oraz jedna umiejętność do wyboru spośród: [[Brzuchomustwo]], [[gadanina]], [[hipnoza]], [[Jeździectwo]], [[Oswajanie]], [[tresura]], [[wspinaczka]], [[zwinne palce]]  
+**Zdolności:** dwie zdolności do wyboru spośród: [[bardzo silny]], [[Broń specjalna]] (rzucana), [[naśladowca]], [[przemawianie]], [[strzał mierzony]], [[Szybki refleks]], [[szybkie wyciągnięcie]], [[woltyżerka]]. [[zapasy]]  
+**Wyposażenie:** lekki pancerz ([[Zbroje skórzane#Skórzana kurta i kaftan|skórzany kaftan]]), jeden przedmiot do wyboru spośród: 3 noże do rzucania, 2 topory do rzucania, instrument muzyczny (dowolny), narzędzia (kuglarza), jeden przedmiot do wyboru spośród: kostium cyrkowca (dowolny) albo ubranie dobrej jakości  
+**Profesje wstępne:** [[herold]], [[kanciarz]]. [[włóczykij]], [[Szuler]], [[Bajarz]], [[Strzygoński Mistyk]]  
+**Profesje wyjściowe:** [[bard]], [[kanciarz]], [[szarlatan]], [[włóczykij]]. [[Złodziej]], [[Szuler]], [[Bajarz]]  

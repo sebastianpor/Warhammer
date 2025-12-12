@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
-**Profesje wyjściowe:** [[Śledczy Vereny]]
+**Profesje wstępne:** [[Grabarz]], 
+**Profesje wyjściowe:** [[Śledczy Vereny]], 

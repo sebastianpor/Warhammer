@@ -9,5 +9,5 @@ W hierarchii wartości mieszkańców Starego Świata religia spadła na drugi mi
 **Umiejętności:** [[Czytanie i pisanie]], [[Leczenie]], [[Nauka]] (astronomia albo historia), [[Nauka]] (teologia), [[Przekonywanie]], [[Spostrzegawczość]], [[Język]] (klasyczny), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]])   
 **Zdolności:** [[Bardzo silny]] albo [[Szybki refleks]], [[Charyzmatyczny]] albo [[Urodzony wojownik]], [[Przemawianie]]   
 **Wyposażenie:** szaty kapłańskie, symbol boga   
-**Profesje wstępne:** [[Fanatyk]], [[Guślarz]], [[Łowca Czarownic]], [[Łowca Wampirów]], [[Rycerz]], [[Skryba]], [[Żak]], [[Śledczy Vereny]], [[Rycerz Płonącego Słońca]], [[Bajarz]]   
+**Profesje wstępne:** [[Fanatyk]], [[Guślarz]], [[Łowca Czarownic]], [[Łowca Wampirów]], [[Rycerz]], [[Skryba]], [[Żak]], [[Śledczy Vereny]], [[Rycerz Płonącego Słońca]], [[Bajarz]], [[Grabarz]]   
 **Profesje wyjściowe:** [[Cyrulik]], [[Demagog]], [[Fanatyk]], [[Kapłan]], [[Skryba]], [[Zakonnik]], [[Śledczy Vereny]]   

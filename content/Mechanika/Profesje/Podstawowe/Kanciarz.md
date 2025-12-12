@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** [[Szuler]], [[Bajarz]], 
+**Profesje wstępne:** [[Szuler]], [[Bajarz]], [[Strzygoński Mistyk]], 
 **Profesje wyjściowe:** [[Szuler]], 

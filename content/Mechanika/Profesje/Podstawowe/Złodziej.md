@@ -7,5 +7,5 @@
 **Umiejętności:** 
 **Zdolności:** 
 **Wyposażenie:** 
-**Profesje wstępne:** 
+**Profesje wstępne:** [[Strzygoński Mistyk]], 
 **Profesje wyjściowe:** [[Śledczy Vereny]], [[Szuler]], 
