@@ -1,4 +1,4 @@
-Czerwonym Wiatrem Magii - Aqshy - władają czarodzieje Płomienia, dzierżąc władzę nad wszelkim ogniem, od zwykłego płomyka świecy aż po rozpalone żądze namiętności. Posiadanie zdolności magia tajemna (ogień) umożliwia wybór jednej z trzech list czarów z Tabeli Zaklęcia Tradycji Ognia.
+Czerwonym Wiatrem Magii - Aqshy - władają czarodzieje Płomienia, dzierżąc władzę nad wszelkim ogniem, od zwykłego płomyka świecy aż po rozpalone żądze namiętności. Posiadanie zdolności [[magia tajemna]] (ogień) umożliwia wybór jednej z trzech list czarów z Tabeli Zaklęcia Tradycji Ognia.
 
 # Podgrzanie
 **Wymagany poziom mocy:** 4  
@@ -41,7 +41,7 @@ Czerwonym Wiatrem Magii - Aqshy - władają czarodzieje Płomienia, dzierżąc w
 # Niegasnący płomień
 **Wymagany poziom mocy:** 11  
 **Czas rzucania:** [[Akcja]]  
-**Składnik:** miech kowalski (+2)  
+**Składnik:** [[miech]] kowalski (+2)  
 **Opis:** Czarodziej podsyca dowolny ogień (do wielkości sporego ogniska) w zasięgu 12 metrów, powodując, że nie da się go ugasić wodą ani przez silny powiew, zarówno w normalny sposób, jak też magicznie. Czas trwania czaru zależy od wartości [[Magia|Mag]] czarodzieja (1 = dzień; 2 = tydzień; 3 = miesiąc; 4 = rok). Płomień nie potrzebuje podsycania, nie zużywa też paliwa. Jeśli źródło płomienia zostanie rozbite lub rozproszone (np. ognisko zostanie rozgrzebane), poszczególne kawałki płoną dalej. Po upływie czasu trwania czaru ogień płonie dalej, dopóki nie zostanie ugaszony lub nie wypali się paliwo.  
 
 # Ognista kula
@@ -53,7 +53,7 @@ Czerwonym Wiatrem Magii - Aqshy - władają czarodzieje Płomienia, dzierżąc w
 # Tarcza Aqshy 
 **Wymagany poziom mocy:** 12  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** żelazny amulet (+2)  
+**Składnik:** żelazny [[amulet]] (+2)  
 **Czas trwania:** 1k10 minut  
 **Opis:** Czarodziej otacza się wirującymi strumieniami Czerwonego Wiatru Magii, które chronią go przed płomieniami. W trakcie trwania czaru otrzymuje modyfikator +20 do Odporności przeciwko ognistym atakom (zionięcie smoka, ogniste kule, itp.). Czarodziej może rzucić to zaklęcie wyłącznie na siebie.  
 
@@ -81,7 +81,7 @@ Czerwonym Wiatrem Magii - Aqshy - władają czarodzieje Płomienia, dzierżąc w
 # Żar serc
 **Wymagany poziom mocy:** 16  
 **Czas rzucania:** 2 [[Akcja#Podwójna|Akcje Podwójne]]  
-**Składnik:** fiolka z mieszanką krwi i oleju (+2)  
+**Składnik:** [[fiolka]] z mieszanką krwi i oleju (+2)  
 **Czas trwania:** 10 minut  
 **Opis:** Czarodziej rozpala gniew w sercach towarzyszy znajdujących się w promieniu 30 metrów. W trakcie trwania czaru otrzymują oni modyfikator +20 do [[Siła Woli|SW]] podczas testów [[Strach|Strachu]] i [[Groza|Grozy]]. Jeśli oddalą się od czarodzieja na odległość przekraczającą 30 metrów, czar przestanie na nich działać.  
 
@@ -101,13 +101,13 @@ Czerwonym Wiatrem Magii - Aqshy - władają czarodzieje Płomienia, dzierżąc w
 # Ognisty podmuch
 **Wymagany poziom mocy:** 22  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** sztylet z potrójnie hartowanej stali (+3)  
+**Składnik:** [[sztylet]] z potrójnie hartowanej stali (+3)  
 **Opis:** Czarodziej ogniskuje moc i posyła 1k10 ognistych podmuchów w kierunku jednego lub kilku przeciwników znajdujących się w odległości do 48 metrów. Podmuchy należy traktować jak magiczne pociski o Sile 4. Minimalna liczba wyczarowanych podmuchów nie może być mniejsza od wartości Magii czarodzieja.  
 
 # Łańcuch Aqshy
 **Wymagany poziom mocy:** 24  
 **Czas rzucania:** 2 [[Akcja#Podwójna|Akcje Podwójne]]  
-**Składnik:** miniaturowa tarcza ze złota (+3)  
+**Składnik:** miniaturowa [[tarcza]] ze złota (+3)  
 **Czas trwania:** liczba minut równa wartości [[Magia|Mag]] czarodzieja  
 **Opis:** Czarodziej spowija Czerwonym Wiatrem Magii towarzyszy tworzących z nim łańcuch połączonych rąk. W trakcie trwania czaru wszyscy zyskują odporność na ogień. Jeśli łańcuch zostanie przerwany, każda osoba, która nie jest połączona (bezpośrednio lub pośrednio) łańcuchem rąk z czarodziejem, natychmiast traci magiczną odporność na ogień. Łańcuch Aqshy chroni przed każdym ogniem pochodzenia naturalnego, ognistymi efektami zaklęć o wymaganym poziomie mocy niższym od 24, jak również przed ognistymi atakami stworzeń o [[Siła Woli|SW]] niższej od SW czarodzieja. Czarodziej może to zaklęcie rzucić tylko na siebie i on zawsze stanowi główne ogniwo łańcucha dłoni.  
 

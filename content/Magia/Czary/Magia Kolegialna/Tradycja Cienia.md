@@ -1,4 +1,4 @@
-Szarzy czarodzieje, zwani też czarodziejami Cienia, wykorzystują moc Szarego Wiatru Magii - Ulgu - aby tworzyć iluzje i wprowadzać w błąd swoich przeciwników. Posiadanie zdolności magia tajemna (cień) umożliwia wybór jednej z trzech list czarów z Tabeli Tradycji.
+Szarzy czarodzieje, zwani też czarodziejami Cienia, wykorzystują moc Szarego Wiatru Magii - *Ulgu* - aby tworzyć iluzje i wprowadzać w błąd swoich przeciwników. Posiadanie zdolności [[magia tajemna]] (cień) umożliwia wybór jednej z trzech list czarów z Tabeli Tradycji.
 # Płaszcz cienia
 **Wymagany poziom mocy:** 5  
 **Czas rzucania:** [[Akcja]]  
@@ -70,7 +70,7 @@ Rumak posiada współczynniki [[Koń wierzchowy|konia wierzchowego]], a oprócz 
 # Dusiciel
 **Wymagany poziom mocy:** 13  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** garota, którą uduszono człowieka (+2)  
+**Składnik:** [[garota]], którą uduszono człowieka (+2)  
 **Opis:** Macki oleistej czerni owijają się wokół dowolnej postaci w zasięgu 12 metrów od czarodzieja, zaciskając się na jej ciele. Ofiara czaru zaczyna się dusić, jednak udany test [[Odporność|Odp]] pozwala odeprzeć czar. Czarodziej może podtrzymywać zaklęcie, poświęcając akcję w każdej następnej turze, ale w tym czasie nie może rzucać innych czarów. W każdej kolejnej rundzie podtrzymywania test [[Odporność|Odp]] staje się coraz trudniejszy (kumulatywny modyfikator -10), aż do wykonania nieudanego testu. W tym momencie ofiara zaczyna otrzymywać obrażenia. W pierwszej rundzie otrzymuje trafienie z Siłą 1 (bez uwzględnienia Punktów Zbroi), natomiast w każdej następnej Siła trafienia wzrasta o 1. Ofiara nie może wykonywać kolejnych testów [[Odporność|Odp]] - magiczne macki po prostu coraz silniej zaciskają się wokół jej ciała. Efekt czaru mija, gdy czarodziej przerwie czar lub przestanie podtrzymywać zaklęcie (więcej informacji na ten temat znajdziesz w Księdze Zasad, w podrozdziale „Ograniczenia podczas rzucania czarów”, str. 149 i 151).  
 
 # Palący dotyk cienia
@@ -90,7 +90,7 @@ Rumak posiada współczynniki [[Koń wierzchowy|konia wierzchowego]], a oprócz 
 **Czas rzucania:** [[Akcja]]  
 **Składnik:** oczy salamandry (+2)  
 **Czas trwania:** liczba [[Runda|Rund]] równa wartości [[Magia|Mag]] czarodzieja  
-**Opis:** Czarodziej przywołuje moc, która gęstnieje i tworzy obszar nieprzeniknionej ciemności w dowolnym miejscu w odległości do 48 metrów. W trakcie trwania czaru wszystkie postacie w promieniu 5 metrów wokół wskazanego miejsca przestają widzieć cokolwiek, nawet jeśli korzystają ze zdolności widzenie w ciemności. Na początku swojej tury muszą wykonać test [[Siła Woli|SW]]. Nieudany test oznacza, że zostają oszołomione przez magiczną moc i w tej rundzie mogą wykonać tylko jedną akcję zwykłą (nie mogą wykonywać [[Akcja#Podwójna|akcji podwójnych]]).  
+**Opis:** Czarodziej przywołuje moc, która gęstnieje i tworzy obszar nieprzeniknionej ciemności w dowolnym miejscu w odległości do 48 metrów. W trakcie trwania czaru wszystkie postacie w promieniu 5 metrów wokół wskazanego miejsca przestają widzieć cokolwiek, nawet jeśli korzystają ze zdolności [[widzenie w ciemności]]. Na początku swojej tury muszą wykonać test [[Siła Woli|SW]]. Nieudany test oznacza, że zostają oszołomione przez magiczną moc i w tej rundzie mogą wykonać tylko jedną akcję zwykłą (nie mogą wykonywać [[Akcja#Podwójna|akcji podwójnych]]).  
 
 # Całun niewidzialności
 **Wymagany poziom mocy:** 17  
@@ -118,7 +118,7 @@ Rumak posiada współczynniki [[Koń wierzchowy|konia wierzchowego]], a oprócz 
 **Wymagany poziom mocy:** 21  
 **Czas rzucania:** [[Akcja]]  
 **Składnik:** nóż ze skuwanego na zimno żelaza (+3)  
-**Opis:** Czarodziej czerpie moc cienia i tworzy z niej kilka sztyletów (tyle, ile wynosi jego Magia). Może rzucić nimi w jednego lub kilku przeciwników znajdujących się w odległości do 48 metrów. Są to magiczne pociski zadające obrażenia o Sile 3. Sztylety są niematerialne i przebijają każdą niemagiczną zbroję (od obrażeń nie odejmuje się PZ pancerza noszonego przez postać).  
+**Opis:** Czarodziej czerpie moc cienia i tworzy z niej kilka sztyletów (tyle, ile wynosi jego [[Magia]]). Może rzucić nimi w jednego lub kilku przeciwników znajdujących się w odległości do 48 metrów. Są to magiczne pociski zadające obrażenia o Sile 3. Sztylety są niematerialne i przebijają każdą niemagiczną zbroję (od obrażeń nie odejmuje się PZ pancerza noszonego przez postać).  
 
 # Materia cienia
 **Wymagany poziom mocy:** 22  

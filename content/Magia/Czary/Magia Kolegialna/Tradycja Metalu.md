@@ -1,4 +1,4 @@
-Specjalizujący się w naukach ścisłych, a zwłaszcza w alchemii, Magistrowie Chamon - Zółtego Wiatru Magii - są mistrzami trudnej sztuki transmutacji. Posiadanie zdolności magia tajemna (metal) umożliwia wybór jednej z trzech list czarów z Tabeli Zaklęcia Tradycji Metalu.
+Specjalizujący się w naukach ścisłych, a zwłaszcza w alchemii, Magistrowie Chamon - Zółtego Wiatru Magii - są mistrzami trudnej sztuki transmutacji. Posiadanie zdolności [[magia tajemna]] (metal) umożliwia wybór jednej z trzech list czarów z Tabeli Zaklęcia Tradycji Metalu.
 # Podsycenie ognia
 **Wymagany poziom mocy:** 4  
 **Czas rzucania:** [[Akcja]]  
@@ -18,7 +18,7 @@ Specjalizujący się w naukach ścisłych, a zwłaszcza w alchemii, Magistrowie 
 **Czas rzucania:** [[Akcja]]  
 **Składnik:** niewielki pilnik do metalu (+1)  
 **Czas trwania:** 1k10 [[Runda|rund]]  
-**Opis:** Czarodziej nieznacznie zmienia wytrzymałość i strukturę dowolnego egzemplarza broni w zasięgu 24 metrów. W trakcie trwania czaru oręż traci wszelkie korzystne cechy, a władająca nim osoba otrzymuje modyfikator -10 do WW lub US. Co więcej, skaza nasila wady oręża. Broń eksperymentalna zacina się przy wyniku rzutu 88-96 i wybucha przy wyniku 97-00; broń zawodna zacina się przy wyniku rzutu 92-97 i wybucha przy wyniku 98-00, natomiast parowanie ciosów zadawanych bronią „powolną" przeprowadzane jest z modyfikatorem +20.  
+**Opis:** Czarodziej nieznacznie zmienia wytrzymałość i strukturę dowolnego egzemplarza broni w zasięgu 24 metrów. W trakcie trwania czaru oręż traci wszelkie korzystne cechy, a władająca nim osoba otrzymuje modyfikator -10 do [[Walka wręcz|WW]] lub [[Umiejętności Strzeleckie|US]]. Co więcej, skaza nasila wady oręża. Broń eksperymentalna zacina się przy wyniku rzutu 88-96 i wybucha przy wyniku 97-00; broń zawodna zacina się przy wyniku rzutu 92-97 i wybucha przy wyniku 98-00, natomiast parowanie ciosów zadawanych bronią [[Powolny|powolną]] przeprowadzane jest z modyfikatorem +20.  
 
 # Inskrypcja
 **Wymagany poziom mocy:** 7  
@@ -75,7 +75,7 @@ Specjalizujący się w naukach ścisłych, a zwłaszcza w alchemii, Magistrowie 
 # Tajemne ryty
 **Wymagany poziom mocy:** 14  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** fiolka atramentu z płatkami złota (+3)  
+**Składnik:** [[fiolka]] atramentu z płatkami złota (+3)  
 **Opis:** To zaklęcie działa podobnie jak inskrypcja, ale za jego pomocą można zapisać tajemną wiadomość, niewidzialną nawet mimo dokładnych oględzin. Odczytanie zapisanej w ten sposób wiadomości wymaga ponownego rzucenia czaru tajemne ryty, który sprawia, że wiadomość staje się widoczna. Czarodzieje Kolegium Złota często korzystają z tego zaklęcia do wymiany wiadomości. Zwykle ponownie rzucają je na odczytaną wiadomość, aby ukryć jej treść przed niepowołanymi osobami.  
 
 # Postarzenie
@@ -88,7 +88,7 @@ Specjalizujący się w naukach ścisłych, a zwłaszcza w alchemii, Magistrowie 
 # Metoda prób i błędów
 **Wymagany poziom mocy:** 16  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** pusta szklana fiolka (+1)   
+**Składnik:** pusta szklana [[fiolka]] (+1)   
 **Czas trwania:** 1 [[Runda]]  
 **Opis:** Czarodziej używa magii, by kierować poczynaniami wszystkich towarzyszy znajdujących się w odległości do 12 metrów. W trakcie trwania czaru każdy z nich może przerzucić wynik pojedynczego testu lub rzutu na obrażenia. Wynik drugiego rzutu jest ostateczny.  
 
@@ -103,7 +103,7 @@ Specjalizujący się w naukach ścisłych, a zwłaszcza w alchemii, Magistrowie 
 **Wymagany poziom mocy:** 18  
 **Czas rzucania:** 1 minuta  
 **Składnik:** talizman w kształcie młota i kowadła (+2)  
-**Opis:** Czarodziej używa mocy, aby przemienić dowolny metalowy przedmiot w inny. Zaklęcie nie umożliwia zmiany rodzaju metalu. Czarodziej może więc przemienić stalowy puklerz w dzbanek, ale nie może go zmienić w dzbanek cynowy. Jakość nowego przedmiotu można określić za pomocą testu splatania magii. Tworzenie przedmiotu najlepszej jakości to Bardzo Trudny test (-30), dobrej jakości to Trudny test (-20).
+**Opis:** Czarodziej używa mocy, aby przemienić dowolny metalowy przedmiot w inny. Zaklęcie nie umożliwia zmiany rodzaju metalu. Czarodziej może więc przemienić stalowy [[puklerz]] w [[dzbanek]], ale nie może go zmienić w [[dzbanek]] cynowy. Jakość nowego przedmiotu można określić za pomocą testu splatania magii. Tworzenie przedmiotu najlepszej jakości to Bardzo Trudny test (-30), dobrej jakości to Trudny test (-20).
 
 Tworzenie przedmiotu przeciętnej jakości nie powoduje żadnych modyfikatorów do testu splatania magii. Nieudany test oznacza, że nowy przedmiot jest kiepskiej jakości. Przekształcenie metalu jest czarem dotykowym, który nie działa na przedmioty magiczne.  
 

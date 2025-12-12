@@ -1,4 +1,4 @@
-Tradycja Niebios to magia gwiazd, nieba i ruchów sfer niebieskich, a także przepowiedni i przeznaczenia. Wróżbiarski aspekt Tradycji Niebios zwany jest powszechnie Astromancją, natomiast magia pogody zdobyła sobie nazwę Meteomancji. Obie specjalizacje opierają się na manipulowaniu Azyr - Niebieskim Wiatrem Magii. Posiadanie zdolności magia tajemna (niebiosa) umożliwia wybór jednej z trzech list czarów z Tabeli Zaklęcia Tradycji Niebios.
+Tradycja Niebios to magia gwiazd, nieba i ruchów sfer niebieskich, a także przepowiedni i przeznaczenia. Wróżbiarski aspekt Tradycji Niebios zwany jest powszechnie Astromancją, natomiast magia pogody zdobyła sobie nazwę Meteomancji. Obie specjalizacje opierają się na manipulowaniu *Azyr* - Niebieskim Wiatrem Magii. Posiadanie zdolności [[magia tajemna]] (niebiosa) umożliwia wybór jednej z trzech list czarów z Tabeli Zaklęcia Tradycji Niebios.
 
 # Wypolerowanie
 **Wymagany poziom mocy:** 4  
@@ -20,7 +20,7 @@ Tradycja Niebios to magia gwiazd, nieba i ruchów sfer niebieskich, a także prz
 **Czas trwania:** 1 [[Runda]]  
 **Opis:** Czarodziej przepowiada najbliższą przyszłość, wróżąc z sobie tylko widocznych znaków na niebie. W następnej turze odgrywający go gracz może przerzucić wynik jednej kostki, użytej podczas dowolnego rzutu (testu umiejętności lub cechy, rzutu na obrażenia, ustalenia poziomu mocy, itp.).  
 
-# Niebiańska luneta
+# Niebiańska [[luneta]]
 **Wymagany poziom mocy:** 8  
 **Czas rzucania:** [[Akcja]]  
 **Składnik:** ziarenko czystego piasku (+1)  
@@ -42,7 +42,7 @@ Tradycja Niebios to magia gwiazd, nieba i ruchów sfer niebieskich, a także prz
 # Przejaśnienie
 **Wymagany poziom mocy:** 12  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** fiolka z zamkniętym w środku oddechem orła (+3)  
+**Składnik:** [[fiolka]] z zamkniętym w środku oddechem orła (+3)  
 **Opis:** Strumienie Azyr usuwają z nieba wybraną chmurę, a w przypadku całkowitego zachmurzenia tworzą wśród obłoków prześwit o promieniu 50 metrów, umożliwiając czarodziejowi spojrzenie na czyste niebo. Długość czasu obserwacji zależy od pogody, gdyż zaklęcie nie powstrzymuje chmur przed ponownym formowaniem się i przesuwaniem pod wpływem wiatru. Rzucony w czasie deszczu, czar na krótki czas powstrzymuje opady. Raczej nie uchroni to przed przemoknięciem, gdyż trudno przewidzieć kierunek i siłę wiatru, szczególnie w trakcie burzy lub zamieci śnieżnej.  
 
 # Drugie proroctwo Amul
@@ -56,7 +56,7 @@ Tradycja Niebios to magia gwiazd, nieba i ruchów sfer niebieskich, a także prz
 **Wymagany poziom mocy:** 13  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
 **Składnik:** królicza łapka (+2)  
-**Opis:** Niebiosa wskazują swego wybrańca, obdarzając go łaską losu. Postać wskazana przez czarodzieja natychmiast uzyskuje Punkty Szczęścia w takiej liczbie, jaką otrzymałaby z początkiem następnego dnia. Jednakże los bywa zmienny i następnego dnia postać nie otrzymuje żadnych Punktów Szczęścia. Dopiero dzień później zacznie otrzymywać te punkty na normalnych zasadach. Rzucone ponownie na tę samą osobę, zaklęcie nie wywiera efektu, dopóki postać nie odzyska Punktów Szczęścia w normalny sposób. Jest to czar dotykowy.  
+**Opis:** Niebiosa wskazują swego wybrańca, obdarzając go łaską losu. Postać wskazana przez czarodzieja natychmiast uzyskuje [[Punkty Szczęścia]] w takiej liczbie, jaką otrzymałaby z początkiem następnego dnia. Jednakże los bywa zmienny i następnego dnia postać nie otrzymuje żadnych Punktów Szczęścia. Dopiero dzień później zacznie otrzymywać te punkty na normalnych zasadach. Rzucone ponownie na tę samą osobę, zaklęcie nie wywiera efektu, dopóki postać nie odzyska Punktów Szczęścia w normalny sposób. Jest to czar dotykowy.  
 
 # Podmuch wiatru
 **Wymagany poziom mocy:** 14  
@@ -129,7 +129,7 @@ Tradycja Niebios to magia gwiazd, nieba i ruchów sfer niebieskich, a także prz
 **Wymagany poziom mocy:** 31  
 **Czas rzucania:** 1 godzina  
 **Składnik:** pętla wisielca (+3  
-**Opis:** Czarodziej czerpie surową moc Eteru i splata ją wokół pukla włosów lub kilku kropel krwi dowolnej istoty, która znajduje się w odległości nie przekraczającej 1 kilometra. Kontrolowane przez czarodzieja strumienie magii odmieniają przeznaczenie istoty. Ofiara musi wykonać Bardzo Trudny (-30) test [[Siła Woli|SW]]. Nieudany test oznacza, że natychmiast traci 1 Punkt Przeznaczenia. Postać nie może użyć Punktu Szczęścia do przerzucenia wyniku tego testu. Jeśli nie posiada żadnego PP, Wartość Krytyczna następnego trafienia krytycznego, jakie otrzyma, automatycznie wynosi +10. Wszyscy czarodzieje w promieniu 5 kilometrów wyczuwają zakłócenie Eteru wywołane tym potężnym zaklęciem. Najwięksi Astromanci przestrzegają, iż powinno ono być używane wyłącznie wobec największych wrogów Imperium.  
+**Opis:** Czarodziej czerpie surową moc Eteru i splata ją wokół pukla włosów lub kilku kropel krwi dowolnej istoty, która znajduje się w odległości nie przekraczającej 1 kilometra. Kontrolowane przez czarodzieja strumienie magii odmieniają przeznaczenie istoty. Ofiara musi wykonać Bardzo Trudny (-30) test [[Siła Woli|SW]]. Nieudany test oznacza, że natychmiast traci 1 Punkt Przeznaczenia. Postać nie może użyć Punktu Szczęścia do przerzucenia wyniku tego testu. Jeśli nie posiada żadnego PP, Wartość Krytyczna następnego trafienia krytycznego, jakie otrzyma, automatycznie wynosi +10. Wszyscy czarodzieje w promieniu 5 kilometrów wyczuwają zakłócenie Eteru wywołane tym potężnym zaklęciem. Najwięksi Astromanci przestrzegają, iż powinno ono być używane wyłącznie wobec największych wrogów [[Imperium]].  
 
 | Ścieżka Główna                                                    | Ścieżka Mistyczna                                                   | Ścieżka Żywiołu                                                       |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- |

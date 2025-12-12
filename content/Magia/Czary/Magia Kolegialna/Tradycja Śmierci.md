@@ -1,9 +1,9 @@
-*Shyish* - Fioletowy Wiatr Magii - to siła, która sprawia, że wszystko przemija. Magistrowie tej tradycji, zwani Ametystowymi Czarodziejami, władają żywiołem śmierci, akceptując naturalny koniec wszystkich rzeczy. Posiadanie zdolności magia tajemna (śmierć) umożliwia wybór jednej z trzech list czarów z Tabeli 6-5: Zaklęcia Tradycji Śmierci.
+*Shyish* - Fioletowy Wiatr Magii - to siła, która sprawia, że wszystko przemija. Magistrowie tej tradycji, zwani Ametystowymi Czarodziejami, władają żywiołem śmierci, akceptując naturalny koniec wszystkich rzeczy. Posiadanie zdolności [[magia tajemna]] (śmierć) umożliwia wybór jednej z trzech list czarów z Tabeli 6-5: Zaklęcia Tradycji Śmierci.
 
 # Słowa pociechy
 **Wymagany poziom mocy:** 5  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** klepsydra (+1)  
+**Składnik:** [[klepsydra]] (+1)  
 **Opis:** Czarodziej wypowiada pocieszające słowa, które koją smutek osoby cierpiącej z powodu śmierci kogoś bliskiego. Zaklęcie powstrzymuje efekty [[Strach|Strachu]], [[Groza|Grozy]] lub obłędu, wywołane przez to tragiczne zdarzenie.  
 
 # Wizja śmierci
@@ -49,7 +49,7 @@
 # Upływ lat
 **Wymagany poziom mocy:** 11  
 **Czas rzucania:** [[Akcja]]  
-**Składnik:** niewielka klepsydra (+2)  
+**Składnik:** niewielka [[klepsydra]] (+2)  
 **Opis:** Czarodziej sprawia, że jeden niemagiczny przedmiot (Obciążenie 75 lub mniejsze) błyskawicznie starzeje się i niszczeje. Przedmioty kiepskiej i zwykłej jakości rozpadają się w pył. Przedmioty dobrej jakości stają się przedmiotami kiepskiej jakości, natomiast przedmioty najlepszej jakości zmieniają się w obiekty zwykłej jakości. Upływ lat jest czarem dotykowym.   
 
 # Krąg śmierci
@@ -63,13 +63,13 @@
 **Czas rzucania:** 3 [[Akcja|akcje]]  
 **Składnik:** gwóźdź z trumny (+2)  
 **Czas trwania:** 1 minuta (6 [[Runda|rund]])  
-**Opis:** Czarodziej sprawia, że wszyscy jego towarzysze w promieniu 12 metrów przestają bać się śmierci. W trakcie trwania czaru są traktowani, jakby posiadali zdolność nieustraszony.  
+**Opis:** Czarodziej sprawia, że wszyscy jego towarzysze w promieniu 12 metrów przestają bać się śmierci. W trakcie trwania czaru są traktowani, jakby posiadali zdolność [[nieustraszony]].  
 
 # Ukojenie ducha
 **Wymagany poziom mocy:** 14  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
 **Składnik:** ludzka czaszka (+2)  
-**Opis:** Czarodziej przyzywa Fioletowy Wiatr Magii, którego pasma oplątują dowolnego ducha (istotę posiadającą zdolność eteryczny), znajdującego się w zasięgu 12 metrów. Istota musi wykonać test [[Siła Woli|SW]]. Nieudany test oznacza, że uświadamia sobie, że jest tylko duchem (otrzymuje modyfikator -10 do [[Walka wręcz|WW]], a w następnej turze może wykonać tylko 1 akcję zwykłą). W następnej rundzie musi ponownie wykonać test [[Siła Woli|SW]] z tymi samymi konsekwencjami. Jeśli także następny (trzeci) test [[Siła Woli|SW]] okaże się nieudany, dusza istoty odzyskuje spokój i odchodzi w zaświaty.  
+**Opis:** Czarodziej przyzywa Fioletowy Wiatr Magii, którego pasma oplątują dowolnego ducha (istotę posiadającą zdolność [[eteryczny]]), znajdującego się w zasięgu 12 metrów. Istota musi wykonać test [[Siła Woli|SW]]. Nieudany test oznacza, że uświadamia sobie, że jest tylko duchem (otrzymuje modyfikator -10 do [[Walka wręcz|WW]], a w następnej turze może wykonać tylko 1 akcję zwykłą). W następnej rundzie musi ponownie wykonać test [[Siła Woli|SW]] z tymi samymi konsekwencjami. Jeśli także następny (trzeci) test [[Siła Woli|SW]] okaże się nieudany, dusza istoty odzyskuje spokój i odchodzi w zaświaty.  
 
 # Lodowaty uścisk śmierci
 **Wymagany poziom mocy:** 16  
@@ -80,7 +80,7 @@
 # Wyssanie życia
 **Wymagany poziom mocy:** 16  
 **Czas rzucania:** [[Akcja]]  
-**Składnik:** fiolka wypełniona krwią (+2)  
+**Składnik:** [[fiolka]] wypełniona krwią (+2)  
 **Opis:** Czarodziej sięga strumieniem mocy w stronę dowolnego przeciwnika znajdującego się w odległości do 12 metrów. Wysysa z niego życiową energię, wykorzystując ją do uzdrowienia własnego ciała. Postać może odeprzeć czar, wykonując udany test [[Siła Woli|SW]]. Nieudany test oznacza, że natychmiast traci 1k10 punktów [[Żywotność|Żyw]], bez względu na [[Wytrzymałość|Wt]] i noszoną zbroję. Punkty te są dodawane do [[Żywotność|Żyw]] czarodzieja, nie mogą jednak przekroczyć jej wartości maksymalnej. Pozostałe punkty są stracone, choć postać, która stała się celem zaklęcia, otrzymuje pełną sumę obrażeń. Wyssanie życia nie działa na ożywieńców i demony.  
 
 # Ostatnie słowa
@@ -98,7 +98,7 @@
 # Do ostatniego tchu
 **Wymagany poziom mocy:** 20  
 **Czas rzucania:** [[Akcja#Podwójna|Akcja Podwójna]]  
-**Składnik:** fiolka z substancją balsamiczną (+2)  
+**Składnik:** [[fiolka]] z substancją balsamiczną (+2)  
 **Czas trwania:** liczba minut równa wartości [[Magia|Mag]] czarodzieja  
 **Opis:** Czarodziej przyzywa moc, która na chwilę powstrzymuje nieuniknioną śmierć. Wszyscy towarzysze czarodzieja w promieniu 24 metrów walczą jak natchnieni, nie obawiając się śmierci. Jeśli w trakcie trwania czaru któryś odniesie śmiertelną ranę, może w swojej turze wykonać jeszcze jedną akcję, ostatnią w życiu. Po rozpatrzeniu jej efektów postać natychmiast umiera.  
 
