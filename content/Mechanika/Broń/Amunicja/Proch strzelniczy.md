@@ -1,10 +1,5 @@
----
-Ilość: strzał
-Cena: 3 s
-Dostępność: "[[Dostępność|Znikoma]]"
----
-**Ilość**: `=this.Ilość`
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Ilość**: strzał  
+**Cena:** 3 s  
+**Dostępność:** [[Dostępność|Znikoma]]  
 
 Proch strzelniczy jest niezbędny do strzelania z pistoletów oraz innych broni palnych. Sprzedaje się go w niewielkich rożkach zatkanych woskowym korkiem, który ma zabezpieczać proch przed wilgocią. Zamoczony proch, niezależnie od jakości wykonania, staje się bezużyteczny. Porcja wystarcza na oddanie jednego strzału. Mieszanka strzelnicza musi być precyzyjnie odmierzona i starannie przygotowana. Z tego powodu różnica w jakości wykonania prochu ma ogromne znaczenie przy strzelaniu z broni palnej. Proch najlepszej jakości zmniejsza ryzyko zacięcia się broni o 1 (broń eksperymentalna zacina się przy wyniku 97-98 podczas rzutu na trafienie, natomiast broń zawodna przy wyniku 97-99). Zamoczony proch najlepszej jakości po wysuszeniu może zostać użyty, ale jego jakość spada do poziomu przeciętnego. Proch dobrej jakości niewiele różni się od zwykłego prochu, ale jeśli zawilgotnieje, po wysuszeniu można go używać jak prochu kiepskiej jakości. Niestety wiąże się to z podwyższonym ryzykiem niewypału lub zacięcia się mechanizmu zamka. Broń eksperymentalna zacina się przy wyniku 91-96 podczas rzutu na trafienie, a eksploduje przy wyniku 98-00. Broń zawodna zacina się przy wyniku 94-98 podczas rzutu na trafienie, natomiast eksploduje przy wyniku 99-00.
