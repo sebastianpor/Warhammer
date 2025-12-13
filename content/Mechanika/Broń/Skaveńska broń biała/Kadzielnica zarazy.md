@@ -11,8 +11,8 @@ Każda żywa postać, jaka zostanie trafiona kadzielnicą, musi wykonać udany T
 
 Dopóki płonie spaczeniowe kadzidło, wszystkie postacie w pobliżu kadzielnika (włącznie z nim samym) wystawiają się na ryzyko jego przerażającego działania. Każda żywa postać w zasięgu 2 metrów od płonącej kadzielnicy zarazy musi co rundę wykonywać test [[Odporność|Odporności]]. Każdy nieudany test oznacza utratę 2 punktów [[Żywotność|Żywotności]] (bez uwzględnienia [[Wytrzymałość|Wytrzymałości]] i pancerza) wskutek wdychania toksycznych oparów.
 
-**Cena:** `=this.Cena`
-**Kategoria:** `=this.Kategoria`
-**Siła broni:** `=this.Siła_broni`
-**Cecha oręża:** `=this.Cecha_oręża`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 10 zk  
+**Kategoria:** Korbacz  
+**Siła broni:** S+1  
+**Cecha oręża:** [[Ciężki]],  [[Druzgocący]], [[Specjalny]]  
+**Dostępność:** [[Dostępność|Rzadka]]  

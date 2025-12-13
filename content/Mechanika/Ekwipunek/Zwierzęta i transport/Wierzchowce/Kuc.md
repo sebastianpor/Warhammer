@@ -3,8 +3,8 @@ Cena: 50 zk
 Dostępność: "[[Dostępność|Przeciętna]]"
 ---
 Kuce są wykorzystywane głównie jako zwierzęta juczne, ale także jako wierzchowce dla krasnoludów i niziołków. Osobniki hodowane w Górach Krańca Świata przydają się w czasie podróży po wąskich, górskich ścieżkach. Są wytrzymałe i silne, przez co stanowią idealne zwierzęta juczne. Choć bywają szkolone do walki, w każdej turze jeździec musi wykonać Wymagający (-10) test [[Jeździectwo]] i poświęcić akcję, aby w pełni zapanować nad wierzchowcem.
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 50 zk  
+**Dostępność:** [[Dostępność|Przeciętna]]  
 
 |  WW   |   US    |   K   |  Odp   |   Zr   |   Int   |   SW   |  Ogd   |
 | :---: | :-----: | :---: | :----: | :----: | :-----: | :----: | :----: |

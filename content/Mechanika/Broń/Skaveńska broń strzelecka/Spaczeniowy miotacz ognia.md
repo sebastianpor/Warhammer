@@ -13,10 +13,10 @@ Struga ognia przyjmuje kształt stożka o szerokości metra u wylotu broni i 5 m
 Nieudany test [[Umiejętności Strzeleckie|US]] oznacza, że strzelec nie trafił w cel. W takim wypadku należy wykonać rzut 1k10. Wynik „1" oznacza, że nie zadziałała pompa, ale w następnej rundzie można znowu próbować wystrzelić. Wynik „10" oznacza natomiast, że mechanizm broni uległ awarii i miotacz pozostaje bezużyteczny do chwili, kiedy zostanie naprawiony - wymaga to udanego testu [[Nauka|nauki]] (inżynieria). Wyniki od „2" do „9" określają kierunek, w którym zniosło strugę śmiercionośnych płomieni (zgodnie z diagramem kuli trującego wichru). Dodatkowy rzut 1k10 oznacza odległość (w metrach) miejsca trafienia od zamierzonego celu.
 Postać, która przeżyje trafienie ze spaczeniowego miotacza ognia, musi po upływie 24 godzin wykonać Prosty (+10) test [[Odporność|Odporności]]. Nieudany test oznacza, że otrzymuje 1 losowo wybraną mutację. Więcej informacji na temat odgrywania mutantów można znaleźć w Księdze Spaczenia.
 
-**Cena:** `=this.Cena`
-**Kategoria:** `=this.Kategoria`
-**Siła broni:** `=this.Siła_broni`
-**Zasięg:** `=this.Zasięg`
-**Przeładowanie:** `=this.Przeładowanie`
-**Cecha oręża:** `=this.Cecha_oręża`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 10 zk  
+**Kategoria:** Mechaniczna  
+**Siła broni:** 4  
+**Zasięg:** [[Specjalny]], [[Wyważony]]  
+**Przeładowanie:** [[Runda|10 Rund]]  
+**Cecha oręża:** [[Eksperymentalny]], [[Specjalny]]  
+**Dostępność:** [[Dostępność|Znikoma]]  

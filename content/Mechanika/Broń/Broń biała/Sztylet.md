@@ -19,8 +19,8 @@ Poniżej opisano specyficzne rodzaje sztyletów. W nawiasie podano jakość wyko
 
 **Tileański puginał (dobra-najlepsza):** Znany w [[Tilea|Tilei]] jako „stiletto", tego rodzaju sztylet ma długie i wąskie, trójgraniaste ostrze. Podobną budowę ma bretońska mizerykordia.
 
-**Cena:** `=this.Cena`
-**Kategoria:** `=this.Kategoria`
-**Siła broni:** `=this.Siła_broni`
-**Cecha oręża:** `=this.Cecha_oręża`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 1 zk  
+**Kategoria:** zwykła  
+**Siła broni:** S-3  
+**Cecha oręża:** -  
+**Dostępność:** [[Dostępność|Przeciętna]]  

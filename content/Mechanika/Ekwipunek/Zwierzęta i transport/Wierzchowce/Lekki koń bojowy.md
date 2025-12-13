@@ -3,8 +3,8 @@ Cena: 300 zk
 Dostępność: "[[Dostępność|Przeciętna]]"
 ---
 Nie wszystkich stać na zakupienie ciężkiego wierzchowca bojowego, dlatego wybierają mniejsze zwierzęta, choć równie dobrze ułożone. Te przyuczane do walki konie są wykorzystywane przez imperialne oddziały kawalerii. Podczas walki atakują gryząc i kopiąc. Nie płoszą się na widok krwi.
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 300 zk  
+**Dostępność:** [[Dostępność|Przeciętna]]  
 
 |  WW   |   US    |   K   |  Odp   |   Zr   |   Int   |   SW   |  Ogd   |
 | :---: | :-----: | :---: | :----: | :----: | :-----: | :----: | :----: |

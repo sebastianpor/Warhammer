@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["Przygody", "zTempletes", ".obsidian", "Bestiariusz", "zAssets"],
+    ignorePatterns: ["Przygody", "zTempletes", ".obsidian", "Bestiariusz", "zAssets", "zTemplater"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

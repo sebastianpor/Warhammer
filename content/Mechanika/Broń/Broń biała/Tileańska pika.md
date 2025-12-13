@@ -11,8 +11,8 @@ W rozdartej wojnami Tilei piechota używa długich, ciężkich włóczni zwanych
 
 Postać zapiera się końcem piki o ziemię i czeka na atakującego przeciwnika (zwykle wykonującego „szarżę"). Gdy napastnik znajdzie się w zasięgu 6 metrów, pikinier może natychmiast wykonać zwykły atak z modyfikatorem + 10 do [[Walka wręcz|WW]]. Jeśli atak jest udany, przeciwnik nie może się zbliżyć, powstrzymany przez pikiniera. Efekt „powstrzymania" utrzymuje się aż do początku następnej tury postaci, niezależnie od tego, czy pikinier wykorzystał swoją szansę na atak. Postać uzbrojona w pikę może wykonać tylko jeden atak w rundzie, niezależnie od tego, jak wielu przeciwników weszło w zasięg jej broni.
 
-**Cena:** `=this.Cena`
-**Kategoria:** `=this.Kategoria`
-**Siła broni:** `=this.Siła_broni`
-**Cecha oręża:** `=this.Cecha_oręża`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 20 zk  
+**Kategoria:** dwuręczna  
+**Siła broni:** S  
+**Cecha oręża:**  [[Szybki]]  
+**Dostępność:** [[Dostępność|Mała]]  
