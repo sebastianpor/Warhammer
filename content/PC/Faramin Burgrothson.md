@@ -1,13 +1,13 @@
-*Wiktor, Poprzednie profesje: [[Zabójca Trolli]]; Aktualna profesja: [[Zabójca Olbrzymów]]; [[Krasnoludy]]*
-**Wiek:** 35
-**Waga:** 95
-**Wzrost:** 155
-**Kolor oczu:** brązowe
-**Kolor włosów:** rude
-**Znak gwiezdny:** 7, Kocioł Rhyi
-**Miejsce urodzenia:** [[Karak Kadrin]]
-**PD Aktualne:** 200
-**PD Wydane:** 2400
+*Wiktor, Poprzednie profesje: [[Zabójca Trolli]]; Aktualna profesja: [[Zabójca Olbrzymów]]; [[Krasnoludy]]*  
+**Wiek:** 35  
+**Waga:** 95  
+**Wzrost:** 155  
+**Kolor oczu:** brązowe  
+**Kolor włosów:** rude  
+**Znak gwiezdny:** 7, Kocioł Rhyi  
+**Miejsce urodzenia:** [[Karak Kadrin]]  
+**PD Aktualne:** 200  
+**PD Wydane:** 2400  
 
 |    WW    |    US    |   K    |  Odp   |  Zr   | Int |   SW    | Ogd |
 | :------: | :------: | :----: | :----: | :---: | :-: | :-----: | :-: |
@@ -19,11 +19,11 @@
 |   +1^    | +6^^^^^^ |   -    |   -    |   -   |  -  |    -    |  -  |
 |    2     |    21    |   5    |   6    |   3   |  0  |    5    |  0  |
 
-**Umiejętności Podstawowe:** [[Mocna głowa]], [[Spostrzegawczość]], [[Zastraszanie]]
-**Umiejętności Zaawansowane:** [[Rzemiosło]] (kowalstwo), [[Wiedza]] ([[Krasnoludy]]), [[Język]] ([[Krasnoludy#Khazalid|Khazalid]]), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]]), [[Unik]], [[Wiedza]] ([[Skaveny]])
-**Zdolności:** [[Krasnoludzki fach]], [[Krzepki]], [[Odporność na magię]], [[Odwaga]], [[Widzenie w ciemności]], [[Zapiekła Nienawiść]], [[Bijatyka]], [[Broń specjalna]] (dwuręczna), [[Broń specjalna]] (korbacze), [[Szybkie wyciągnięcie]], [[Silny cios]], [[Niezwykle odporny]]^, [[Twardziel]]^,  [[Morderczy atak]], [[Nieustraszony]], [[Odporność na trucizny]]
-**Pancerz:** brak
-**Punkty Pancerza:** Głowa 0, Korpus 0, Ręce 0, Nogi 0
-**Broń:** [[Korbacz]] [[Runy#Runa Ciosu|Runa Ciosu]] i [[Runy#Runa mocy|Runa mocy]], [[Sztylet]], [[Broń jednoręczna|Młot]] [[Runy#Runa Ciosu|Runa Ciosu]] , [[Tarcza]] z [[Gromril|Gromrilu]] [[Runy#Runa Ochrony|Runa Ochrony]]
-**Wyposażenie:** 3 [[Mikstura lecznicza]]
-**Pieniądze:** 200 zk, 192 s, 2 p
+**Umiejętności Podstawowe:** [[Mocna głowa]], [[Spostrzegawczość]], [[Zastraszanie]]  
+**Umiejętności Zaawansowane:** [[Rzemiosło]] (kowalstwo), [[Wiedza]] ([[Krasnoludy]]), [[Język]] ([[Krasnoludy#Khazalid|Khazalid]]), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]]), [[Unik]], [[Wiedza]] ([[Skaveny]])  
+**Zdolności:** [[Krasnoludzki fach]], [[Krzepki]], [[Odporność na magię]], [[Odwaga]], [[Widzenie w ciemności]], [[Zapiekła Nienawiść]], [[Bijatyka]], [[Broń specjalna]] (dwuręczna), [[Broń specjalna]] (korbacze), [[Szybkie wyciągnięcie]], [[Silny cios]], [[Niezwykle odporny]]^, [[Twardziel]]^,  [[Morderczy atak]], [[Nieustraszony]], [[Odporność na trucizny]]  
+**Pancerz:** brak  
+**Punkty Pancerza:** Głowa 0, Korpus 0, Ręce 0, Nogi 0  
+**Broń:** [[Korbacz]] [[Runy#Runa Ciosu|Runa Ciosu]] i [[Runy#Runa mocy|Runa mocy]], [[Sztylet]], [[Broń jednoręczna|Młot]] [[Runy#Runa Ciosu|Runa Ciosu]] , [[Tarcza]] z [[Gromril|Gromrilu]] [[Runy#Runa Ochrony|Runa Ochrony]]  
+**Wyposażenie:** 3 [[Mikstura lecznicza]]  
+**Pieniądze:** 200 zk, 192 s, 2 p  
