@@ -3,6 +3,7 @@ Ilość: 5
 Cena: 2 s
 Dostępność: "[[Dostępność|Mała]]"
 ---
+> [!info] Dane przedmiotu
 **Ilość**: `=this.Ilość`
 **Cena:** `=this.Cena`
 **Dostępność:** `=this.Dostępność`

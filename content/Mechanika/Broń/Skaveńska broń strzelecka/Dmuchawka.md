@@ -18,3 +18,4 @@ Skrytobójcy [[Skaveny#Eshin|Eshin]] wykorzystują dmuchawki nie tylko jako bro�
 **Przeładowanie:** `=this.Przeładowanie`
 **Cecha oręża:** `=this.Cecha_oręża`
 **Dostępność:** `=this.Dostępność`
+#dataveiw-publisher
