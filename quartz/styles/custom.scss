@@ -1,3 +1,70 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* --- STYL DLA INFOBOX (Wzorowany na ITS Theme) --- */
+.callout[data-callout="infobox"] {
+  /* Domyślnie na telefonach: pełna szerokość */
+  width: 100%;
+  margin: 1rem 0;
+  
+  /* Na komputerach (ekrany szersze niż 750px): pasek boczny */
+  @media (min-width: 750px) {
+    float: right;           /* Przesuń do prawej */
+    max-width: 350px;       /* Maksymalna szerokość */
+    width: 40%;             /* Lub zajmij 40% miejsca */
+    margin: 0 0 1rem 1.5rem; /* Odstęp od tekstu z lewej */
+    clear: right;           /* Żeby kolejne infoboxy się nie nakładały */
+  }
+
+  /* Wygląd ramki */
+  border: 1px solid var(--lightgray);
+  background-color: var(--light); /* Tło pasujące do motywu */
+  border-radius: 8px;
+  padding: 0;             /* Resetujemy padding, żeby zdjęcie dotykało krawędzi */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  /* Ukrywamy domyślny nagłówek "Infobox" z ikonką, bo masz własny tytuł w środku */
+  .callout-title {
+    display: none;
+  }
+
+  /* Stylizacja treści w środku */
+  .callout-content {
+    padding: 1rem;
+    
+    /* Obrazki na całą szerokość ramki */
+    img {
+      width: 100%;
+      border-radius: 4px;
+      margin: 0 auto 1rem auto;
+      display: block;
+    }
+
+    /* Tytuł w środku (np. # Karl Franz) */
+    h1, h2, h3 {
+      margin-top: 0;
+      text-align: center;
+      border-bottom: 2px solid var(--tertiary);
+      padding-bottom: 0.5rem;
+    }
+
+    /* Tabelka z danymi */
+    table {
+      width: 100%;
+      margin: 0;
+      font-size: 0.9rem;
+      border-collapse: collapse;
+      
+      td, th {
+        padding: 4px 8px;
+        border-bottom: 1px solid var(--lightgray);
+      }
+      
+      /* Pogrubienie pierwszej kolumny (Klucz) */
+      td:first-child {
+        font-weight: bold;
+        color: var(--secondary);
+      }
+    }
+  }
+}
