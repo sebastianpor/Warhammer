@@ -1,6 +1,6 @@
 > [!infobox]
 > # Karl Franz
-> ![[Karl Franz.webp|cover hsmall]]
+> ![[Karl Franz.webp]]
 > ##### Dane
 > | Pełne imię	 | Karl-Franz Holswig Schliestein |
 > | ---- | ---- |
