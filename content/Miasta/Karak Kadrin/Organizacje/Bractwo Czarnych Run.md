@@ -1,4 +1,4 @@
-*Komórka Krasnoludów Chaosu w Karak Kadrin.*
+*Komórka Krasnoludów Chaosu w [[Karak Kadrin]].*
 # Symbol Bractwa Czarnych Run
 Ich znak to złamany krasnoludzki młot wpisany w płomienie – bluźniercza kpina z tradycji Grungniego. Umieszczany jest na ścianach, zbrojach i sztandarach, często w formie wypalonej runy jarzącej się w półmroku.
 ![[Symbol Bractwa Czarnych Run.png]]

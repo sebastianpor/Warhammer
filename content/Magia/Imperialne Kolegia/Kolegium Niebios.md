@@ -50,7 +50,7 @@ Po osiągnięciu przez ucznia statusu pełnoprawnego Magistra, przysługuje mu p
 # Reputacja Kolegium 
 Większość zwykłych ludzi nie potrafi określić swojego nastawienia do Astromantów. Z jednej strony, powszechna nieufność wobec magii i magów nie zjednuje Magistrom Niebios większej sympatii. Z drugiej strony, naturalna ciekawość sprawia, że zainteresowani swoją lub cudzą przyszłością ludzie, z własnej woli kontaktują się z Astromantami. Szepcze się, że czarodzieje Niebios rzadko ukazują przyszłość komuś, kto nie jest gotów wysłuchać całej prawdy, nawet tej najgorszej. 
 # Budynki Kolegium 
-Kolegium Niebios położone jest w centrum [[Altdorf|Altdorfu]], całkiem niedaleko[[ Pałac Imperatora|Pałacu Imperatora]] oraz [[Wielkiej Świątyni Sigmara]]. Jednak pomimo sporego ruchu na uczelni, niewielu mieszkańców miasta ją zauważa. 
+Kolegium Niebios położone jest w centrum [[Altdorf|Altdorfu]], całkiem niedaleko [[Pałac Imperialny|Pałacu Imperatora]] oraz [[Wielka Świątynia Sigmara|Wielkiej Świątyni Sigmara]]. Jednak pomimo sporego ruchu na uczelni, niewielu mieszkańców miasta ją zauważa. 
 
 Kolegium Niebios nie jest niewidoczne, ani ukryte zaklęciami iluzji. Natomiast położono nań czar, który sprawia, że ludzie patrzący w stronę szkoły nie zwracają uwagi na to, co widzą. Niektórym widok przesłania mgła, innym przelatujący ptak, przechodzący wysoki domokrążca z kijem obwieszonym garnkami, płachta materiału pobliskiego kramu i tym podobne przypadkowe przeszkody. Ludzie, którzy mieszkają i pracują tuż obok Kolegium, zdają sobie sprawę, że stoi tam jakiś duży budynek, lecz nigdy nie przejawiają zainteresowania tą sprawą. Większość tłumaczy sobie, że to dom bogatego kupca albo zamknięty magazyn, w każdym razie nic ciekawego. 
 

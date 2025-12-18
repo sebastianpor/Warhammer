@@ -1,6 +1,7 @@
 Skaveny odkryły wiele sekretów spaczenia. Wymyśliły niezliczone sposoby wykorzystywania jego mocy: od zwiększania siły zaklęć, poprzez hodowlę i krzyżowanie nowych gatunków, aż po tworzenie nowych typów broni i machin, zasilanych mocą spaczenia. Jeżeli postać będzie miała (nie) szczęście i odkryje złoże spaczenia, może zechcieć je wykorzystać. Jak już wcześniej wspomniano, spaczeń zapewnia wielką, choć niebezpieczną moc. Ci, którzy zlekceważą jego siłę, narażają się na ogromne niebezpieczeństwo. Efekty działania spaczenia zależą od jego wielkości i formy, a także od stopnia wystawienia postaci na wpływ czarciego pyłu.
 Postać, której nie powiedzie się test [[Odporność|Odp]] związany z wystawieniem na działanie spaczenia, otrzymuje losową [[Mutacje Choasu]].
 
+
 # Spaczeniowy pył
 Spaczeniowy pył uzyskuje się poprzez zmielenie kawałka kamienia. Zażywany jest doustnie, głównie przez skaveńskich Szarych Proroków, którzy dzięki niemu potrafią w większym stopniu opanować magiczne energie. Istoty nieprzyzwyczajone do zażywania spaczenia narażają się na groźbę [[Mutacje Choasu]].
 Skaven, który połknie sproszkowany spaczeń, zachowuje się tak samo, jakby zażył spaczeniową grudkę (patrz niżej). Każda inna istota musi wykonać test [[Odporność|Odp]], którego stopień trudności zależy od tego, jak duża była to porcja i w jaki sposób postać weszła z nią w kontakt.

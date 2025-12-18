@@ -7,8 +7,8 @@ Gdy umiera Wielki Teogonista, Lektorzy zbierają się pod Katedrą Sigmara, by w
 # Znani Wielcy Teogoniści
 - Johann Helstrum 73 IC Pierwszy Wielki Teogonista
 - Jürgen II ok. 500 IC Przydomek "Ogreblood". Dla niego, Thorgrima, krasnoludzcy runopisarze wykonali wielki młot.
-- Ottokar 501 IC Namówił Sygimunta Zdobywcę do najazdu na Marienburg.
-- Marius Mollus 850 IC zabity przez demony po tym, jak ogłosił, że Sigmar jest jedynym bogiem.
+- Ottokar 501 IC Namówił Sygimunta Zdobywcę do najazdu na [[Marienburg]].
+- Marius Mollus 850 IC zabity przez [[demony]] po tym, jak ogłosił, że [[Sigmar]] jest jedynym bogiem.
 - Zygmunt II 990 IC Otrzymał od Ludwika Hohenbacha prawo głosu elektorskiego w zamian za renowację pałacu cesarskiego. Niedługo potem zmarł z powodu własnej otyłości.
 - Uthorson 1100 IC Potajemnie służył Chaosowi. Zamordowany przez Thorgrada.
 - Thorgrad 1111 IC Przeniósł centrum Kultu Sigmara do Altdorfu. Zginął podczas Czarnej Plagi.
@@ -24,4 +24,4 @@ Gdy umiera Wielki Teogonista, Lektorzy zbierają się pod Katedrą Sigmara, by w
 - Viktor Helmgart 2415 IC Zakończył Noc Tysiąca Pojedynków Arcanów
 - Hedrich Lutzenschlager 2420 -2429 IC Był Wielkim Teogonistą podczas upadku Diedericka Kastnera
 - Yorri XV 2512 IC Poprzednik Volkmara
-- Volkmar von Hindenstern urzędujący Obecny Wielki Teogonista
+- [[Volkmar Ponury|Volkmar von Hindenstern]] urzędujący Obecny Wielki Teogonista
