@@ -1,7 +1,7 @@
 > [!infobox]
-> ![[Altdorf.webp|cover hsmall]]
+> ![[zAssets\zAssets - Miejsca\Altdorf.webp|cover hsmall]]
 > ###### Altdorf
-> | Mieszkańcy |  ludzie, [[krasnoludy]], [[elfy]], [[Niziołki]] |
+> | Mieszkańcy |  [[ludzie]], [[krasnoludy]], [[elfy]], [[Niziołki]] |
 > | ---- | ---- |
 > | **Typ** | miasto-państwo |
 > | **Lokalizacja** | Stary Świat, [[Imperium]], [[Reikland]] |

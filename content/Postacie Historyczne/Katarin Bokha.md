@@ -1,6 +1,6 @@
 > [!infobox]
 > # Caryca Katarzyna
-> ![[Caryca Katarina.webp|cover hsmall]]
+> ![[Caryca_Katarina.webp|cover hsmall]]
 > ###### Dane
 > | Type |  Stat |
 > | ---- | ---- |

@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[Karak Kadrin.webp|cover hsmall]]
+> ![[Karak_Kadrin.webp|cover hsmall]]
 > ###### Karak Kadrin
 > | Mieszkańcy |  [[Krasnoludy]] |
 > | ---- | ---- |

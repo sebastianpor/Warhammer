@@ -1,6 +1,6 @@
 > [!infobox]
 > # Karl Franz
-> ![[Karl Franz.webp|cover hsmall]]
+> ![[Karl_Franz.webp|cover hsmall]]
 > ##### Dane
 > | Type | Stat |
 > | ---- | ---- |
