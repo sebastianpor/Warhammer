@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[zAssets\zAssets - Miejsca\Altdorf.webp|cover hsmall]]
+> ![[zAssets/zAssets-Miejsca/Altdorf.webp|cover hsmall]]
 > ###### Altdorf
 > | Mieszkańcy |  [[ludzie]], [[krasnoludy]], [[elfy]], [[Niziołki]] |
 > | ---- | ---- |
