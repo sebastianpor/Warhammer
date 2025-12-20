@@ -11,6 +11,8 @@
 > | **Ród** | Dom Holswig Schliestein |
 > | **Stolica** | [[Altdorf]] |
 
+<img src="/Warhammer/Karl_Franz.webp" alt="cover hsmall" />
+
 Karl Franz, znany podczas Końca Czasów jako Panujący, i niegdyś zwany Karl-Franz, Karl Franz I, Obrońca [[Imperium]], Ten który przeciwstawił się Ciemności, Sam Imperator i Syn Imperatorów jest aktualnym Imperatorem [[Imperium]] Człowieka, Księciem Elektorem z Reiklandu , Księciem Altdorfu i najlepszym politykiem oraz generałem jakiego [[Imperium]], a być może także cały [[Stary Świat]] nie widział od stuleci. Urodził się w 2477 roku , został ogłoszony Imperatorem w 2502 roku IC poszedł w ślady ojca, i szybko został ogłoszony patronem sztuki i nauki, wojskowym innowatorem oraz dzielnym generałem.   
 
 Dzięki jego niestrudzonym wysiłkom na rzecz swojego ludu, [[Imperium]] rozkwitło za jego rządów jak nigdy dotąd: Imperialna Szkoła Inżynierów w Altdorfie rozrosła się, Kolegia Magii kwitły, a jego armie maszerowały od zwycięstwa do zwycięstwa.
