@@ -22,6 +22,8 @@
 > | [[Ogród Morra]] w Altdofrie |
 > ##### [[Altdorf - Mapa]]
 
+![[Karl_Franz.webp|cover hsmall]]
+
 Stolica [[Imperium]] to zarazem jego największe miasto, a także siedziba dworu Imperatora, pełniącego podwójną rolę władcy [[Imperium]] i Księcia-Elektora Reiklandu. Altdorf to jedno z najważniejszych miast Starego Świata.
 Tutaj przybywają dyplomaci ze wszystkich znanych ziem, aby prowadzić negocjacje, tutaj też szlachta i kupcy wysyłają swoje dzieci, aby zdobyły wykształcenie i znalazły odpowiedniego partnera życiowego. Oprócz słynnego Uniwersytetu Altdorfskiego, stolica jest także siedzibą Kolegiów Magii, które szkołą czarodziejów imperialnych, jedyne osoby prawnie upoważnione do rzucania zaklęć. Położony w rozwidleniu rzek Reik i Talabek Altdorf jest jednym z głównych ośrodków handlowych [[Imperium]], a jego kantory i kupcy zbijają fortuny na obrocie towarami, które przechodzą przez tutejszy port. 
 
