@@ -1,7 +1,11 @@
+> [!infobox]
+> # Marienburg
+> ![[Marienburg_herb.webp|cover hsmall]]
+
 Po uścisku dłoni z Marienburczykiem przelicz dokładnie wszystkie swoje palce.
 ~ Imperialne przysłowie
 
-Marienburg jest uważany za największe skupisko kupiectwa i największy port Starego Świata.Znajduje się w Jałowej Krainie
+Marienburg jest uważany za największe skupisko kupiectwa i największy port Starego Świata. Znajduje się w [[Jałowa Kraina|Jałowej Krainie]].
 
 Marienburg to miasto wysp, mostów i kanałów. Kiedy docierają tu podróżnicy, zwykle od strony morza albo rzeki Reik , pierwszą rzeczą, jaka ich uderza jest sposób w jaki miasto - niczym pradawny potwór - wynurza się z wody, ukryte za murem Vloedmuur. Drugą rzeczą charakterystyczną jest to, jak bardzo zatłoczone są wysepki, każdy ich cal pokryty zabudowaniami, magazynami i sklepami - nawet na mostach. A trzecią - i chyba najważniejszą - cechą Marienburga jest to, że potrzeba olbrzymiego parasola, aby bez problemów podróżować kanałami pod mostami albo oknami.
 # Położenie miasta

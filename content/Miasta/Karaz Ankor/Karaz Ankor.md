@@ -1,0 +1,7 @@
+Karaz Ankor (Khazalid - "Wieczne Królestwo" lub "Górskie Królestwo", ponieważ krasnoludzkie słowo oznaczające górę i ekstremalną wytrzymałość jest takie samo) to nazwa całego królestwa składającego się z podziemnych krasnoludzkich gospodarstw położonych w Górach Krańca Świata, które Dawi zamieszkują od najwcześniejszych dni swojej historii.
+
+Pierwotna ojczyzna krasnoludów znajdowała się w górach Southlands, ale w poszukiwaniu nowych złóż metali szlachetnych i klejnotów wyruszyli na północ, by stopniowo osiedlić się w Górach Krańca Świata w Starym Świecie. U szczytu swej potęgi królestwo krasnoludów obejmowało niemal całe Góry Krańca Świata, oprócz osad utrzymywanych w Górach Szarych i Czarnych oraz wielu mniejszych osad na wzgórzach na ziemiach, które później stały się [[Imperium]].
+
+Jednak pyrrusowe zwycięstwo Krasnoludów w Wojnie o Zemstę, w połączeniu z ogromnymi zniszczeniami Czasu Niedoli i naporem Wojen Goblińskich, doprowadziło do utraty kilku krasnoludzkich twierdz oraz setek mniejszych osad i kopalni. Obecnie [[krasnoludy]] nadal władają dziewięcioma dużymi grodami i niezliczonymi mniejszymi królestwami, które składają się na całość Karaz Ankor.
+
+Władzę nad całym Karaz Ankor sprawuje Najwyższy król krasnoludów obecnym jest król Torgrim.

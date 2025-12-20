@@ -1,3 +1,3 @@
-[[Człowiek]]
+[[Ludzie]]
 
 Pojawia się i umiera w 

@@ -1,8 +1,14 @@
-**Tradycja:** Zwierzęta 
-**Nazwa własna:** Kapituła Bursztynu 
-**Popularne tytuły Magistrów Ghur:** Bursztynowi Czarodzieje, Szamani 
-**Symbole:** Strzała, Łapa Niedźwiedzia, Pióro Kruka (lub prawie każdy inny fetysz lub totem zwierzęcy) 
-**Wiatr Magii:** Ghur 
+> [!infobox]
+> ![[Kolegium_Bursztynu.webp|cover hsmall]]
+> ###### Kolegium Bursztynu
+> | Type |  Stat |
+> | ---- | ---- |
+> | **Tradycja:** | Zwierzęta |
+> | **Nazwa własna:** | Kapituła Bursztynu |
+> | **Popularne tytuły Magistrów Ghur:** | Bursztynowi Czarodzieje, Szamani |
+> | **Symbole:** | Strzała, Łapa Niedźwiedzia, Pióro Kruka (lub prawie każdy inny fetysz lub totem zwierzęcy) |
+> | **Wiatr Magii:** | Ghur |
+
 Ghur to pierwotny, zwierzęcy aspekt Eteru, tchnienie dzikiej przyrody. Tętni w łowach drapieżnika i panicznej ucieczce jego ofiary. Tworzy się z istnienia i obserwacji dzikich zwierząt i nieujarzmionych dziczy. Jego pierwotny charakter jest całkowitym zaprzeczeniem cywilizacji i udomowienia. Ghur to instynkt i natura, pozbawiona inteligencji i świadomego okrucieństwa człowieka. Przyciągają go zarówno dzikie zwierzęta, jak też niedostępne zakątki. 
 
 Brązowy Wiatr unika ludzkich osad i kamiennych miast. Z tego powodu czarodzieje Kolegium Bursztynu porzucają cywilizację, by przenieść się w niebosiężne góry lub na niezamieszkałe mokradła, gdzie mogą swobodnie czerpać energię Wiatru Ghur. Dzięki tajemniczym rytuałom szamańskim, Magistrowie potrafią wykorzystać energię Ghur, aby przemieniać się w kruki, wilki lub inne zwierzęta. Mówią, że poznanie tajemnic Brązowego Wiatru wymaga zjednoczenia się ze światem zwierząt. 
@@ -19,7 +25,7 @@ Magistrowie Szamani Kolegium Bursztynu są pustelnikami z wyboru. Nie lubią lud
 
 Nie otrzymują dotacji od Imperatora, a gdyby nagle ją otrzymali, zapewne nie wiedzieliby, co z tymi pieniędzmi zrobić. Wszystko, czego potrzebują, czerpią z przyrody. Służą [[Imperium]], wyszukując sługi Chaosu w mrocznych i dzikich miejscach, gdzie rzadko zapuszczają się armie imperialne. Magistrowie Bursztynu walczą ze zwierzoludźmi, niszczą heretyckie ołtarze i rozpraszają magię czarnoksięską, gdziekolwiek się na nią natkną. Nierzadko słyszy się o bogatych dzierżawcach ziemskich, którzy pilnie poszukują Magistra Bursztynu, który zechciałby zamieszkać na ich włościach i chronić je przed nadprzyrodzonymi zagrożeniami. 
 
-Na Magistrów Kolegium Bursztynu, podobnie jak na innych Imperialnych czarodziei, Magnus Pobożny nałożył obowiązek służby wojskowej. Jednak Magistrowie Bursztynu walczyć będą jedynie przeciwko magicznym lub Chaotycznym wrogom ludzkości. O wrogach [[Imperium]] Magistrowie Bursztynu często dowiadują się od ptaków i leśnych zwierząt, a następnie z własnej inicjatywy wyszukują najbliższy oddział [[Imperium]], żeby zaoferować swoją pomoc w walce. 
+Na Magistrów Kolegium Bursztynu, podobnie jak na innych Imperialnych czarodziei, [[Magnus Pobożny]] nałożył obowiązek służby wojskowej. Jednak Magistrowie Bursztynu walczyć będą jedynie przeciwko magicznym lub Chaotycznym wrogom ludzkości. O wrogach [[Imperium]] Magistrowie Bursztynu często dowiadują się od ptaków i leśnych zwierząt, a następnie z własnej inicjatywy wyszukują najbliższy oddział [[Imperium]], żeby zaoferować swoją pomoc w walce. 
 
 Wielu dowódców opowiada zdumiewające historie o tym, jak w dzień bitwy spotkali ubranego w futra i czapę z jelenimi rogami Magistra Bursztynu, który kucając przy niewielkim ognisku, rzucał kości i cicho śpiewał pod nosem. Rogi i laska Magistra przystrojone były najczęściej piórami, czaszkami zwierząt i innymi fetyszami typowymi dla Szamanów Kolegium Bursztynu. 
 
@@ -33,10 +39,10 @@ Magistrów Bursztynu można łatwo rozpoznać ze względu na ich dziki wygląd. 
 
 Laski czarodziei Bursztynu dekorowane są piórami, kawałkami bursztynu i kośćmi zwierząt. Starsi Magistrowie Kolegium Bursztynu niezwykle upodabniają się do zwierzęcia, z którym najczęściej się kontaktują. Mogą im na przykład wyrosnąć kły wilka, futro niedźwiedzia lub szpony orła. 
 # Mentalność 
-Wkrótce po rozpoczęciu nauczania magii Ghur, Teclis i Finreir zauważyli, że ma ona dziwny wpływ na ludzkich uczniów. Czarodzieje szkoleni w zakresie posługiwania się Brązowym Wiatrem Magii stopniowo tracili zainteresowanie sprawami ludzi, natomiast coraz bardziej absorbował ich świat dzikiej przyrody. 
+Wkrótce po rozpoczęciu nauczania magii Ghur, [[Teclis]] i Finreir zauważyli, że ma ona dziwny wpływ na ludzkich uczniów. Czarodzieje szkoleni w zakresie posługiwania się Brązowym Wiatrem Magii stopniowo tracili zainteresowanie sprawami ludzi, natomiast coraz bardziej absorbował ich świat dzikiej przyrody. 
 
 Magistrowie Kolegium Bursztynu czują się swojsko tylko w dzikich krainach. Unikają towarzystwa ludzi, z daleka omijają miasta i osady. Prowadzą proste życie myśliwych i tropicieli, biegają ze zwierzętami i żyją z tego, co da im przyroda. Jedynymi ludźmi, których obecność tolerują, są inni Magistrowie Bursztynu, a także do pewnego stopnia, kapłani [[Taal|Taala]]. 
-W kontaktach między Kolegium Bursztynu a władzami administracyjnymi [[Imperium]] czasami pośredniczą Magistrowie Druidzi Kolegium Jadeitu. 
+W kontaktach między Kolegium Bursztynu a władzami administracyjnymi [[Imperium]] czasami pośredniczą Magistrowie Druidzi [[Kolegium Jadeitu]]. 
 # Uczniowie 
 Magistrowie Bursztynu tolerują obecność wyłącznie tych osób, które ukochały dziką przyrodę, czyli leśników, łowców, podróżników, włóczęgów, a nawet bandytów ukrywających się wśród lasów i gór. Tylko osoby z zamiłowaniem do wędrówki mają szansę dostać się do terminu w Kolegium Bursztynu. Gdy Brązowy Wiatr Magii wieje szczególnie silnie, niektóre osoby odczuwają nieodpartą potrzebę wyjścia za próg i udania się w podróż. Właśnie takich kandydatów poszukują Magistrowie Bursztynu. Wszyscy uczniowie są starannie testowani w celu sprawdzenia, czy zasługują na dar zwierzęcej magii Ghur. 
 

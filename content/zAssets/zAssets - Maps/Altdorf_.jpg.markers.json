@@ -1,0 +1,40 @@
+{
+  "image": "zAssets/zAssets - Maps/Altdorf_.jpg",
+  "size": {
+    "w": 732,
+    "h": 506
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_k63d0c",
+      "x": 0.3404203158919078,
+      "y": 0.7693493150684926,
+      "layer": "default",
+      "link": "Wielka Świątynia Sigmara",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    "zAssets/zAssets - Maps/Altdorf_.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "zAssets/zAssets - Maps/Altdorf_.jpg",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {}
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": []
+}

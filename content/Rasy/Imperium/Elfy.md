@@ -31,4 +31,4 @@ Istnieją również dowody na to, że [[Chaos]] może wpływać na umysły Elfó
 # Różnice kulturowe
 Podczas gdy [[Mroczne Elfy]] chcą rządzić światem, przynajmniej jasno przedstawiają swoje ambicje. Inaczej jest w przypadku Wysokich Elfów, które pod przykrywką ochrony dążą do przejęcia kontroli i nie dbają o to, jakie konsekwencje mogą mieć dla innych krain. Z kolei [[Leśne Elfy]] są traktowane z pogardą przez jednych i drugich, ponieważ nie chcą ani rządzić, ani kontrolować, a jedynie przetrwać.
 # Eltharin
-Język 
+Język elfów.

@@ -1,7 +1,10 @@
 > [!infobox]
-> # Dane
-> | Pełne imię	 | Magnus von Bildhofen |
+> # Magnus Pobożny
+> ![[Magnus_Pobożny.webp|cover hsmall]]
+> ###### Dane
+> | Type |  Stat |
 > | ---- | ---- |
+> | Pełne imię	 | Magnus von Bildhofen |
 > | **Panowanie**  | 2304-2369 IC |
 > | **Poprzednik**  | - |
 > | **Następca** | Gunthar von Bildhofen |

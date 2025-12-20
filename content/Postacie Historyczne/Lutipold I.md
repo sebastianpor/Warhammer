@@ -1,7 +1,9 @@
 > [!infobox]
-> # Dane
-> | Pełne imię	 | Luitpold von Holswig-Schliestein |
+> # Lutipold I
+> ##### Dane
+> | Type |  Stat |
 > | ---- | ---- |
+> | Pełne imię	 | Luitpold von Holswig-Schliestein |
 > | Panowanie  | 2470-2502 IC |
 > | Poprzednik  | [[Lutipold I]] |
 > | Następca | [[Karl Franz]] |

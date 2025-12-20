@@ -136,7 +136,7 @@ Ci, którzy celują w sztuce morderstwa, stają się w pełni Kryrnaa. Niewielu 
 **Zdolności:** [[Mroczne Elfy#Krzyk Wojenny|Krzyk Wojenny]] albo [[Mroczne Elfy#Taniec Zagłady|Taniec Zagłady]] albo [[Mroczne Elfy#Ręka Khaine'a|Ręka Khaine'a]] albo [[Mroczne Elfy#Dotyk śmierci|Dotyk śmierci]], [[Oburęczność]], [[Błyskawiczny blok]], [[Szybki refleks]], [[Broń specjalna]] (dowolne dwie), [[Zapasy]] albo [[Strzał mierzony]], [[Łotrzyk]]
 **Wyposażenie:** 4 sztuki broni najlepszej jakości, trucizna (dowolne 4), przebranie
 **Profesje wstępne:** [[Mroczne Elfy#Adept Kryrnaa|Adept Kryrnaa]]
-**Profesje wyjściowe:** [[Skrytobójca]], [[Fechmistrz]]
+**Profesje wyjściowe:** [[Skrytobójca]], [[Fechtmistrz]]
 
 ### Narzeczona Khaine'a
 Ze wszystkich legend i mitów o Mrocznych Elfach, opowieści o Elfach Wiedźmach należą prawdopodobnie do najbardziej znanych; znane są również jako Oblubienice Khaine'a lub Służebnice Khaine'a. Ze wszystkich Druchii, Maibd są prawdopodobnie najpiękniejsze, a z pewnością najbardziej szalone. Panny Młode Khaine'a stanowią trzon świątynie, pełniące zarówno funkcję niższego duchowieństwa, jak i siły bojowej świątyni w czasach bitwy. Dla nich droga Khaela Mensha Khaine jest jedyną drogą, a przed bitwą piją krew z domieszką trujące zioła, które wprawiają ich w szał krwawy. 

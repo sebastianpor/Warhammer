@@ -1,9 +1,10 @@
 > [!infobox]
 > # Karl Franz
-> ![[Karl Franz.webp]]
+> ![[Karl Franz.webp|cover hsmall]]
 > ##### Dane
-> | Pełne imię	 | Karl-Franz Holswig Schliestein |
+> | Type | Stat |
 > | ---- | ---- |
+> | Pełne imię	 | Karl-Franz Holswig Schliestein |
 > | **Panowanie**  | 2502-? IC |
 > | **Poprzednik**  | [[Lutipold I]] |
 > | **Następca** | Lutipold II |

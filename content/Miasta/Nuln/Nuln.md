@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[Nuln.webp]]
+> ![[Nuln.webp|cover hsmall]]
 > ###### Nuln
 > | Mieszkańcy |  Ludzie, [[krasnoludy]] |
 > | ---- | ---- |

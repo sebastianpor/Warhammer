@@ -1,14 +1,20 @@
-**Tradycja:** Niebiosa 
-**Nazwa własna:** Kapituła Niebios 
-**Popularne tytuły Magistrów Azyr:** Niebiańscy Czarodzieje, Astrologowie, Astromanci 
-**Symbole:** Kometa, Sierp Księżyca, Ośmioramienna Gwiazda 
-**Wiatr Magii:** Azyr 
+> [!infobox]
+> ![[Kolegium_Niebios.webp|cover hsmall]]
+> ###### Kolegium Niebios
+> | Type |  Stat |
+> | ---- | ---- |
+> | **Tradycja:** | Niebiosa |
+> | **Nazwa własna:** | Kapituła Niebios |
+> | **Popularne tytuły Magistrów Azyr:** | Niebiańscy Czarodzieje, Astrologowie, Astromanci |
+> | **Symbole:** | Kometa, Sierp Księżyca, Ośmioramienna Gwiazda |
+> | **Wiatr Magii:** | Azyr |
+
 Azyr stanowi manifestację Eterycznego odbicia inspiracji i nieskończoności. To wyobraźnia i potrzeba wyrażania emocji. Azyr buduje znaczenie z pojęć abstrakcyjnych i pragnie odnaleźć lub stworzyć jakiś sens w ogromie nieznanego. Wiatr ten nadaje znaczenie i sens rzeczom, zjawiskom oraz wydarzeniom, które znaczenia i sensu nie posiadają. To pragnienie odkrycia tego, co nieznane, i wyrażenia tego, co nie posiada jeszcze nazwy. 
 
 Azyr przekracza granice czasu, sięgając rzekomo we wszystkie możliwe warianty przyszłości z równą łatwością, jak zwykły wiatr pokonuje przestrzeń. W świecie materialnym skupia się w wyższych partiach atmosfery, objawiając się pod postacią dziwnych opalizujących chmur, widocznych tylko dla osób obdarzonych wiedźmim wzrokiem. 
 # Opis 
 Magistrowie Kolegium Niebios badają Tradycję Niebios, która w "Imperialnym Dekrecie o Magii" została określona terminem 25 Taumaturgia Astrologiczna", Co oznacza magię gwiazd i wyższych warstw atmosfery. Magistrowie Kolegium Niebios zwani są Astromantami i należą do najlepszych wśród ludzi prognostyków, astrologów oraz wróżbitów. 
-Ulubionym zajęciem Magistrów Azyr jest obserwacja rozgwieżdżonego nieba. Z tego powodu mniej wykształceni mieszkańcy Imperium często nazywają Astromantów czarodziejami Niebios. 
+Ulubionym zajęciem Magistrów Azyr jest obserwacja rozgwieżdżonego nieba. Z tego powodu mniej wykształceni mieszkańcy [[Imperium]] często nazywają Astromantów czarodziejami Niebios. 
 # Magia Niebios 
 Magię Kolegium Niebios można podzielić na trzy grupy: prognostyczną (wróżbiarską), meteorologiczną (kontrolującą zjawiska pogodowe) oraz manipulację przyszłością (klątwy). 
 # Prognostyka astrologiczna 
@@ -20,7 +26,7 @@ Magistrowie Niebios konstruują specjalne instrumenty, zwane sekstansami astroma
 
 Astromanci obserwujący ciała niebieskie przez przesłonę migoczącego niebieskiego światła Azyr starannie dokumentują zaobserwowane kształty i poruszenia, w szczególności notując zachowanie głównych konstelacji i największych ciał niebieskich. Sztuka interpretowania obserwowanych zjawisk wymaga długiej i trudnej nauki, gdyż przewidywanie przyszłości z zamazanych i niespójnych obrazów jest umiejętnością szczególnie zawiłą. Astromanta musi intuicyjnie rozpoznawać nieskończenie skomplikowane niebiańskie powiązania przyczynowo-skutkowe i wyczuwać, w jakiś sposób wpłyną one na życie śmiertelników. Do tego dochodzi oczywiście wpływ Przeznaczenia i Przypadku. 
 
-W ten sposób Magistrowie władający Wiatrem Azyr potrafią przewidywać przyszłość. Fascynują ich wróżby i zdarzenia, które dopiero mają nastąpić. Azyr budzi we władających nim czarodziejach pragnienie poszukiwania omenów, czyli znaków wieszczących przyszłe wydarzenia. Magistrowie Kolegium Niebios potrafią tłumaczyć sny, wróżyć z rzucanych kości, a także w inny sposób prognozować przyszłość. Jako wróżbici i wyrocznie, przepowiadacze przyszłości i mędrcy, nie mają sobie równych w całym Imperium. Magistrowie Azyr są również utalentowanymi badaczami abstrakcyjnych teorii, znanymi z dokonywania logicznie uzasadnionych, acz zdumiewających odkryć. W tym aspekcie różnią się od Magistrów Kolegium Złota, skupionych wyłącznie na empirycznym (doświadczalnym). poznawaniu świata. 
+W ten sposób Magistrowie władający Wiatrem Azyr potrafią przewidywać przyszłość. Fascynują ich wróżby i zdarzenia, które dopiero mają nastąpić. Azyr budzi we władających nim czarodziejach pragnienie poszukiwania omenów, czyli znaków wieszczących przyszłe wydarzenia. Magistrowie Kolegium Niebios potrafią tłumaczyć sny, wróżyć z rzucanych kości, a także w inny sposób prognozować przyszłość. Jako wróżbici i wyrocznie, przepowiadacze przyszłości i mędrcy, nie mają sobie równych w całym [[Imperium]]. Magistrowie Azyr są również utalentowanymi badaczami abstrakcyjnych teorii, znanymi z dokonywania logicznie uzasadnionych, acz zdumiewających odkryć. W tym aspekcie różnią się od Magistrów [[Kolegium Złota]], skupionych wyłącznie na empirycznym (doświadczalnym). poznawaniu świata. 
 # Magia meteorologiczna 
 Dzięki poznaniu procesów zachodzących w atmosferze, Astromanci opracowali wiele czarów bezpośrednio kontrolujących pogodę, przede wszystkim powodujących ruch powietrza oraz przywołujących pioruny. 
 # Manipulacja przeznaczeniem 
@@ -38,7 +44,7 @@ Powszechnie uważa się, że moc Wiatru Azyr odmienia Magistrów Niebios. Białk
 # Mentalność 
 Chociaż Magistrowie Niebios sprawiają wrażenie, że wiedzą, jakie słowa zostaną za chwilę wypowiedziane, nie jest to prawdą. Do pewnego stopnia są w stanie przewidzieć, kiedy ktoś się odezwie, lecz nie to, co powie. Wbrew obiegowej opinii, Magistra Niebios można zaskoczyć. Astromanci są rozkojarzeni i zachowują się jak typowi uczeni. Magistrowie Niebios zamierają w bezruchu, wpatrzeni w niebo. Przyszłość i zdarzenia, które dopiero mają się rozegrać, są dla nich często ważniejsze od teraźniejszości. 
 # Uczniowie 
-W Kolegium Niebios obowiązuje rygorystyczny program egzaminacyjny. Aby w ogóle dostać się do Kolegium, kandydaci muszą przebrnąć przez egzamin wstępny, który dogłębnie sprawdza ich wiedzę akademicką. Jednak nikt, kto przejawia choćby cień talentu magicznego, nie oblewa tego egzaminu. Organizuje się go bowiem wyłącznie po to, aby wyłowić najbystrzejszych uczniów, a resztę podzielić na grupy odpowiadające zasobowi posiadanej przez ucznia wiedzy. O dalszym awansie uczniów decydują wyniki testów praktycznych i teoretycznych. Nieliczni odrzuceni kandydaci kierowani są wraz z listem rekomendacyjnym do Kolegium Światła - Hierofanci stale potrzebują nowych uczniów do śpiewania w chórach. 
+W Kolegium Niebios obowiązuje rygorystyczny program egzaminacyjny. Aby w ogóle dostać się do Kolegium, kandydaci muszą przebrnąć przez egzamin wstępny, który dogłębnie sprawdza ich wiedzę akademicką. Jednak nikt, kto przejawia choćby cień talentu magicznego, nie oblewa tego egzaminu. Organizuje się go bowiem wyłącznie po to, aby wyłowić najbystrzejszych uczniów, a resztę podzielić na grupy odpowiadające zasobowi posiadanej przez ucznia wiedzy. O dalszym awansie uczniów decydują wyniki testów praktycznych i teoretycznych. Nieliczni odrzuceni kandydaci kierowani są wraz z listem rekomendacyjnym do [[Kolegium Światła]] - Hierofanci stale potrzebują nowych uczniów do śpiewania w chórach. 
 
 Uczniowie Kolegium Niebios przydzielani są do wybranego mistrza, któremu mają obowiązek być posłuszni. W [[Altdorf|Altdorfie]], uczniowie przydzielani są na stałe do pokoi w budynku dormitorium. Tam będą sypiać przez większą część swojego terminu. W ramach nauki, pomagają mistrzom w obserwacji nieba. Dzięki temu szybko uczą się posługiwać teleskopami zamontowanymi w obserwatoriach Kolegium. Poza tym, oczekuje się od nich schludności, pracowitości oraz punktualności. 
 
@@ -71,7 +77,7 @@ Chociaż goście Kolegium zazwyczaj podejrzewają, że są stale obserwowani, ta
 
 Na teren Kolegium nie wkradnie się nikt, kto nie jest obdarzony wiedźmim wzrokiem. Jednak nawet czarodzieje z pewnością uruchomiliby jeden z licznych alarmów magicznych. Straż rzadko interweniuje w takich przypadkach. Zazwyczaj włamywacz przypadkiem" wpada na służącego lub czarodzieja, który odprowadza go uprzejmie do wrót, bądź też błądzi i zupełnie nieświadomie opuszcza teren Kolegium innym wyjściem. Czasami nawet służący nie wiedzą, dlaczego nagle skręcają w dany korytarz. Prowadzą ich bowiem zaklęcia arcymagów Kolegium Niebios lub sam Wiatr Azyr układa rzeczy po swojej myśli. 
 
-Czarodziej dysponujący bardzo silnymi zaklęciami ukrycia (na przykład Magister Kolegium Cienia), byłby w stanie prześlizgnąć się pomiędzy ochronnymi zaklęciami Azyr. Jednak spory ruch panujący w Kolegium utrudnia wszelkie skryte działania wywiadowcze. Szpieg bez magicznej osłony prawie natychmiast stanie twarzą w twarz ze wskazującym mu wyjście służącym. 
+Czarodziej dysponujący bardzo silnymi zaklęciami ukrycia (na przykład Magister [[Kolegium Cienia]]), byłby w stanie prześlizgnąć się pomiędzy ochronnymi zaklęciami Azyr. Jednak spory ruch panujący w Kolegium utrudnia wszelkie skryte działania wywiadowcze. Szpieg bez magicznej osłony prawie natychmiast stanie twarzą w twarz ze wskazującym mu wyjście służącym. 
 # Osobistości 
 ## Raphael Julevno, Magister Patriarcha Kolegium Niebios 
 Magister Julevno urodził się w [[Nuln]]. Jest synem aktorki i jak podejrzewała jego matka, najemnika z Ostlandu. Julevno nigdy nie widział swojego ojca. W dwunastym roku życia zaczęły nawiedzać go wizje, przebłyski przyszłych wydarzeń. Czasami była to przyszłość odległa o kilka godzin, innymi razy o kilka tygodni. Gdy Julevno skończył piętnaście lat, wizje nie opuszczały go na krok. Jego matka uznała go za obłąkanego, choć majaczący na jawie chłopiec pozostawał przy zdrowych zmysłach, głównie dzięki niezwykłej sile umysłu. 
