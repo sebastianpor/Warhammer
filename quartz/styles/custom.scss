@@ -66,5 +66,16 @@
         color: var(--secondary);
       }
     }
+	
+	/* Obsługa stylów ITS Theme (cover, hsmall) w Quartz */
+.callout[data-callout="infobox"] img[alt*="cover"] {
+  object-fit: cover; /* Ładne kadrowanie */
+  width: 100%;
+}
+
+.callout[data-callout="infobox"] img[alt*="hsmall"] {
+  max-height: 200px; /* Ogranicz wysokość, jeśli użyto hsmall */
+  object-position: top; /* Pokaż górę zdjęcia (zazwyczaj twarz) */
+}
   }
 }
