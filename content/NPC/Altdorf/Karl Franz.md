@@ -1,6 +1,6 @@
 > [!infobox]
 > # Karl Franz
-> <img src="/Warhammer/karl_franz.webp" alt="cover hsmall" />
+> <img src="/Warhammer/karlfranz.webp" alt="cover hsmall" />
 > 
 > ##### Dane
 > 
