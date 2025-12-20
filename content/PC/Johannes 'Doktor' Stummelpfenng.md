@@ -1,13 +1,13 @@
-*Kuba, **Poprzednie profesje:** [[Lekarz]]; **Aktualna profesja:** [[Paser]]. [[Człowiek]]*  
-**Wiek:** 25  
-**Waga:** 60  
-**Wzrost:** 170  
-**Kolor oczu:** piwny  
-**Kolor włosów:** jasno brązowy  
-**Znak gwiezdny:** 19,   
-**Miejsce urodzenia:** [[Reikland]], [[Altdorf]]  
-**PD Aktualne:** 200 PD  
-**PD Wydane:** 2800 PD  
+*Kuba, **Poprzednie profesje:** [[Lekarz]]; **Aktualna profesja:** [[Paser]]. [[Ludzie]]*
+**Wiek:** 25
+**Waga:** 60
+**Wzrost:** 170
+**Kolor oczu:** piwny
+**Kolor włosów:** jasno brązowy
+**Znak gwiezdny:** 19, 
+**Miejsce urodzenia:** [[Reikland]], [[Altdorf]]
+**PD Aktualne:** 200 PD
+**PD Wydane:** 2800 PD
 
 |   WW   |   US   |   K   |  Odp  |  Zr   |  Int  |  SW   |  Ogd  |
 | :----: | :----: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -18,18 +18,16 @@
 |   1    |   11   |   3   |   3   |   4   |   0   |   0   |   2   |
 |  +1^   | +4^^^^ |   -   |   -   |   -   |   -   |   -   |   -   |
 |   2    |   15   |   4   |   4   |   4   |   0   |   3   |   1   |
-**Umiejętności Podstawowe:** [[Hazard]], [[Plotkowanie]], [[Przekonywanie]], [[Spostrzegawczość]], [[Targowanie]], [[Wycena]], [[Zastraszanie]]  
-**Umiejętności Zaawansowane:** [[Czytanie i pisanie]], [[Leczenie]], [[Wiedza]] ([[Imperium]]), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]]), [[Język]] (klasyczny), [[Wiedza]] (farmacja), [[Zwinne palce]]  
-**Zdolności:** [[Szybki refleks]]^, [[Szósty zmysł]], [[Charyzmatyczny]]^, [[Ogłuszanie]], [[Geniusz arytmetyczny]], [[Żyłka handlowa]]  
-**Pancerz:**   
-**Punkty Pancerza:** Głowa 1, Korpus 3, Ręce 3, Nogi 3  
-**Broń:** [[Broń jednoręczna|Miecz]], [[Sztylet]], [[Tarcza]], [[Kastet]], [[Broń dwuręczna|Miecz dwuręczny]], [[Broń jednoręczna|Srebrny miecz]]  
-**Wyposażenie:**   
-**Pieniądze:**  zk,  s,  p  
-
+**Umiejętności Podstawowe:** [[Hazard]], [[Plotkowanie]], [[Przekonywanie]], [[Spostrzegawczość]], [[Targowanie]], [[Wycena]], [[Zastraszanie]]
+**Umiejętności Zaawansowane:** [[Czytanie i pisanie]], [[Leczenie]], [[Wiedza]] ([[Imperium]]), [[Język]] ([[Imperium#Staroświatowy|Staroświatowy]]), [[Język]] (klasyczny), [[Wiedza]] (farmacja), [[Zwinne palce]]
+**Zdolności:** [[Szybki refleks]]^, [[Szósty zmysł]], [[Charyzmatyczny]]^, [[Ogłuszanie]], [[Geniusz arytmetyczny]], [[Żyłka handlowa]]
+**Pancerz:** 
+**Punkty Pancerza:** Głowa 1, Korpus 3, Ręce 3, Nogi 3
+**Broń:** [[Broń jednoręczna|Miecz]], [[Sztylet]], [[Tarcza]], [[Kastet]], [[Broń dwuręczna|Miecz dwuręczny]], [[Broń jednoręczna|Srebrny miecz]]
+**Wyposażenie:** 
+**Pieniądze:**  zk,  s,  p
 
 Właściciel "[[Ziółka Medyka]]"
-
 
 Johannes wstąpił do wojska bardzo młodo, ledwie po ukończeniu szesnastego roku życia.
 Trafił do **3. Plutonu „Czerwonego Gryfa” w 8. Regimencie Mieczowników Altdorfskich**, gdzie

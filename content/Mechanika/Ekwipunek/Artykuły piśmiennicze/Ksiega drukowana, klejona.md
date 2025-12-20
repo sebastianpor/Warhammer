@@ -8,5 +8,5 @@ Choć ilość ręcznie pisanych ksiąg znacznie zmalała, to nadal są wysoko ce
 
 Przełom nastąpił około pięć lat temu, kiedy Gunthur Johans z [[Middenheim]], wierny wyznawca Sigmara, choć mieszkający w mieście czcicieli Ulryka, wynalazł i zbudował maszynę, którą nazwał prasą drukarską. Jej podstawą są niewielkie klocki, z których wystają odwrócone czcionki liter. Te układane są w słowa i zdania, smarowane tuszem i odciskane na papierze. Pomysł został podchwycony w innych miastach Imperium i teraz udoskonalone prasy drukarskie sprawiają, że iluminowane woluminy odchodzą w zapomnienie. Tylko czarodzieje trzymają się dawnego sposobu kopiowania ksiąg, uważając druk za wynalazek prymitywny i pozbawiony duszy.
 
-**Cena:** 75 zk  
-**Dostępność:** [[Dostępność|Znikoma]]  
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`

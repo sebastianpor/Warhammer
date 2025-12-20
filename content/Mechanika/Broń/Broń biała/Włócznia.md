@@ -16,8 +16,8 @@ Włócznie dobrej jakości mają wzmacniane lub utwardzane w ogniu drzewce oraz 
 
 Włócznie najlepszej jakości posiadają dłuższe stalowe groty, często pokryte runami lub zdobieniami. Także wzmacniane metalowymi tulejami drzewca bywają pokryte napisami lub zdobnymi rysunkami.
 
-**Cena:** 10 zk  
-**Kategoria:** zwykła  
-**Siła broni:** S  
-**Cecha oręża:** [[Szybki]]  
-**Dostępność:** [[Dostępność|Przeciętna]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`

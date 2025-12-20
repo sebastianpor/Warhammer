@@ -10,4 +10,4 @@ Po pasowaniu na rycerza zakonu młodzi wojownicy (i wojowniczki) ruszają na dwu
 **Zdolności:** [[broń specjalna]] (kawaleryjska), [[broń specjalna]] (parująca), [[broń specjalna]] (szermiercza), [[etykieta]], [[morderczy atak]], [[obieżyświat]], [[odwaga]], [[rozbrajanie]]
 **Wyposażenie:** [[tarcza]] albo [[puklerz]], [[rumak]] z siodłem i uprzężą, [[broń jednoręczna]] (miecz) albo [[rapier]], ciężki pancerz ([[Zbroje płytowe#Zbroja płytowa|zbroja płytowa]]), [[kopia]] albo [[lanca]], symbol religijny ([[Myrmidia|Myrmidii]])
 **Profesje wstępne:** [[arystokrata]], [[giermek]], [[kapłan]] ([[Myrmidia|Myrmidii]]), [[rycerz]], [[sierżant]], [[wybraniec boży]] ([[Myrmidia|Myrmidii]])
-**Profesje wyjściowe:** [[akolita]], [[Fechmistrz]], [[mistrz zakonny]], [[odkrywca]], [[oficer]], 
+**Profesje wyjściowe:** [[akolita]], [[Fechtmistrz]], [[mistrz zakonny]], [[odkrywca]], [[oficer]], 

@@ -8,7 +8,7 @@ Grungni przedstawiany jest jako mężczyzna, krasnolud, odziany w łańcuchową 
 Głównym symbolem Grungniego jest kilof, symbolizujący narzędzie, za pomocą którego otworzył podziemny świat dla krasnoludów. Czasami używa się również stylizowanego wizerunku twarzy w hełmie z długą, rozwidloną brodą. Klerycy Grungniego ubierają się w ciemnoszare stroje, a na piersi mają wyhaftowany wizerunek czarnego lub srebrnego kilofa z runą Grungniego.
 
 # **Kult**
-Grungni jest czczony przez Krasnoludy w całym Starym Świecie i [[Rasy/Kraje ludzi/Norska|Norsce]] wraz z przodkami klanów W szczególności czczą go rzemieślnicy i górnicy.
+Grungni jest czczony przez Krasnoludy w całym Starym Świecie i [[Norska|Norsce]] wraz z przodkami klanów W szczególności czczą go rzemieślnicy i górnicy.
 
 Grungni jest jedynym bogiem Krasnoludów najbardziej rozpoznawalnym przez ludzi i mającym najwięcej ludzkich czcicieli w całym Imperium, zwłaszcza wśród rzemieślników, a w [[Nuln]] znajduje się nawet zbudowana przez ludzi świątynia Grungniego.
 
@@ -17,7 +17,7 @@ W mieście Tobaro, Grungni posługuje się tileańską wersją swojego imienia, 
 Ofiarami składanymi Grungniemu są wspaniałe przykłady kamieniarstwa i metaloplastyki oraz zbroje pocztowe.
 
 # **Świątynie**
-Największa świątynia Grungni znajduje się w [[Karak Azul]], największym centrum obróbki metalu w [[Karaz Ankor]]. Najwyższa Świątynia i siedziba kultu Grungniego znajduje się jednak w stolicy [[Karaz-a-Karak]]. Wszystkie inne świątynie są podporządkowane Najwyższej Świątyni. Każdy Krasnoludzki Gród i krasnoludzka osada dowolnej wielkości w Starym Świecie i [[Rasy/Kraje ludzi/Norska|Norsce]] ma swoją własną świątynię Grungni. W Krasnoludzkim Grodzie świątynia ta zazwyczaj przylega do sali audiencyjnej i jest bogato zdobiona i rzeźbiona w sceny z pradawnych krasnoludzkich mitów. Na skraju świątyni posągi Grungniego stoją po obu stronach podium, na którym znajduje się tron otoczony dwiema mównicami. Kamienne ławki ustawione są w schludnych rzędach przed podium. W ludzkich miastach, w których mieszka duża liczba krasnoludów, buduje się podziemne kapliczki Grungniego, zwykle pod lub obok Gildii Krasnoludzkich Inżynierów.
+Największa świątynia Grungni znajduje się w [[Karak Azul]], największym centrum obróbki metalu w [[Karaz Ankor]]. Najwyższa Świątynia i siedziba kultu Grungniego znajduje się jednak w stolicy [[Karaz-a-Karak]]. Wszystkie inne świątynie są podporządkowane Najwyższej Świątyni. Każdy Krasnoludzki Gród i krasnoludzka osada dowolnej wielkości w Starym Świecie i [[Norska|Norsce]] ma swoją własną świątynię Grungni. W Krasnoludzkim Grodzie świątynia ta zazwyczaj przylega do sali audiencyjnej i jest bogato zdobiona i rzeźbiona w sceny z pradawnych krasnoludzkich mitów. Na skraju świątyni posągi Grungniego stoją po obu stronach podium, na którym znajduje się tron otoczony dwiema mównicami. Kamienne ławki ustawione są w schludnych rzędach przed podium. W ludzkich miastach, w których mieszka duża liczba krasnoludów, buduje się podziemne kapliczki Grungniego, zwykle pod lub obok Gildii Krasnoludzkich Inżynierów.
 
 # **Przyjaciele i Wrogowie**
 Kult Grungniego jest sprzymierzony z innymi kultami krasnoludzkiego panteonu oraz z ludzkim kultem [[Sigmar|Sigmara]]. Tolerancyjnie odnosi się do kultów Starej Wiary i [[Niziołki|Niziołków]]. Wobec innych kultów Starego Świata jest neutralny, ale wobec kultów [[Elfy|Elfów]] czuje antypatię. Jak można się było spodziewać, kult Grungni jest wrogo nastawiony do wrogów rasy krasnoludów, zwłaszcza Zielonoskórych i wyznawców Chaosu.

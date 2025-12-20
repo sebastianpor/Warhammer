@@ -4,5 +4,5 @@ Dostępność: "[[Dostępność|Przeciętna]]"
 ---
 Zwykłe drewniane klamerki, które mają utrzymać na sznurku suszące się pranie.
 
-**Cena:** 1 s  
-**Dostępność:** [[Dostępność|Przeciętna]]  
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`

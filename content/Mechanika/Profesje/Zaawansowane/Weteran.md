@@ -9,4 +9,4 @@ Wśród zawodowych żołnierzy i najemników zdarzają się osobnicy, którzy ni
 **Zdolności:** [[Błyskawiczne przeładowanie]] albo [[Morderczy atak]], [[Broń specjalna]] (dowolne dwie), [[Niezwykle odporny]] albo [[Bardzo silny]], [[Strzał precyzyjny]] albo [[Silny cios]]
 **Wyposażenie:**  dwie sztuki broni, średni pancerz ([[Zbroje kolcze#Zbroja kolcza|Zbroja kolcza]]), butelka spiritusu lub gorzałki najlepszej jakości
 **Profesje wstępne:** [[Mistrz Run]], [[Banita]], [[Berserker z Norski]], [[Biczownik]], [[Giermek]], [[Gladiator]], [[Goniec]], [[Kozak Kislevski]], [[Najemnik]], [[Rajtar]], [[Tarczownik]], [[Mechanika/Profesje/Zaawansowane/Wojownik klanowy|Wojownik klanowy]], [[Żołnierz]]
-**Profesje wyjściowe:** [[Fechmistrz]], [[Herszt Banitów]], [[Sierżant]], [[Strzelec]], [[Szampierz]]
+**Profesje wyjściowe:** [[Fechtmistrz]], [[Herszt Banitów]], [[Sierżant]], [[Strzelec]], [[Szampierz]]

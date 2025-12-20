@@ -9,8 +9,8 @@ Tarcza służy do blokowania wrogich ciosów, a czasem do uderzenia lub odepchni
 
 Tarcza stanowi doskonałe miejsce do umieszczenia własnego herbu, barw prowincji lub władcy. Jak wspomniano w Rozdziale II: Opancerzenie, na tarczach umieszcza się także symbole religijne, godła prowincji, a także rodowe zawołania i inwokacje do bóstw. Wojownicy używający drewnianych tarcz przybijają do nich zwoje z modlitwą o ochronę w walce, wierząc że dzięki temu bogowie będą sprzyjać im w bitwie. Inni noszą na tarczy pieczęć czystości. Jest to odciśnięty w rozgrzanym wosku symbol religijny lub znak wierności władcy. Orki i barbarzyńcy ozdabiają tarcze szczątkami ciał pokonanych wrogów, licząc na to, że wzbudzi to strach w przeciwniku.
 
-**Cena:** 10 zk  
-**Kategoria:** zwykła  
-**Siła broni:** S-2  
-**Cecha oręża:** [[Parujący]], [[Specjalny]]  
-**Dostępność:** [[Dostępność|Przeciętna]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`

@@ -13,9 +13,9 @@ Kije dobrej jakości pośrodku drzewca owinięte są skórzanymi paskami, tworz�
 
 Kije najlepszej jakości mają metalowe (z brązu lub mosiądzu) nasadki na obu końcach, które zapobiegają rozszczepianiu się drewna. Mają uchwyt ze zmoczonych rzemieni, które po wyschnięciu ściśle oplatają drzewce, zapobiegając ślizganiu się dłoni. Niekiedy wzmacniane są metalowymi tulejami lub obejmami, co zwiększa siłę uderzenia i wytrzymałość broni.
 
-**Cena:** 3 s  
-**Kategoria:** zwykła  
-**Siła broni:** S-2  
-**Cecha oręża:** [[Ogłuszający]], [[Parujący]]  
-**Dostępność:** [[Dostępność|Duża]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`
 

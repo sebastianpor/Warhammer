@@ -3,8 +3,8 @@ Cena: 500 zk
 Dostępność: "[[Dostępność|Sporadyczna]]"
 ---
 Rumaki to ciężkie konie bojowe, wykorzystywane głównie przez rycerzy zakonnych i pancerną konnicę. Podczas walki atakują gryząc i kopiąc. Są tresowane do noszenia ladrów lub ciężkich kropierzy.
-**Cena:** 500 zk  
-**Dostępność:** [[Dostępność|Sporadyczna]]  
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`
 
 |  WW   |   US    |   K   |  Odp   |   Zr   |   Int   |   SW   |  Ogd   |
 | :---: | :-----: | :---: | :----: | :----: | :-----: | :----: | :----: |

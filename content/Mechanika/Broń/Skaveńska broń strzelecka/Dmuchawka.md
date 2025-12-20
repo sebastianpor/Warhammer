@@ -11,10 +11,10 @@ Skrytobójcy z klanu [[Skaveny#Eshin|Eshin]] używają tych prostych, lakierowan
 
 Skrytobójcy [[Skaveny#Eshin|Eshin]] wykorzystują dmuchawki nie tylko jako broń. Umożliwiają one także oddychanie, gdy skaveny ukrywają się pod powierzchnią stawu, jeziora lub strumyka.
 
-**Cena:** 2 zk  
-**Kategoria:** Dmuchawka  
-**Siła broni:** 0  
-**Zasięg:** 8/16  
-**Przeładowanie:** [[Akcja]]  
-**Cecha oręża:** brak  
-**Dostępność:** [[Dostępność|Znikoma]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Zasięg:** `=this.Zasięg`
+**Przeładowanie:** `=this.Przeładowanie`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`

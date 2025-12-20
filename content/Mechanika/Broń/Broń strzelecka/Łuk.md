@@ -9,10 +9,10 @@ Dostępność: "[[Dostępność|Przeciętna]]"
 ---
 
 
-**Cena:** 10 zk  
-**Kategoria:** zwykła  
-**Siła broni:** 3  
-**Zasięg:** 24/48  
-**Przeładowanie:** [[Akcja]]  
-**Cecha oręża:** brak  
-**Dostępność:** [[Dostępność|Przeciętna]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Zasięg:** `=this.Zasięg`
+**Przeładowanie:** `=this.Przeładowanie`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`

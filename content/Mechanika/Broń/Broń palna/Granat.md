@@ -18,10 +18,10 @@ Jest to ceramiczna, gliniana lub wykonana z cienkiego metalu puszka wypełniona 
 | 7   | 8       | 9   |
 
 
-**Cena:** 75 zk  
-**Kategoria:** wybuchowa  
-**Siła broni:** 6  
-**Zasięg:** 4/20  
-**Przeładowanie:** -  
-**Cecha oręża:** [[Eksperymentalny]], [[Zawodny]]  
-**Dostępność:** [[Dostępność|Znikoma]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Zasięg:** `=this.Zasięg`
+**Przeładowanie:** `=this.Przeładowanie`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`

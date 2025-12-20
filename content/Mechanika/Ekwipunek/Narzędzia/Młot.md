@@ -4,5 +4,5 @@ Dostępność: "[[Dostępność|Przeciętna]]"
 ---
 Solidna metalowa głownia osadzona na drewnianym drągu. W walce może być użyty jako dwuręczna [[Broń improwizowana|broń improwizowana]].
 
-**Cena:** 2 zk  
-**Dostępność:** [[Dostępność|Przeciętna]]  
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`

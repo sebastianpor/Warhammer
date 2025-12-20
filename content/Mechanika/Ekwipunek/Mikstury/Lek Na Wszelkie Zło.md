@@ -3,9 +3,9 @@ Cena: 18 s
 Dostępność: "[[Dostępność|Przeciętna]]"
 Trudność_Ważenia: Prosty
 ---
-**Cena:** 18 s  
-**Dostępność:** [[Dostępność|Przeciętna]]  
-**Trudność ważenia:** Prosty  
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`
+**Trudność ważenia:** `=this.Trudność_Ważenia`
 **Opis**: W Starym Świecie znachorzy i cyrulicy potrafią sporządzić lek na niemal każdy rodzaj choroby, choć nie zawsze preparaty działają zgodnie z zamierzonym efektem. Z oferty rozmaitych, łatwo dostępnych medykamentów największy rozgłos zdobyła mikstura znanej aptekarki - Mamy Melchin. Wśród pospólstwa cieszy się opinią leku na wszelkie dolegliwości, złe duchy i fluidy, a nawet skutecznie usuwającego kurzajki.
 Trudno jednak stwierdzić, jakie efekty uboczne może wywoływać ten specyfik. Po spożyciu mikstury należy sprawdzić jej efekt w Tabeli.
 

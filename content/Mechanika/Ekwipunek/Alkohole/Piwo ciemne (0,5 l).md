@@ -6,5 +6,5 @@ Ciemne piwo (zwane także ale) pozyskiwane jest z pszenicy i jęczmienia, z doda
 
 Najsłynniejszym piwem jest „Zhufbarskie Ale", nazwane od sławnego miasta krasnoludów, położonego w Górach Krańca Świata. Jeden kufelek tego mocnego trunku liczy się za dwie wypite dawki innych alkoholi (patrz „Efekty spożycia alkoholu"). Wielu piwowarów z Marienburga przejęło od Bretończyków ich sposoby warzenia piwa, czego wynikiem są doskonałe, smaczne i wspaniale pachnące piwa, z których słyną okoliczne karczmy. Pomiędzy nimi wyróżnia się „Bladosz Marienburgski". Jego przeciwieństwem jest „Przysmak Talabheimski", zwany także „Trollim Sikaczem", „Gorzkim Piwskiem” lub „Glebogrzmotem". Według krążących plotek, swój metaliczny, ohydny posmak zawdzięcza temu, że do jego produkcji piwowarzy wykorzystują wodę z rzeki Talabek, czerpiąc ją z ujęcia znajdującego się za miastem, przez które rzeka zdążyła już przepłynąć. Prawdziwości tej opowieści nie potwierdzono.
 
-**Cena:** 2 p  
-**Dostępność:** [[Dostępność|Duża]]  
+**Cena:** `=this.Cena`
+**Dostępność:** `=this.Dostępność`

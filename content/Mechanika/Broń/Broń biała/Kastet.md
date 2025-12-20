@@ -19,8 +19,8 @@ Poniżej opisano specyficzne rodzaje broni ręcznej. W nawiasie podano jakość 
 
 **Napięściak (przeciętna-dobra):** Jest to zwykła skórzana lub materiałowa opaska owijana wokół dłoni i wzmacniana metalowymi płytkami lub zwykłymi monetami. Niektóre napięściaki lepszej jakości mają formę metalowej obejmy z ostrymi kolcami lub ostrzami. Taka broń znana jest także jako cestus.
 
-**Cena:** 1 zk  
-**Kategoria:** zwykła  
-**Siła broni:** S-3  
-**Cecha oręża:** [[Ogłuszający]]  
-**Dostępność:** [[Dostępność|Przeciętna]]  
+**Cena:** `=this.Cena`
+**Kategoria:** `=this.Kategoria`
+**Siła broni:** `=this.Siła_broni`
+**Cecha oręża:** `=this.Cecha_oręża`
+**Dostępność:** `=this.Dostępność`
