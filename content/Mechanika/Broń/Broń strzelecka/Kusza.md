@@ -17,10 +17,10 @@ Kusze dobrej jakości wyrabiane są przede wszystkim w Nuln. Mają stalowe windy
 
 Kusze najlepszej jakości mają rzeźbione kolby, ozdobione wizerunkami gryfów, smoków i innych legendarnych stworzeń.
 
-**Cena:** `=this.Cena`
-**Kategoria:** `=this.Kategoria`
-**Siła broni:** `=this.Siła_broni`
-**Zasięg:** `=this.Zasięg`
-**Przeładowanie:** `=this.Przeładowanie`
-**Cecha oręża:** `=this.Cecha_oręża`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 25 zk  
+**Kategoria:** zwykła  
+**Siła broni:** 4  
+**Zasięg:** 30/60  
+**Przeładowanie:** [[Runda]]  
+**Cecha oręża:** brak  
+**Dostępność:** [[Dostępność|Mała]]  

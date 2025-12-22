@@ -4,5 +4,5 @@ Dostępność: "[[Dostępność|Powszechna]]"
 ---
 Jasne piwo to najczęstszy napitek, który gasi pragnienie dręczące podróżników. Większość oberży lub przydrożnych zajazdów szczyci się piwnicami pełnymi beczułek jasnego piwa, które ma tę przewagę nad ciemnym, że może dłużej stać zamknięte i przy tym nie zepsuje się. Jasne piwo warzy się z chmielu, a browary można spotkać w każdym zakątku Imperium. Prawda jest taka, że browarów, które specjalizują się w ciemnym piwie jest dwa razy mniej, niż tych produkujących jasne. Można zakupić kilka rodzajów piwa, są to: bock, jasne, ciemne, lager, pilzner, porter i mocne. Najbardziej znanym jasnym piwem Imperium jest „Królewskie Korbela", mocne piwo z krasnoludzkiego browaru, które swój smak zawdzięcza łagodnemu słodowi, prażonemu jęczmieniowi oraz karmelowi. Innym popularnym trunkiem jest „Lager Seamusa", którego delikatny, świeży aromat i brak gorzkawego posmaku zyskały wielu zwolenników. Najszerzej znanym (co nie oznacza lubianym) piwem jest „Świniarczyk Keigela", warzony przez niziołki w samym sercu [[Kraina Zgromadzenia|Krainy Zgromadzenia]]. Tylko najgorsze menele lub umierające z pragnienia niziołki zniżą się do wychylenia szklanki tego sikacza. Co gorsza, sensacje związane z tym trunkiem nie kończą się na podłym smaku. Często efekty alkoholu są odczuwalne jeszcze następnego dnia, a „smakosze" wymiotują jak nowo narodzone kocięta.
 
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 1 p  
+**Dostępność:** [[Dostępność|Powszechna]]  

@@ -3,8 +3,8 @@ Cena: 80 zk
 Dostępność: "[[Dostępność|Przeciętna]]"
 ---
 Konie wierzchowe, zwane też podjezdkami, to popularne wierzchowce podróżne rycerzy i szlachty Imperium. Najwspanialsze okazy, a przy tym obdarzone najbardziej ognistym temperamentem, pochodzą z Arabii, a ceny za sztukę bywają czasem dziesięciokrotnie wyższe, niż za zwykłego konia.
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 80 zk  
+**Dostępność:** [[Dostępność|Przeciętna]]  
 
 |  WW   |   US    |   K   |  Odp   |   Zr   |   Int   |   SW   |  Ogd   |
 | :---: | :-----: | :---: | :----: | :----: | :-----: | :----: | :----: |

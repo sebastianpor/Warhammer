@@ -4,5 +4,5 @@ Dostępność: "[[Dostępność|Duża]]"
 ---
 Zestaw sztućców składa się z łyżki, widelca i noża. Zwykle używa się drewnianych, ale zamożniejsi mogą kupić metalowe lub srebrne komplety.
 
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 5 s  
+**Dostępność:** [[Dostępność|Duża]]  

@@ -6,5 +6,5 @@ Wabik służy do przywoływania zwierzyny. Jego wygląd i wydawane dźwięki ró
 
 **Przykład:** *Johann poluje na kaczki. MG, biorąc pod uwagę okolicę i porę roku, uznaje, że będzie to zadanie Wymagające (-10). Ponieważ myśliwy używa wabika zwyczajnej jakości, ma 75% szans na obniżenie trudności testu [[Sztuka przetrwania|sztuki przetrwania]]. Gracz rzuca kostkami i okazuje się, że wabik zadziałał, teraz musi się tylko powieść Przeciętny (+0) test sztuki przetrwania i Johann będzie się delektował pieczoną kaczką na obiad.*
 
-**Cena:** `=this.Cena`
-**Dostępność:** `=this.Dostępność`
+**Cena:** 25 s  
+**Dostępność:** [[Dostępność|Przeciętna]]  
